@@ -3,11 +3,27 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>完成刷題</title>
+  <title>作答結果</title>
+
   <style>
+    :root {
+      --bg: #0f1419;
+      --card: #1b2228;
+      --text: #d6dde3;
+      --muted: #9aa4ad;
+      --ok: #7ec699;
+      --ng: #e07a7a;
+      --border: #2c343c;
+      --button: #3a6ea5;
+      --button-hover: #2f5f8f;
+      --home: #555f6b;
+      --home-hover: #4b5560;
+    }
+
     body {
       margin: 0;
-      background: #f4f7f5;
+      background: var(--bg);
+      color: var(--text);
       font-family: system-ui, -apple-system, "Segoe UI", Arial, sans-serif;
       display: flex;
       justify-content: center;
@@ -16,58 +32,128 @@
     }
 
     .card {
-      background: white;
-      padding: 32px;
-      border-radius: 16px;
-      text-align: center;
-      box-shadow: 0 8px 24px rgba(0,0,0,0.06);
-      width: min(90%, 420px);
+      background: var(--card);
+      max-width: 760px;
+      width: 92%;
+      padding: 36px 40px;
+      border-radius: 18px;
+      box-shadow: 0 20px 40px rgba(0,0,0,0.45);
+      border: 1px solid var(--border);
     }
 
-    h2 {
-      margin-top: 0;
-      color: #2f3e36;
+    h3 {
+      line-height: 1.6;
+      margin-bottom: 22px;
+      font-weight: 600;
     }
 
-    p {
-      color: #4f5d56;
-      font-size: 18px;
-      margin: 12px 0 0;
+    .answer-block {
+      margin-top: 8px;
+      font-size: 16px;
     }
 
-    .actions {
-      margin-top: 20px;
+    .ok {
+      color: var(--ok);
+      font-weight: 700;
+      margin-top: 14px;
+    }
+
+    .ng {
+      color: var(--ng);
+      font-weight: 700;
+      margin-top: 14px;
+    }
+
+    .correct-text {
+      color: var(--ok);
+      font-weight: 600;
+    }
+
+    .wrong-text {
+      color: var(--ng);
+      font-weight: 600;
+    }
+
+    .explain {
+      margin-top: 24px;
+      padding: 18px 20px;
+      background: #222b33;
+      border-radius: 14px;
+      border: 1px solid var(--border);
+      line-height: 1.7;
+      white-space: pre-line;
+    }
+
+    .score {
+      margin-top: 18px;
+      color: var(--muted);
+      font-size: 14px;
+    }
+
+    .btn-row {
       display: flex;
       gap: 12px;
-      justify-content: center;
+      margin-top: 28px;
       flex-wrap: wrap;
     }
 
     button {
-      display: inline-block;
-      margin-top: 12px;
-      padding: 10px 18px;
+      padding: 14px 30px;
+      font-size: 16px;
+      border-radius: 14px;
       border: none;
-      border-radius: 10px;
-      background: #5f7c6d;
-      color: white;
-      font-size: 15px;
+      background: var(--button);
+      color: #eaf2f8;
       cursor: pointer;
+      transition: background 0.2s, transform 0.05s;
     }
 
     button:hover {
-      background: #4f685b;
+      background: var(--button-hover);
+    }
+
+    button:active {
+      transform: translateY(1px);
+    }
+
+    .home-btn {
+      background: var(--home);
+    }
+
+    .home-btn:hover {
+      background: var(--home-hover);
     }
   </style>
 </head>
+
 <body>
   <div class="card">
-    <h2 id="finish-title">🎉 完成</h2>
-    <p id="finish-score">答對 0 / 0 題</p>
+    <h3 id="result-question">題目載入中...</h3>
 
-    <div class="actions">
-      <button type="button" onclick="restartDay()">重新做一次</button>
-      <button type="button" onclick="goHome()">回到選擇頁</button>
+    <div class="answer-block">
+      你的答案：
+      <span id="user-answer-text" class="wrong-text">-</span>
+    </div>
+
+    <div class="answer-block">
+      正確答案：
+      <span id="correct-answer-text" class="correct-text">-</span>
+    </div>
+
+    <div id="result-status" class="ok">✅ 答對</div>
+
+    <div class="explain">
+      <b>詳解：</b><br>
+      <span id="result-explanation">載入中...</span>
+    </div>
+
+    <div class="score" id="result-score">
+      目前得分：0 / 0
+    </div>
+
+    <div class="btn-row">
+      <button type="button" onclick="nextQuestion()">下一題</button>
+      <button type="button" class="home-btn" onclick="goHome()">回首頁</button>
     </div>
   </div>
 
