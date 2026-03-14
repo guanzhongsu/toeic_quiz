@@ -1,4 +1,5 @@
 const QUESTIONS_FILE = "./questions.json";
+
 const STORAGE_KEYS = {
   quizState: "quizState",
   resultData: "resultData"
@@ -30,10 +31,12 @@ async function loadQuestions() {
   if (!res.ok) {
     throw new Error("無法讀取 questions.json");
   }
+
   const data = await res.json();
   if (!Array.isArray(data)) {
     throw new Error("questions.json 格式錯誤，最外層應為陣列");
   }
+
   return data;
 }
 
@@ -75,9 +78,29 @@ function escapeHtml(str) {
     .replaceAll("'", "&#39;");
 }
 
+function goToPage(pageName) {
+  window.location.href = pageName;
+}
+
+function getPageName() {
+  const path = window.location.pathname;
+  const file = path.split("/").pop();
+  return file || "index.html";
+}
+
+function getCurrentQuestion(state) {
+  if (!state || !Array.isArray(state.order)) return null;
+  if (state.idx < 0 || state.idx >= state.order.length) return null;
+
+  const qIndex = state.order[state.idx];
+  return questions[qIndex] || null;
+}
+
 /* =========================
-   Flask index() 對應邏輯
+   流程邏輯（對應 Flask）
 ========================= */
+
+// 對應 Flask: 使用者選擇 Day 後建立 session
 function startDay(day) {
   const selectedDay = String(day || "").trim();
   if (!selectedDay) return;
@@ -103,20 +126,11 @@ function startDay(day) {
 
   saveState(state);
   sessionStorage.removeItem(STORAGE_KEYS.resultData);
-  window.location.href = "index.html";
+
+  goToPage("index.html");
 }
 
-function getCurrentQuestion(state) {
-  if (!state || !Array.isArray(state.order)) return null;
-  if (state.idx < 0 || state.idx >= state.order.length) return null;
-
-  const qIndex = state.order[state.idx];
-  return questions[qIndex] || null;
-}
-
-/* =========================
-   Flask submit() 對應邏輯
-========================= */
+// 對應 Flask: submit() -> render_template("result.html")
 function submitAnswer(userAnswerRaw) {
   const state = getState();
   if (!state) {
@@ -159,12 +173,12 @@ function submitAnswer(userAnswerRaw) {
   };
 
   saveResultData(resultPayload);
-  window.location.href = "result.html";
+
+  // 這裡一定先去結果頁看解析
+  goToPage("result.html");
 }
 
-/* =========================
-   Flask /next 對應邏輯
-========================= */
+// 對應 Flask: /next -> idx + 1 -> redirect(index)
 function nextQuestion() {
   const state = getState();
   if (!state || !Array.isArray(state.order)) {
@@ -176,19 +190,19 @@ function nextQuestion() {
   saveState(state);
   sessionStorage.removeItem(STORAGE_KEYS.resultData);
 
+  // 對應 Flask index():
+  // idx >= len(order) -> finish.html
+  // 否則 -> index.html
   if (state.idx >= state.order.length) {
-    window.location.href = "finish.html";
+    goToPage("finish.html");
   } else {
-    window.location.href = "index.html";
+    goToPage("index.html");
   }
 }
 
-/* =========================
-   Flask /home 與 /reset 對應邏輯
-========================= */
 function goHome() {
   clearState();
-  window.location.href = "select_day.html";
+  goToPage("select_day.html");
 }
 
 function restartDay() {
@@ -204,7 +218,7 @@ function restartDay() {
   saveState(state);
   sessionStorage.removeItem(STORAGE_KEYS.resultData);
 
-  window.location.href = "index.html";
+  goToPage("index.html");
 }
 
 /* =========================
@@ -230,12 +244,8 @@ function initSelectDayPage() {
     .map(day => `<option value="${escapeHtml(day)}">${escapeHtml(day)}</option>`)
     .join("");
 
-  if (hint) {
-    hint.textContent = `目前共有 ${days.length} 個 Day 可供練習。`;
-  }
-  if (error) {
-    error.textContent = "";
-  }
+  if (hint) hint.textContent = `目前共有 ${days.length} 個 Day 可供練習。`;
+  if (error) error.textContent = "";
 
   form.addEventListener("submit", function (e) {
     e.preventDefault();
@@ -257,13 +267,16 @@ function initQuestionPage() {
   if (!metaEl || !textEl || !choicesEl || !form) return;
 
   const state = getState();
+
+  // 對應 Flask index(): 若 session 不完整就回首頁
   if (!state || !state.day || !Array.isArray(state.order) || !state.order.length) {
     goHome();
     return;
   }
 
+  // 對應 Flask index(): 題目做完才顯示 finish
   if (state.idx >= state.order.length) {
-    window.location.href = "finish.html";
+    goToPage("finish.html");
     return;
   }
 
@@ -296,11 +309,13 @@ function initQuestionPage() {
 
   form.addEventListener("submit", function (e) {
     e.preventDefault();
-    const checked = document.querySelector('input[name="answer"]:checked');
+
+    const checked = form.querySelector('input[name="answer"]:checked');
     if (!checked) {
       alert("請先選擇答案。");
       return;
     }
+
     submitAnswer(checked.value);
   });
 }
@@ -321,6 +336,7 @@ function initResultPage() {
   const state = getState();
   const r = getResultData();
 
+  // result.html 必須有 state 與 resultData
   if (!state || !r) {
     goHome();
     return;
@@ -370,14 +386,8 @@ function initFinishPage() {
 }
 
 /* =========================
-   自動判斷目前頁面並初始化
+   主初始化
 ========================= */
-function getPageName() {
-  const path = window.location.pathname;
-  const file = path.split("/").pop();
-  return file || "index.html";
-}
-
 async function initApp() {
   try {
     questions = await loadQuestions();
