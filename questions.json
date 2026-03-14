@@ -1,0 +1,2718 @@
+[
+  {
+    "id": 1,
+    "day": "Day1",
+    "topic": "TOEIC-vocab",
+    "question": "Please attach your ______ when applying for the position.",
+    "choices": {
+      "A": "confidence",
+      "B": "resume",
+      "C": "interview",
+      "D": "reference"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】申請該職位時，請附上你的履歷。\n【原因】attach 表示附上文件，履歷 resume 是求職必備文件。\n【排除】confidence 與 interview 不是文件；reference 通常後續提供。"
+  },
+  {
+    "id": 2,
+    "day": "Day1",
+    "topic": "TOEIC-vocab",
+    "question": "The company announced a job ______ for a marketing assistant.",
+    "choices": {
+      "A": "opening",
+      "B": "candidate",
+      "C": "training",
+      "D": "achievement"
+    },
+    "answer": "A",
+    "explanation": "【翻譯】公司宣布了一個行銷助理的職缺。\n【原因】job opening 是固定搭配，表示職缺。\n【排除】candidate 是人，其餘語意不符。"
+  },
+  {
+    "id": 3,
+    "day": "Day1",
+    "topic": "TOEIC-vocab",
+    "question": "Each ______ must submit an application form.",
+    "choices": {
+      "A": "applicant",
+      "B": "position",
+      "C": "reference",
+      "D": "training"
+    },
+    "answer": "A",
+    "explanation": "【翻譯】每位申請者都必須提交申請表。\n【原因】applicant 指申請工作的人。\n【排除】其他皆非人。"
+  },
+  {
+    "id": 4,
+    "day": "Day1",
+    "topic": "TOEIC-vocab",
+    "question": "All employees must meet the company’s safety ______.",
+    "choices": {
+      "A": "requirements",
+      "B": "confidence",
+      "C": "interviews",
+      "D": "positions"
+    },
+    "answer": "A",
+    "explanation": "【翻譯】所有員工都必須符合公司的安全規定。\n【原因】meet the requirements 是固定搭配。\n【排除】其餘語意不通。"
+  },
+  {
+    "id": 5,
+    "day": "Day1",
+    "topic": "TOEIC-vocab",
+    "question": "She did not ______ the necessary qualifications for the job.",
+    "choices": {
+      "A": "hire",
+      "B": "meet",
+      "C": "identify",
+      "D": "impress"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】她未符合該工作的必要資格。\n【原因】meet qualifications 表示符合資格。\n【排除】其他動詞語意不同。"
+  },
+  {
+    "id": 6,
+    "day": "Day1",
+    "topic": "TOEIC-vocab",
+    "question": "She is highly ______ for the position.",
+    "choices": {
+      "A": "confidence",
+      "B": "qualified",
+      "C": "profession",
+      "D": "reference"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】她非常符合該職位資格。\n【原因】highly + 形容詞；highly qualified 是固定搭配。\n【排除】其他為名詞。"
+  },
+  {
+    "id": 7,
+    "day": "Day1",
+    "topic": "TOEIC-vocab",
+    "question": "The ______ performed well in the interview.",
+    "choices": {
+      "A": "candidate",
+      "B": "position",
+      "C": "reference",
+      "D": "training"
+    },
+    "answer": "A",
+    "explanation": "【翻譯】該候選人在面試中表現良好。\n【原因】candidate 指應徵者。\n【排除】其他非人。"
+  },
+  {
+    "id": 8,
+    "day": "Day1",
+    "topic": "TOEIC-vocab",
+    "question": "The speaker showed great ______ during the presentation.",
+    "choices": {
+      "A": "confidence",
+      "B": "position",
+      "C": "reference",
+      "D": "training"
+    },
+    "answer": "A",
+    "explanation": "【翻譯】演講者在簡報中展現極大的自信。\n【原因】show confidence 為固定搭配。"
+  },
+  {
+    "id": 9,
+    "day": "Day1",
+    "topic": "TOEIC-vocab",
+    "question": "She is ______ recommended by her former supervisor.",
+    "choices": {
+      "A": "highly",
+      "B": "excellent",
+      "C": "eligible",
+      "D": "impressed"
+    },
+    "answer": "A",
+    "explanation": "【翻譯】她受到前主管高度推薦。\n【原因】highly 為副詞，修飾 recommended。"
+  },
+  {
+    "id": 10,
+    "day": "Day1",
+    "topic": "TOEIC-vocab",
+    "question": "He always maintains a ______ attitude at work.",
+    "choices": {
+      "A": "professional",
+      "B": "excellent",
+      "C": "eligible",
+      "D": "confident"
+    },
+    "answer": "A",
+    "explanation": "【翻譯】他在工作中始終保持專業態度。\n【原因】professional attitude 為常見搭配。"
+  },
+  {
+    "id": 11,
+    "day": "Day1",
+    "topic": "TOEIC-vocab",
+    "question": "She was nervous before the ______.",
+    "choices": {
+      "A": "training",
+      "B": "interview",
+      "C": "position",
+      "D": "achievement"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】她在面試前感到緊張。\n【原因】interview 為求職流程的一部分。"
+  },
+  {
+    "id": 12,
+    "day": "Day1",
+    "topic": "TOEIC-vocab",
+    "question": "The company plans to ______ new employees.",
+    "choices": {
+      "A": "hire",
+      "B": "meet",
+      "C": "identify",
+      "D": "train"
+    },
+    "answer": "A",
+    "explanation": "【翻譯】公司計畫雇用新員工。\n【原因】hire 表示實際雇用。"
+  },
+  {
+    "id": 13,
+    "day": "Day1",
+    "topic": "TOEIC-vocab",
+    "question": "New staff must complete job ______.",
+    "choices": {
+      "A": "training",
+      "B": "reference",
+      "C": "interview",
+      "D": "position"
+    },
+    "answer": "A",
+    "explanation": "【翻譯】新進員工必須完成職前訓練。\n【原因】job training 為固定用語。"
+  },
+  {
+    "id": 14,
+    "day": "Day1",
+    "topic": "TOEIC-vocab",
+    "question": "Please provide two professional ______.",
+    "choices": {
+      "A": "references",
+      "B": "positions",
+      "C": "candidates",
+      "D": "achievements"
+    },
+    "answer": "A",
+    "explanation": "【翻譯】請提供兩位專業推薦人。\n【原因】provide references 為標準求職用語。"
+  },
+  {
+    "id": 15,
+    "day": "Day1",
+    "topic": "TOEIC-vocab",
+    "question": "She applied for a management ______.",
+    "choices": {
+      "A": "position",
+      "B": "opening",
+      "C": "training",
+      "D": "reference"
+    },
+    "answer": "A",
+    "explanation": "【翻譯】她申請了一個管理職位。\n【原因】apply for a position 為固定搭配。"
+  },
+  {
+    "id": 16,
+    "day": "Day1",
+    "topic": "TOEIC-vocab",
+    "question": "Winning the award was a major career ______.",
+    "choices": {
+      "A": "achievement",
+      "B": "position",
+      "C": "reference",
+      "D": "interview"
+    },
+    "answer": "A",
+    "explanation": "【翻譯】獲獎是職涯中的一大成就。\n【原因】career achievement 為常見用法。"
+  },
+  {
+    "id": 17,
+    "day": "Day1",
+    "topic": "TOEIC-vocab",
+    "question": "The interviewer was ______ by her performance.",
+    "choices": {
+      "A": "eligible",
+      "B": "impressed",
+      "C": "qualified",
+      "D": "identified"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】面試官對她的表現印象深刻。\n【原因】be impressed by 為固定搭配。"
+  },
+  {
+    "id": 18,
+    "day": "Day1",
+    "topic": "TOEIC-vocab",
+    "question": "He received an ______ evaluation.",
+    "choices": {
+      "A": "excellent",
+      "B": "eligible",
+      "C": "professional",
+      "D": "qualified"
+    },
+    "answer": "A",
+    "explanation": "【翻譯】他獲得了極佳的評價。\n【原因】excellent 用來形容評價結果。"
+  },
+  {
+    "id": 19,
+    "day": "Day1",
+    "topic": "TOEIC-vocab",
+    "question": "Only legally ______ applicants may apply.",
+    "choices": {
+      "A": "eligible",
+      "B": "qualified",
+      "C": "confident",
+      "D": "professional"
+    },
+    "answer": "A",
+    "explanation": "【翻譯】只有合法具備資格的申請者才能申請。\n【原因】eligible to apply 為法律與招募常用語。"
+  },
+  {
+    "id": 20,
+    "day": "Day1",
+    "topic": "TOEIC-vocab",
+    "question": "The manager needs to ______ suitable candidates.",
+    "choices": {
+      "A": "identify",
+      "B": "hire",
+      "C": "meet",
+      "D": "train"
+    },
+    "answer": "A",
+    "explanation": "【翻譯】經理需要找出合適的候選人。\n【原因】identify 表示辨識、找出。"
+  },
+  {
+  "id": 101,
+  "day": "Day1_2",
+  "topic": "TOEIC-vocab",
+  "question": "Many people ______ the brand with high quality products.",
+  "choices": {
+    "A": "associate",
+    "B": "approach",
+    "C": "revise",
+    "D": "arrange"
+  },
+  "answer": "A",
+  "explanation": "【翻譯】許多人將這個品牌與高品質產品聯想在一起。\n【為何選 A】associate A with B 表示「把 A 與 B 聯想在一起」，是固定搭配。\n【文法重點】associate + 受詞 + with + 名詞。\n【排除】approach 是接近；revise 是修改；arrange 是安排，都不符合語意。"
+  },
+  {
+    "id": 102,
+    "day": "Day1_2",
+    "topic": "TOEIC-vocab",
+    "question": "The job offer is subject to certain ______.",
+    "choices": {
+      "A": "benefits",
+      "B": "conditions",
+      "C": "occupations",
+      "D": "appeals"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】這份工作邀約需符合特定條件。\n【原因】subject to conditions 是固定搭配。"
+  },
+  {
+    "id": 103,
+    "day": "Day1_2",
+    "topic": "TOEIC-vocab",
+    "question": "He has over ten years of ______ experience in finance.",
+    "choices": {
+      "A": "occupation",
+      "B": "employment",
+      "C": "certification",
+      "D": "degree"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】他在金融業有超過十年的就業經驗。\n【原因】employment 指就業或受雇經歷。"
+  },
+  {
+    "id": 104,
+    "day": "Day1_2",
+    "topic": "TOEIC-vocab",
+    "question": "He was rejected due to a ______ of relevant experience.",
+    "choices": {
+      "A": "appeal",
+      "B": "lack",
+      "C": "condition",
+      "D": "degree"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】他因缺乏相關經驗而被拒絕。\n【原因】lack of 表示缺乏，是高頻片語。"
+  },
+  {
+    "id": 105,
+    "day": "Day1_2",
+    "topic": "TOEIC-vocab",
+    "question": "She has strong ______ skills.",
+    "choices": {
+      "A": "technical",
+      "B": "managerial",
+      "C": "clerical",
+      "D": "academic"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】她具備優秀的管理能力。\n【原因】managerial skills 為固定搭配。"
+  },
+  {
+    "id": 106,
+    "day": "Day1_2",
+    "topic": "TOEIC-vocab",
+    "question": "He is known for being ______ and reliable.",
+    "choices": {
+      "A": "familiar",
+      "B": "diligent",
+      "C": "apprehensive",
+      "D": "prospective"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】他以勤奮且可靠著稱。\n【原因】diligent 是正向職場形容詞。"
+  },
+  {
+    "id": 107,
+    "day": "Day1_2",
+    "topic": "TOEIC-vocab",
+    "question": "She is ______ with the company’s internal systems.",
+    "choices": {
+      "A": "aware",
+      "B": "familiar",
+      "C": "entitled",
+      "D": "specialized"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】她熟悉公司的內部系統。\n【原因】be familiar with 是固定搭配。"
+  },
+  {
+    "id": 108,
+    "day": "Day1_2",
+    "topic": "TOEIC-vocab",
+    "question": "English ______ is required for this position.",
+    "choices": {
+      "A": "experience",
+      "B": "proficiency",
+      "C": "appeal",
+      "D": "occupation"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】此職位要求具備英語能力。\n【原因】proficiency 指熟練度或能力。"
+  },
+  {
+    "id": 109,
+    "day": "Day1_2",
+    "topic": "TOEIC-vocab",
+    "question": "The company is interviewing ______ employees.",
+    "choices": {
+      "A": "former",
+      "B": "current",
+      "C": "prospective",
+      "D": "managerial"
+    },
+    "answer": "C",
+    "explanation": "【翻譯】公司正在面試潛在員工。\n【原因】prospective 表示未來可能的。"
+  },
+  {
+    "id": 110,
+    "day": "Day1_2",
+    "topic": "TOEIC-vocab",
+    "question": "The job offer has great ______ to young professionals.",
+    "choices": {
+      "A": "condition",
+      "B": "appeal",
+      "C": "wage",
+      "D": "degree"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】這份工作對年輕專業人士極具吸引力。\n【原因】appeal 表示吸引力。"
+  },
+  {
+    "id": 111,
+    "day": "Day1_2",
+    "topic": "TOEIC-vocab",
+    "question": "He ______ in data analysis.",
+    "choices": {
+      "A": "appeals",
+      "B": "specializes",
+      "C": "recruits",
+      "D": "consults"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】他專精於資料分析。\n【原因】specialize in 為固定搭配。"
+  },
+  {
+    "id": 112,
+    "day": "Day1_2",
+    "topic": "TOEIC-vocab",
+    "question": "She felt ______ before the interview.",
+    "choices": {
+      "A": "confident",
+      "B": "apprehensive",
+      "C": "entitled",
+      "D": "diligent"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】她在面試前感到焦慮不安。\n【原因】apprehensive 表示緊張擔心。"
+  },
+  {
+    "id": 113,
+    "day": "Day1_2",
+    "topic": "TOEIC-vocab",
+    "question": "The company hired an external ______.",
+    "choices": {
+      "A": "associate",
+      "B": "consultant",
+      "C": "manager",
+      "D": "recruit"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】公司聘請了一位外部顧問。\n【原因】consultant 指顧問。"
+  },
+  {
+    "id": 114,
+    "day": "Day1_2",
+    "topic": "TOEIC-vocab",
+    "question": "Employees are ______ to paid leave.",
+    "choices": {
+      "A": "familiar",
+      "B": "entitled",
+      "C": "certified",
+      "D": "prospective"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】員工有權享有帶薪假。\n【原因】be entitled to 是固定用法。"
+  },
+  {
+    "id": 115,
+    "day": "Day1_2",
+    "topic": "TOEIC-vocab",
+    "question": "She holds a master’s ______ in economics.",
+    "choices": {
+      "A": "occupation",
+      "B": "degree",
+      "C": "certification",
+      "D": "wage"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】她擁有經濟學碩士學位。\n【原因】degree 指學位。"
+  },
+  {
+    "id": 116,
+    "day": "Day1_2",
+    "topic": "TOEIC-vocab",
+    "question": "The ______ is processed at the end of each month.",
+    "choices": {
+      "A": "wage",
+      "B": "payroll",
+      "C": "occupation",
+      "D": "appeal"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】薪資名冊於每月底處理。\n【原因】payroll 指公司整體薪資系統。"
+  },
+  {
+    "id": 117,
+    "day": "Day1_2",
+    "topic": "TOEIC-vocab",
+    "question": "The HR department plans to ______ new staff.",
+    "choices": {
+      "A": "hire",
+      "B": "recruit",
+      "C": "appeal",
+      "D": "consult"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】人資部門計畫招募新員工。\n【原因】recruit 偏向招募流程。"
+  },
+  {
+    "id": 118,
+    "day": "Day1_2",
+    "topic": "TOEIC-vocab",
+    "question": "Professional ______ is required for this role.",
+    "choices": {
+      "A": "degree",
+      "B": "certification",
+      "C": "occupation",
+      "D": "employment"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】此職位要求具備專業證照。\n【原因】certification 指證照。"
+  },
+  {
+    "id": 119,
+    "day": "Day1_2",
+    "topic": "TOEIC-vocab",
+    "question": "Teaching is a respected ______.",
+    "choices": {
+      "A": "employment",
+      "B": "occupation",
+      "C": "wage",
+      "D": "payroll"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】教學是一份受人尊敬的職業。\n【原因】occupation 指職業類型。"
+  },
+  {
+    "id": 120,
+    "day": "Day1_2",
+    "topic": "TOEIC-vocab",
+    "question": "The hourly ______ has increased this year.",
+    "choices": {
+      "A": "salary",
+      "B": "wage",
+      "C": "payroll",
+      "D": "degree"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】今年的時薪有所調漲。\n【原因】wage 指時薪或計件薪資。"
+  },
+  {
+    "id": 201,
+    "day": "Day2",
+    "topic": "TOEIC-policy",
+    "question": "All employees must follow the company dress ______.",
+    "choices": {
+      "A": "attire",
+      "B": "code",
+      "C": "policy",
+      "D": "concern"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】所有員工都必須遵守公司的服裝規定。\n【原因】dress code 為固定搭配，表示服裝規範。\n【排除】attire 是服裝本身；policy 是政策；concern 是擔憂。"
+  },
+  {
+    "id": 202,
+    "day": "Day2",
+    "topic": "TOEIC-policy",
+    "question": "Formal business ______ is required during meetings.",
+    "choices": {
+      "A": "attire",
+      "B": "regulation",
+      "C": "exception",
+      "D": "code"
+    },
+    "answer": "A",
+    "explanation": "【翻譯】開會時需要正式商務服裝。\n【原因】attire 表示穿著、服裝。\n【排除】code 是規則；regulation 是法規。"
+  },
+  {
+    "id": 203,
+    "day": "Day2",
+    "topic": "TOEIC-policy",
+    "question": "Management expressed serious ______ about the safety issue.",
+    "choices": {
+      "A": "policy",
+      "B": "exception",
+      "C": "concern",
+      "D": "regulation"
+    },
+    "answer": "C",
+    "explanation": "【翻譯】管理層對安全問題表示嚴重關切。\n【原因】express concern 為固定搭配。\n【排除】policy 是政策；regulation 是規定。"
+  },
+  {
+    "id": 204,
+    "day": "Day2",
+    "topic": "TOEIC-policy",
+    "question": "The new vacation ______ will take effect next month.",
+    "choices": {
+      "A": "policy",
+      "B": "attire",
+      "C": "exception",
+      "D": "adhere"
+    },
+    "answer": "A",
+    "explanation": "【翻譯】新的休假政策將於下月生效。\n【原因】vacation policy 為固定搭配。\n【排除】adhere 是動詞。"
+  },
+  {
+    "id": 205,
+    "day": "Day2",
+    "topic": "TOEIC-policy",
+    "question": "Employees must ______ with company regulations.",
+    "choices": {
+      "A": "adhere",
+      "B": "refrain",
+      "C": "comply",
+      "D": "concern"
+    },
+    "answer": "C",
+    "explanation": "【翻譯】員工必須遵守公司規定。\n【原因】comply with 是固定搭配。\n【排除】adhere 需接 to；refrain from。"
+  },
+  {
+    "id": 206,
+    "day": "Day2",
+    "topic": "TOEIC-policy",
+    "question": "New environmental ______ were introduced this year.",
+    "choices": {
+      "A": "concerns",
+      "B": "regulations",
+      "C": "exceptions",
+      "D": "policies"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】今年實施了新的環保法規。\n【原因】regulation 指正式法規。\n【排除】policy 偏內部政策。"
+  },
+  {
+    "id": 207,
+    "day": "Day2",
+    "topic": "TOEIC-policy",
+    "question": "There will be no ______ to the company’s attendance rules.",
+    "choices": {
+      "A": "policy",
+      "B": "concern",
+      "C": "exception",
+      "D": "code"
+    },
+    "answer": "C",
+    "explanation": "【翻譯】公司出勤規定不會有任何例外。\n【原因】exception 表示例外。\n【排除】policy 是政策。"
+  },
+  {
+    "id": 208,
+    "day": "Day2",
+    "topic": "TOEIC-policy",
+    "question": "All staff must ______ to safety guidelines.",
+    "choices": {
+      "A": "adhere",
+      "B": "comply",
+      "C": "refrain",
+      "D": "severely"
+    },
+    "answer": "A",
+    "explanation": "【翻譯】所有員工都必須遵守安全指引。\n【原因】adhere to 為固定搭配。\n【排除】comply 應接 with。"
+  },
+  {
+    "id": 209,
+    "day": "Day2",
+    "topic": "TOEIC-policy",
+    "question": "Violations of this rule will be ______ punished.",
+    "choices": {
+      "A": "concerned",
+      "B": "exceptional",
+      "C": "severely",
+      "D": "adhere"
+    },
+    "answer": "C",
+    "explanation": "【翻譯】違反此規則將會受到嚴厲懲罰。\n【原因】severely 是副詞，修飾 punished。\n【排除】其他為形容詞或動詞。"
+  },
+  {
+    "id": 210,
+    "day": "Day2",
+    "topic": "TOEIC-policy",
+    "question": "Employees should ______ from using personal devices during work hours.",
+    "choices": {
+      "A": "comply",
+      "B": "adhere",
+      "C": "refrain",
+      "D": "regulate"
+    },
+    "answer": "C",
+    "explanation": "【翻譯】員工應避免在工作時間使用私人裝置。\n【原因】refrain from 是固定搭配。\n【排除】comply 與 adhere 不搭配 from。"
+  },
+  {
+    "id": 301,
+    "day": "Day2_2",
+    "topic": "TOEIC-admin",
+    "question": "You must obtain ______ before entering the restricted area.",
+    "choices": {
+      "A": "approval",
+      "B": "permission",
+      "C": "inspection",
+      "D": "arrangement"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】在進入限制區域前，你必須取得許可。\n【為何選 B】obtain permission 為固定搭配，表示取得許可。\n【排除】approval 偏正式核准；inspection 是檢查；arrangement 是安排。"
+  },
+  {
+    "id": 302,
+    "day": "Day2_2",
+    "topic": "TOEIC-admin",
+    "question": "Employees need special ______ to the company database.",
+    "choices": {
+      "A": "form",
+      "B": "approval",
+      "C": "access",
+      "D": "approach"
+    },
+    "answer": "C",
+    "explanation": "【翻譯】員工需要特別的存取權限才能進入公司資料庫。\n【為何選 C】access to 是固定搭配，表示存取權。\n【排除】approach 是方法；approval 是核准。"
+  },
+  {
+    "id": 303,
+    "day": "Day2_2",
+    "topic": "TOEIC-admin",
+    "question": "Please read the contract ______ before signing it.",
+    "choices": {
+      "A": "thoroughly",
+      "B": "immediately",
+      "C": "formally",
+      "D": "approach"
+    },
+    "answer": "A",
+    "explanation": "【翻譯】請在簽署前徹底閱讀合約。\n【為何選 A】thoroughly 為副詞，表示徹底地。\n【排除】immediately 是立即；approach 不是副詞。"
+  },
+  {
+    "id": 304,
+    "day": "Day2_2",
+    "topic": "TOEIC-admin",
+    "question": "The manager asked us to ______ the proposal.",
+    "choices": {
+      "A": "revise",
+      "B": "access",
+      "C": "arrange",
+      "D": "inspect"
+    },
+    "answer": "A",
+    "explanation": "【翻譯】經理要求我們修改提案。\n【為何選 A】revise 表示修改文件。\n【排除】access 是存取；inspect 是檢查。"
+  },
+  {
+    "id": 305,
+    "day": "Day2_2",
+    "topic": "TOEIC-admin",
+    "question": "We need a different ______ to solve this issue.",
+    "choices": {
+      "A": "approval",
+      "B": "approach",
+      "C": "inspection",
+      "D": "form"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】我們需要不同的方法來解決這個問題。\n【為何選 B】approach 表示方法、做法。\n【排除】approval 是核准；inspection 是檢查。"
+  },
+  {
+    "id": 306,
+    "day": "Day2_2",
+    "topic": "TOEIC-admin",
+    "question": "Final ______ from the director is required.",
+    "choices": {
+      "A": "permission",
+      "B": "approval",
+      "C": "access",
+      "D": "arrangement"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】需要主管的最終核准。\n【為何選 B】approval 指正式批准。\n【排除】permission 偏一般允許。"
+  },
+  {
+    "id": 307,
+    "day": "Day2_2",
+    "topic": "TOEIC-admin",
+    "question": "Please fill out this application ______.",
+    "choices": {
+      "A": "inspection",
+      "B": "form",
+      "C": "approach",
+      "D": "approval"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】請填寫這份申請表。\n【為何選 B】fill out a form 是固定搭配。\n【排除】inspection 是檢查。"
+  },
+  {
+    "id": 308,
+    "day": "Day2_2",
+    "topic": "TOEIC-admin",
+    "question": "The issue must be addressed ______.",
+    "choices": {
+      "A": "thoroughly",
+      "B": "approval",
+      "C": "immediately",
+      "D": "approach"
+    },
+    "answer": "C",
+    "explanation": "【翻譯】這個問題必須立即處理。\n【為何選 C】immediately 為副詞，表示立即。\n【排除】approval 不是副詞。"
+  },
+  {
+    "id": 309,
+    "day": "Day2_2",
+    "topic": "TOEIC-admin",
+    "question": "The factory will undergo a safety ______ next week.",
+    "choices": {
+      "A": "inspection",
+      "B": "approval",
+      "C": "arrangement",
+      "D": "form"
+    },
+    "answer": "A",
+    "explanation": "【翻譯】工廠下週將接受安全檢查。\n【為何選 A】undergo inspection 是固定搭配。\n【排除】approval 是核准。"
+  },
+  {
+    "id": 310,
+    "day": "Day2_2",
+    "topic": "TOEIC-admin",
+    "question": "Travel ______ have already been made for the meeting.",
+    "choices": {
+      "A": "approaches",
+      "B": "arrangements",
+      "C": "permissions",
+      "D": "forms"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】會議的旅遊安排已經完成。\n【為何選 B】make arrangements 是固定搭配。\n【排除】approach 不是安排。"
+  },
+  {
+    "id": 401,
+    "day": "Day2_3",
+    "topic": "TOEIC-policy",
+    "question": "Employees must follow the correct ______ when filing a complaint.",
+    "choices": {
+      "A": "procedure",
+      "B": "standard",
+      "C": "effect",
+      "D": "mandate"
+    },
+    "answer": "A",
+    "explanation": "【翻譯】員工在提出申訴時必須遵循正確的程序。\n【為何選 A】follow a procedure 是固定搭配，表示遵循程序。\n【排除】standard 是標準；mandate 是命令。"
+  },
+  {
+    "id": 402,
+    "day": "Day2_3",
+    "topic": "TOEIC-policy",
+    "question": "The company received several ______ reviews from customers.",
+    "choices": {
+      "A": "constant",
+      "B": "negative",
+      "C": "standard",
+      "D": "drastic"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】公司收到幾則負面評論。\n【為何選 B】negative reviews 是常見搭配。\n【排除】constant 是持續的；standard 是標準的。"
+  },
+  {
+    "id": 403,
+    "day": "Day2_3",
+    "topic": "TOEIC-policy",
+    "question": "The new law will ______ companies to reduce emissions.",
+    "choices": {
+      "A": "enable",
+      "B": "mandate",
+      "C": "act",
+      "D": "effect"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】新法律將強制企業減少排放。\n【為何選 B】mandate 表示依法強制要求。\n【排除】enable 是使能夠，不是強制。"
+  },
+  {
+    "id": 404,
+    "day": "Day2_3",
+    "topic": "TOEIC-policy",
+    "question": "The new policy will take ______ next month.",
+    "choices": {
+      "A": "act",
+      "B": "effect",
+      "C": "procedure",
+      "D": "standard"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】新政策將於下月生效。\n【為何選 B】take effect 是固定片語，表示生效。\n【排除】act 不可搭配 take。"
+  },
+  {
+    "id": 405,
+    "day": "Day2_3",
+    "topic": "TOEIC-policy",
+    "question": "Sales have increased ______ after the new campaign.",
+    "choices": {
+      "A": "constant",
+      "B": "negative",
+      "C": "drastically",
+      "D": "standard"
+    },
+    "answer": "C",
+    "explanation": "【翻譯】新活動後銷售量大幅增加。\n【為何選 C】drastically 為副詞，表示大幅地。\n【排除】constant 是形容詞。"
+  },
+  {
+    "id": 406,
+    "day": "Day2_3",
+    "topic": "TOEIC-policy",
+    "question": "______ the report, profits have declined this year.",
+    "choices": {
+      "A": "Act",
+      "B": "Effect",
+      "C": "According to",
+      "D": "Enable"
+    },
+    "answer": "C",
+    "explanation": "【翻譯】根據報告，今年利潤下降。\n【為何選 C】according to 表示根據。\n【排除】其他選項不符合語法。"
+  },
+  {
+    "id": 407,
+    "day": "Day2_3",
+    "topic": "TOEIC-policy",
+    "question": "The software upgrade will ______ users to access new features.",
+    "choices": {
+      "A": "mandate",
+      "B": "enable",
+      "C": "act",
+      "D": "standard"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】軟體升級將使使用者能夠使用新功能。\n【為何選 B】enable + 受詞 + to V 是固定句型。\n【排除】mandate 是強制。"
+  },
+  {
+    "id": 408,
+    "day": "Day2_3",
+    "topic": "TOEIC-policy",
+    "question": "All products must meet safety ______.",
+    "choices": {
+      "A": "effect",
+      "B": "constant",
+      "C": "standard",
+      "D": "act"
+    },
+    "answer": "C",
+    "explanation": "【翻譯】所有產品都必須符合安全標準。\n【為何選 C】meet standards 是固定搭配。\n【排除】effect 不可搭配 meet。"
+  },
+  {
+    "id": 409,
+    "day": "Day2_3",
+    "topic": "TOEIC-policy",
+    "question": "The machine requires ______ maintenance.",
+    "choices": {
+      "A": "constant",
+      "B": "negative",
+      "C": "drastically",
+      "D": "effect"
+    },
+    "answer": "A",
+    "explanation": "【翻譯】這台機器需要持續維護。\n【為何選 A】constant 表示持續的，修飾 maintenance。\n【排除】drastically 是副詞。"
+  },
+  {
+    "id": 410,
+    "day": "Day2_3",
+    "topic": "TOEIC-policy",
+    "question": "The board decided to ______ immediately to resolve the crisis.",
+    "choices": {
+      "A": "procedure",
+      "B": "effect",
+      "C": "act",
+      "D": "standard"
+    },
+    "answer": "C",
+    "explanation": "【翻譯】董事會決定立即採取行動解決危機。\n【為何選 C】act 表示採取行動。\n【排除】effect 是名詞。"
+  },
+  {
+    "id": 501,
+    "day": "Day2_4",
+    "topic": "TOEIC-law",
+    "question": "Employees are entitled to financial ______ for overtime work.",
+    "choices": {
+      "A": "compensation",
+      "B": "obligation",
+      "C": "habit",
+      "D": "restriction"
+    },
+    "answer": "A",
+    "explanation": "【翻譯】員工有權獲得加班的財務補償。\n【為何選 A】compensation 表示補償金，常見於勞動法情境。\n【排除】obligation 是義務；habit 是習慣。"
+  },
+  {
+    "id": 502,
+    "day": "Day2_4",
+    "topic": "TOEIC-law",
+    "question": "The city decided to ______ smoking in public areas.",
+    "choices": {
+      "A": "authorize",
+      "B": "abolish",
+      "C": "ban",
+      "D": "compensate"
+    },
+    "answer": "C",
+    "explanation": "【翻譯】該城市決定禁止在公共場所吸菸。\n【為何選 C】ban 表示正式禁止。\n【排除】authorize 是授權；abolish 是廢除制度。"
+  },
+  {
+    "id": 503,
+    "day": "Day2_4",
+    "topic": "TOEIC-law",
+    "question": "It is your legal ______ to report safety hazards.",
+    "choices": {
+      "A": "compensation",
+      "B": "obligation",
+      "C": "habit",
+      "D": "ban"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】回報安全隱患是你的法律義務。\n【為何選 B】legal obligation 為固定搭配。\n【排除】compensation 是補償。"
+  },
+  {
+    "id": 504,
+    "day": "Day2_4",
+    "topic": "TOEIC-law",
+    "question": "Only managers are ______ to approve expenses.",
+    "choices": {
+      "A": "prohibited",
+      "B": "restricted",
+      "C": "authorized",
+      "D": "abolished"
+    },
+    "answer": "C",
+    "explanation": "【翻譯】只有經理被授權批准費用。\n【為何選 C】be authorized to V 表示被授權做某事。\n【排除】prohibited 是被禁止。"
+  },
+  {
+    "id": 505,
+    "day": "Day2_4",
+    "topic": "TOEIC-law",
+    "question": "Company policy strictly ______ employees from sharing confidential data.",
+    "choices": {
+      "A": "prohibits",
+      "B": "authorizes",
+      "C": "abolishes",
+      "D": "compensates"
+    },
+    "answer": "A",
+    "explanation": "【翻譯】公司政策嚴格禁止員工分享機密資料。\n【為何選 A】prohibit A from V-ing 是固定句型。\n【排除】authorize 是允許。"
+  },
+  {
+    "id": 506,
+    "day": "Day2_4",
+    "topic": "TOEIC-law",
+    "question": "The government plans to ______ outdated regulations.",
+    "choices": {
+      "A": "enforce",
+      "B": "abolish",
+      "C": "restrict",
+      "D": "authorize"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】政府計畫廢除過時的規定。\n【為何選 B】abolish 表示廢除法律或制度。\n【排除】enforce 是執行法律。"
+  },
+  {
+    "id": 507,
+    "day": "Day2_4",
+    "topic": "TOEIC-law",
+    "question": "Authorities will ______ the new safety rules strictly.",
+    "choices": {
+      "A": "abolish",
+      "B": "enforce",
+      "C": "ban",
+      "D": "habit"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】當局將嚴格執行新的安全規則。\n【為何選 B】enforce laws 是固定搭配。\n【排除】abolish 是廢除。"
+  },
+  {
+    "id": 508,
+    "day": "Day2_4",
+    "topic": "TOEIC-law",
+    "question": "Checking emails before bed has become a daily ______.",
+    "choices": {
+      "A": "habit",
+      "B": "obligation",
+      "C": "restriction",
+      "D": "ban"
+    },
+    "answer": "A",
+    "explanation": "【翻譯】睡前查看電子郵件已成為日常習慣。\n【為何選 A】habit 表示習慣。\n【排除】obligation 是義務。"
+  },
+  {
+    "id": 509,
+    "day": "Day2_4",
+    "topic": "TOEIC-law",
+    "question": "New environmental ______ was passed last year.",
+    "choices": {
+      "A": "compensation",
+      "B": "legislation",
+      "C": "habit",
+      "D": "restriction"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】新的環保法案於去年通過。\n【為何選 B】legislation 表示立法或法律。\n【排除】compensation 是補償。"
+  },
+  {
+    "id": 510,
+    "day": "Day2_4",
+    "topic": "TOEIC-law",
+    "question": "The company decided to ______ access to sensitive information.",
+    "choices": {
+      "A": "authorize",
+      "B": "restrict",
+      "C": "abolish",
+      "D": "enforce"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】公司決定限制敏感資訊的存取。\n【為何選 B】restrict access 是固定搭配。\n【排除】authorize 是授權。"
+  },
+  {
+    "id": 601,
+    "day": "Day3",
+    "topic": "TOEIC-workplace",
+    "question": "She is ______ to working under pressure.",
+    "choices": {
+      "A": "accustomed",
+      "B": "demanding",
+      "C": "direct",
+      "D": "efficient"
+    },
+    "answer": "A",
+    "explanation": "【翻譯】她已習慣在壓力下工作。\n【為何選 A】be accustomed to + V-ing 表示習慣於。\n【文法重點】to 為介系詞，後面接 V-ing。\n【排除】demanding 是要求高的；efficient 是有效率的。"
+  },
+  {
+    "id": 602,
+    "day": "Day3",
+    "topic": "TOEIC-workplace",
+    "question": "The multinational ______ announced its annual profits.",
+    "choices": {
+      "A": "division",
+      "B": "corporation",
+      "C": "colleague",
+      "D": "request"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】這家跨國公司宣布了年度利潤。\n【為何選 B】corporation 表示大型公司。\n【排除】division 是部門；colleague 是同事。"
+  },
+  {
+    "id": 603,
+    "day": "Day3",
+    "topic": "TOEIC-workplace",
+    "question": "The job is quite ______ and requires strong time management skills.",
+    "choices": {
+      "A": "efficient",
+      "B": "demanding",
+      "C": "direct",
+      "D": "accustomed"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】這份工作相當具挑戰性，需要良好的時間管理能力。\n【為何選 B】demanding 表示要求高的。\n【排除】efficient 是有效率的。"
+  },
+  {
+    "id": 604,
+    "day": "Day3",
+    "topic": "TOEIC-workplace",
+    "question": "My ______ helped me complete the report on time.",
+    "choices": {
+      "A": "division",
+      "B": "corporation",
+      "C": "colleague",
+      "D": "request"
+    },
+    "answer": "C",
+    "explanation": "【翻譯】我的同事幫助我準時完成報告。\n【為何選 C】colleague 表示同事。\n【排除】division 是部門。"
+  },
+  {
+    "id": 605,
+    "day": "Day3",
+    "topic": "TOEIC-workplace",
+    "question": "She works in the marketing ______ of the company.",
+    "choices": {
+      "A": "division",
+      "B": "corporation",
+      "C": "request",
+      "D": "colleague"
+    },
+    "answer": "A",
+    "explanation": "【翻譯】她在公司的行銷部門工作。\n【為何選 A】marketing division 為固定搭配。\n【排除】corporation 指整個公司。"
+  },
+  {
+    "id": 606,
+    "day": "Day3",
+    "topic": "TOEIC-workplace",
+    "question": "We received a formal ______ for additional funding.",
+    "choices": {
+      "A": "division",
+      "B": "request",
+      "C": "manage",
+      "D": "submit"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】我們收到一份正式的追加資金請求。\n【為何選 B】formal request 是常見商用搭配。\n【排除】manage 是動詞。"
+  },
+  {
+    "id": 607,
+    "day": "Day3",
+    "topic": "TOEIC-workplace",
+    "question": "The team completed the project ______.",
+    "choices": {
+      "A": "efficiently",
+      "B": "direct",
+      "C": "demanding",
+      "D": "corporation"
+    },
+    "answer": "A",
+    "explanation": "【翻譯】團隊有效率地完成了專案。\n【為何選 A】efficiently 為副詞，修飾動詞 completed。\n【排除】direct 為形容詞。"
+  },
+  {
+    "id": 608,
+    "day": "Day3",
+    "topic": "TOEIC-workplace",
+    "question": "It is important to ______ your time wisely.",
+    "choices": {
+      "A": "submit",
+      "B": "manage",
+      "C": "division",
+      "D": "directly"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】妥善管理時間很重要。\n【為何選 B】manage time 是固定搭配。\n【排除】submit 是提交。"
+  },
+  {
+    "id": 609,
+    "day": "Day3",
+    "topic": "TOEIC-workplace",
+    "question": "Please ______ your application before the deadline.",
+    "choices": {
+      "A": "manage",
+      "B": "direct",
+      "C": "submit",
+      "D": "accustomed"
+    },
+    "answer": "C",
+    "explanation": "【翻譯】請在截止日前提交申請。\n【為何選 C】submit an application 是固定搭配。\n【排除】manage 不可接 application。"
+  },
+  {
+    "id": 610,
+    "day": "Day3",
+    "topic": "TOEIC-workplace",
+    "question": "If you have questions, contact the supervisor ______.",
+    "choices": {
+      "A": "efficient",
+      "B": "division",
+      "C": "directly",
+      "D": "demanding"
+    },
+    "answer": "C",
+    "explanation": "【翻譯】如有問題，請直接聯絡主管。\n【為何選 C】directly 為副詞，修飾 contact。\n【排除】efficient 為形容詞。"
+  },
+  {
+    "id": 701,
+    "day": "Day3_2",
+    "topic": "TOEIC-workplace",
+    "question": "Please ______ me to submit the report before the deadline.",
+    "choices": {
+      "A": "remind",
+      "B": "monitor",
+      "C": "deserve",
+      "D": "perform"
+    },
+    "answer": "A",
+    "explanation": "【翻譯】請提醒我在截止日前提交報告。\n【為何選 A】remind + 人 + to V 表示「提醒某人做某事」。\n【排除】monitor 是監控；deserve 是值得；perform 是執行（工作/任務）。"
+  },
+  {
+    "id": 702,
+    "day": "Day3_2",
+    "topic": "TOEIC-workplace",
+    "question": "The supervisor will ______ new employees on safety procedures.",
+    "choices": {
+      "A": "notify",
+      "B": "instruct",
+      "C": "deserve",
+      "D": "sample"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】主管會指導新進員工安全程序。\n【為何選 B】instruct + 人 + on/about 表示「指導/教導」。\n【排除】notify 是通知；sample 是樣本/取樣。"
+  },
+  {
+    "id": 703,
+    "day": "Day3_2",
+    "topic": "TOEIC-workplace",
+    "question": "The project ______ is next Friday, so we must finish soon.",
+    "choices": {
+      "A": "assignment",
+      "B": "deadline",
+      "C": "entire",
+      "D": "monitor"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】專案截止日是下週五，所以我們必須盡快完成。\n【為何選 B】deadline 表示「截止期限」。\n【排除】assignment 是任務；entire 是形容詞「全部的」。"
+  },
+  {
+    "id": 704,
+    "day": "Day3_2",
+    "topic": "TOEIC-workplace",
+    "question": "We received a ______ of the new product for testing.",
+    "choices": {
+      "A": "sample",
+      "B": "deadline",
+      "C": "entire",
+      "D": "assignment"
+    },
+    "answer": "A",
+    "explanation": "【翻譯】我們收到新產品的樣品用於測試。\n【為何選 A】sample 表示「樣品/樣本」，符合測試情境。\n【排除】deadline/assignment 與語意不符。"
+  },
+  {
+    "id": 705,
+    "day": "Day3_2",
+    "topic": "TOEIC-workplace",
+    "question": "Please ______ the client that the meeting has been rescheduled.",
+    "choices": {
+      "A": "monitor",
+      "B": "notify",
+      "C": "deserve",
+      "D": "perform"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】請通知客戶會議已改期。\n【為何選 B】notify + 人 + that... 表示「通知某人……」。\n【排除】monitor 是監控；perform 是執行；deserve 是值得。"
+  },
+  {
+    "id": 706,
+    "day": "Day3_2",
+    "topic": "TOEIC-workplace",
+    "question": "All technicians must ______ regular equipment checks.",
+    "choices": {
+      "A": "perform",
+      "B": "sample",
+      "C": "deserve",
+      "D": "notify"
+    },
+    "answer": "A",
+    "explanation": "【翻譯】所有技術人員都必須執行例行設備檢查。\n【為何選 A】perform checks 是常見搭配，表示執行檢查。\n【排除】sample 是樣本；deserve 是值得；notify 是通知。"
+  },
+  {
+    "id": 707,
+    "day": "Day3_2",
+    "topic": "TOEIC-workplace",
+    "question": "Managers should ______ employee performance throughout the year.",
+    "choices": {
+      "A": "monitor",
+      "B": "remind",
+      "C": "sample",
+      "D": "entire"
+    },
+    "answer": "A",
+    "explanation": "【翻譯】主管應該全年監控員工表現。\n【為何選 A】monitor performance 表示「監督/追蹤績效」。\n【排除】remind 是提醒；entire 是形容詞。"
+  },
+  {
+    "id": 708,
+    "day": "Day3_2",
+    "topic": "TOEIC-workplace",
+    "question": "You ______ a promotion after all your hard work.",
+    "choices": {
+      "A": "deserve",
+      "B": "notify",
+      "C": "instruct",
+      "D": "monitor"
+    },
+    "answer": "A",
+    "explanation": "【翻譯】你努力付出後值得升遷。\n【為何選 A】deserve 表示「值得、應得」。\n【排除】notify/instruct/monitor 皆不符合語意。"
+  },
+  {
+    "id": 709,
+    "day": "Day3_2",
+    "topic": "TOEIC-workplace",
+    "question": "This ______ includes preparing slides and presenting the results.",
+    "choices": {
+      "A": "deadline",
+      "B": "assignment",
+      "C": "sample",
+      "D": "entire"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】這項作業/任務包含準備投影片並報告成果。\n【為何選 B】assignment 表示「任務、作業」。\n【排除】deadline 是期限；sample 是樣品；entire 是形容詞。"
+  },
+  {
+    "id": 710,
+    "day": "Day3_2",
+    "topic": "TOEIC-workplace",
+    "question": "The ______ team attended the training session.",
+    "choices": {
+      "A": "entire",
+      "B": "notify",
+      "C": "perform",
+      "D": "deadline"
+    },
+    "answer": "A",
+    "explanation": "【翻譯】整個團隊都參加了訓練課程。\n【為何選 A】entire 表示「全部的、整個的」，修飾 team。\n【排除】notify/perform 是動詞；deadline 是名詞。"
+  },
+  {
+    "id": 801,
+    "day": "Day3_3",
+    "topic": "TOEIC-workplace",
+    "question": "The company will ______ a new product next month.",
+    "choices": {
+      "A": "release",
+      "B": "delegate",
+      "C": "draw",
+      "D": "attend"
+    },
+    "answer": "A",
+    "explanation": "【翻譯】公司將於下月推出新產品。\n【為何選 A】release a product 是固定搭配，表示發布產品。\n【排除】delegate 是委派；draw 不符合語意。"
+  },
+  {
+    "id": 802,
+    "day": "Day3_3",
+    "topic": "TOEIC-workplace",
+    "question": "The manager approved a deadline ______ for the project.",
+    "choices": {
+      "A": "extension",
+      "B": "attendance",
+      "C": "supervision",
+      "D": "workshop"
+    },
+    "answer": "A",
+    "explanation": "【翻譯】經理批准了專案期限延長。\n【為何選 A】grant/approve an extension 是常見搭配。\n【排除】attendance 是出席。"
+  },
+  {
+    "id": 803,
+    "day": "Day3_3",
+    "topic": "TOEIC-workplace",
+    "question": "All documents must be submitted ______ through the online system.",
+    "choices": {
+      "A": "absolutely",
+      "B": "electronically",
+      "C": "attentively",
+      "D": "directly"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】所有文件必須透過線上系統以電子方式提交。\n【為何選 B】electronically 表示以電子方式。\n【排除】absolutely 是絕對地；attentively 是專心地。"
+  },
+  {
+    "id": 804,
+    "day": "Day3_3",
+    "topic": "TOEIC-workplace",
+    "question": "Employee ______ at the meeting was higher than expected.",
+    "choices": {
+      "A": "attendance",
+      "B": "supervision",
+      "C": "delegate",
+      "D": "release"
+    },
+    "answer": "A",
+    "explanation": "【翻譯】會議的員工出席率高於預期。\n【為何選 A】attendance 表示出席。\n【排除】supervision 是監督。"
+  },
+  {
+    "id": 805,
+    "day": "Day3_3",
+    "topic": "TOEIC-workplace",
+    "question": "The results are ______ confidential and must not be shared.",
+    "choices": {
+      "A": "attentively",
+      "B": "electronically",
+      "C": "absolutely",
+      "D": "workshop"
+    },
+    "answer": "C",
+    "explanation": "【翻譯】這些結果絕對保密，不得分享。\n【為何選 C】absolutely 表示完全地、絕對地。\n【排除】其他副詞語意不符。"
+  },
+  {
+    "id": 806,
+    "day": "Day3_3",
+    "topic": "TOEIC-workplace",
+    "question": "The director decided to ______ some tasks to his assistant.",
+    "choices": {
+      "A": "release",
+      "B": "delegate",
+      "C": "draw",
+      "D": "attend"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】主管決定將部分任務委派給助理。\n【為何選 B】delegate tasks 是固定搭配。\n【排除】release 是釋放。"
+  },
+  {
+    "id": 807,
+    "day": "Day3_3",
+    "topic": "TOEIC-workplace",
+    "question": "The trainees listened ______ during the presentation.",
+    "choices": {
+      "A": "electronically",
+      "B": "absolutely",
+      "C": "attentively",
+      "D": "release"
+    },
+    "answer": "C",
+    "explanation": "【翻譯】學員在簡報時專心聆聽。\n【為何選 C】listen attentively 是常見搭配。\n【排除】electronically 不合理。"
+  },
+  {
+    "id": 808,
+    "day": "Day3_3",
+    "topic": "TOEIC-workplace",
+    "question": "The interns worked under close ______.",
+    "choices": {
+      "A": "attendance",
+      "B": "supervision",
+      "C": "extension",
+      "D": "delegate"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】實習生在密切監督下工作。\n【為何選 B】under supervision 是固定搭配。\n【排除】attendance 是出席。"
+  },
+  {
+    "id": 809,
+    "day": "Day3_3",
+    "topic": "TOEIC-workplace",
+    "question": "She attended a leadership ______ last weekend.",
+    "choices": {
+      "A": "supervision",
+      "B": "workshop",
+      "C": "extension",
+      "D": "attendance"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】她上週參加了一場領導力研討會。\n【為何選 B】workshop 表示研討會。\n【排除】supervision 是監督。"
+  },
+  {
+    "id": 810,
+    "day": "Day3_3",
+    "topic": "TOEIC-workplace",
+    "question": "The announcement helped ______ more customers to the store.",
+    "choices": {
+      "A": "draw",
+      "B": "delegate",
+      "C": "release",
+      "D": "extend"
+    },
+    "answer": "A",
+    "explanation": "【翻譯】這則公告幫助吸引更多顧客到店裡。\n【為何選 A】draw customers 表示吸引顧客。\n【重點】draw 有「吸引」的意思。\n【排除】delegate 是委派。"
+  },
+  {
+    "id": 901,
+    "day": "Day3_4",
+    "topic": "TOEIC-workplace",
+    "question": "The proposal requires one final ______ before approval.",
+    "choices": {
+      "A": "revision",
+      "B": "file",
+      "C": "headquarters",
+      "D": "check"
+    },
+    "answer": "A",
+    "explanation": "【翻譯】該提案在核准前需要最後一次修訂。\n【為何選 A】final revision 是常見搭配，表示最後修訂。\n【排除】check 是檢查，但語境強調修改內容。"
+  },
+  {
+    "id": 902,
+    "day": "Day3_4",
+    "topic": "TOEIC-workplace",
+    "question": "He ______ agreed to take on the extra assignment.",
+    "choices": {
+      "A": "convey",
+      "B": "reluctantly",
+      "C": "involved",
+      "D": "concentrate"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】他勉強同意承擔額外的任務。\n【為何選 B】reluctantly 表示不情願地。\n【排除】convey 是傳達；involved 是形容詞。"
+  },
+  {
+    "id": 903,
+    "day": "Day3_4",
+    "topic": "TOEIC-workplace",
+    "question": "New employees must ______ themselves with company policies.",
+    "choices": {
+      "A": "acquaint",
+      "B": "file",
+      "C": "check",
+      "D": "oversee"
+    },
+    "answer": "A",
+    "explanation": "【翻譯】新員工必須熟悉公司政策。\n【為何選 A】acquaint oneself with 是固定搭配。\n【排除】file 是歸檔；oversee 是監督。"
+  },
+  {
+    "id": 904,
+    "day": "Day3_4",
+    "topic": "TOEIC-workplace",
+    "question": "The manager tried to ______ the importance of teamwork.",
+    "choices": {
+      "A": "revision",
+      "B": "convey",
+      "C": "file",
+      "D": "check"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】經理試圖傳達團隊合作的重要性。\n【為何選 B】convey 表示傳達想法或訊息。\n【排除】revision 是名詞。"
+  },
+  {
+    "id": 905,
+    "day": "Day3_4",
+    "topic": "TOEIC-workplace",
+    "question": "Please ______ the details carefully before submitting the report.",
+    "choices": {
+      "A": "file",
+      "B": "concentrate",
+      "C": "check",
+      "D": "oversee"
+    },
+    "answer": "C",
+    "explanation": "【翻譯】提交報告前請仔細檢查細節。\n【為何選 C】check details 是固定搭配。\n【排除】file 是歸檔；concentrate 不及物動詞。"
+  },
+  {
+    "id": 906,
+    "day": "Day3_4",
+    "topic": "TOEIC-workplace",
+    "question": "The company’s ______ is located in New York.",
+    "choices": {
+      "A": "file",
+      "B": "revision",
+      "C": "headquarters",
+      "D": "involved"
+    },
+    "answer": "C",
+    "explanation": "【翻譯】公司的總部位於紐約。\n【為何選 C】headquarters 表示總公司。\n【排除】file 是檔案。"
+  },
+  {
+    "id": 907,
+    "day": "Day3_4",
+    "topic": "TOEIC-workplace",
+    "question": "All receipts must be properly ______ for accounting purposes.",
+    "choices": {
+      "A": "conveyed",
+      "B": "filed",
+      "C": "checked",
+      "D": "involved"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】所有收據都必須妥善歸檔以供會計使用。\n【為何選 B】file documents 是常見用法。\n【排除】convey 是傳達。"
+  },
+  {
+    "id": 908,
+    "day": "Day3_4",
+    "topic": "TOEIC-workplace",
+    "question": "She will ______ the entire marketing department.",
+    "choices": {
+      "A": "oversee",
+      "B": "file",
+      "C": "concentrate",
+      "D": "revision"
+    },
+    "answer": "A",
+    "explanation": "【翻譯】她將負責監督整個行銷部門。\n【為何選 A】oversee 表示監督管理。\n【排除】concentrate 不及物。"
+  },
+  {
+    "id": 909,
+    "day": "Day3_4",
+    "topic": "TOEIC-workplace",
+    "question": "Several departments are ______ in this project.",
+    "choices": {
+      "A": "revision",
+      "B": "involved",
+      "C": "file",
+      "D": "reluctantly"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】多個部門參與此專案。\n【為何選 B】be involved in 表示參與。\n【排除】revision 是名詞。"
+  },
+  {
+    "id": 910,
+    "day": "Day3_4",
+    "topic": "TOEIC-workplace",
+    "question": "Please ______ on the task and avoid distractions.",
+    "choices": {
+      "A": "concentrate",
+      "B": "file",
+      "C": "convey",
+      "D": "headquarters"
+    },
+    "answer": "A",
+    "explanation": "【翻譯】請專注於任務並避免分心。\n【為何選 A】concentrate on 是固定搭配。\n【排除】file 是歸檔；convey 是傳達。"
+  },
+  {
+    "id": 1001,
+    "day": "Day4",
+    "topic": "TOEIC-work-attitude",
+    "question": "The supervisor criticized him for being too ______ about deadlines.",
+    "choices": {
+      "A": "lax",
+      "B": "combined",
+      "C": "voluntarily",
+      "D": "assumed"
+    },
+    "answer": "A",
+    "explanation": "【翻譯】主管批評他對截止日期過於鬆散。\n【為何選 A】lax 表示鬆懈、不嚴格。\n【排除】combined 是形容詞但語意不符；voluntarily 是副詞。"
+  },
+  {
+    "id": 1002,
+    "day": "Day4",
+    "topic": "TOEIC-work-attitude",
+    "question": "If you continue to ______, the project will not be finished on time.",
+    "choices": {
+      "A": "assist",
+      "B": "accomplish",
+      "C": "procrastinate",
+      "D": "assume"
+    },
+    "answer": "C",
+    "explanation": "【翻譯】如果你繼續拖延，專案將無法準時完成。\n【為何選 C】procrastinate 表示拖延。\n【排除】accomplish 是完成，語意相反。"
+  },
+  {
+    "id": 1003,
+    "day": "Day4",
+    "topic": "TOEIC-work-attitude",
+    "question": "The ______ efforts of both teams led to success.",
+    "choices": {
+      "A": "lax",
+      "B": "combined",
+      "C": "occasional",
+      "D": "assumed"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】兩個團隊的共同努力帶來成功。\n【為何選 B】combined efforts 表示合併的、共同的努力。\n【排除】lax 是鬆懈的。"
+  },
+  {
+    "id": 1004,
+    "day": "Day4",
+    "topic": "TOEIC-work-attitude",
+    "question": "She worked hard to ______ her goals.",
+    "choices": {
+      "A": "undertake",
+      "B": "assist",
+      "C": "accomplish",
+      "D": "assume"
+    },
+    "answer": "C",
+    "explanation": "【翻譯】她努力完成她的目標。\n【為何選 C】accomplish goals 是固定搭配。\n【排除】undertake 是承擔任務。"
+  },
+  {
+    "id": 1005,
+    "day": "Day4",
+    "topic": "TOEIC-work-attitude",
+    "question": "He ______ offered to help with the project.",
+    "choices": {
+      "A": "combined",
+      "B": "voluntarily",
+      "C": "lax",
+      "D": "assumed"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】他自願協助這個專案。\n【為何選 B】voluntarily 表示自願地。\n【排除】combined 不是副詞。"
+  },
+  {
+    "id": 1006,
+    "day": "Day4",
+    "topic": "TOEIC-work-attitude",
+    "question": "The company decided to ______ a major renovation project.",
+    "choices": {
+      "A": "undertake",
+      "B": "assist",
+      "C": "procrastinate",
+      "D": "assume"
+    },
+    "answer": "A",
+    "explanation": "【翻譯】公司決定承接一項大型翻修工程。\n【為何選 A】undertake a project 是固定搭配。\n【排除】assist 需受詞人。"
+  },
+  {
+    "id": 1007,
+    "day": "Day4",
+    "topic": "TOEIC-work-attitude",
+    "question": "Please do not ______ that everyone agrees with you.",
+    "choices": {
+      "A": "assist",
+      "B": "assume",
+      "C": "accomplish",
+      "D": "combined"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】請不要假設每個人都同意你。\n【為何選 B】assume that 是常見句型。\n【排除】accomplish 是完成。"
+  },
+  {
+    "id": 1008,
+    "day": "Day4",
+    "topic": "TOEIC-work-attitude",
+    "question": "She ______ works late to finish urgent tasks.",
+    "choices": {
+      "A": "occasionally",
+      "B": "lax",
+      "C": "assumed",
+      "D": "combined"
+    },
+    "answer": "A",
+    "explanation": "【翻譯】她偶爾會加班完成緊急任務。\n【為何選 A】occasionally 表示偶爾。\n【排除】lax 是形容詞。"
+  },
+  {
+    "id": 1009,
+    "day": "Day4",
+    "topic": "TOEIC-work-attitude",
+    "question": "Every ______ must complete the safety training.",
+    "choices": {
+      "A": "assist",
+      "B": "employee",
+      "C": "assume",
+      "D": "combined"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】每位員工都必須完成安全訓練。\n【為何選 B】employee 表示員工。\n【排除】assist 是動詞。"
+  },
+  {
+    "id": 1010,
+    "day": "Day4",
+    "topic": "TOEIC-work-attitude",
+    "question": "She was hired to ______ the manager with daily operations.",
+    "choices": {
+      "A": "assist",
+      "B": "assume",
+      "C": "undertake",
+      "D": "accomplish"
+    },
+    "answer": "A",
+    "explanation": "【翻譯】她被聘請協助經理處理日常營運。\n【為何選 A】assist someone with something 是固定搭配。\n【排除】assume 是假設。"
+  },
+  {
+    "id": 1101,
+    "day": "Day4_2",
+    "topic": "TOEIC-workplace",
+    "question": "The client was very ______ with the quality of our service.",
+    "choices": {
+      "A": "satisfied",
+      "B": "responsible",
+      "C": "direct",
+      "D": "adjust"
+    },
+    "answer": "A",
+    "explanation": "【翻譯】客戶對我們服務的品質非常滿意。\n【為何選 A】be satisfied with 是固定搭配，表示對某事滿意。\n【排除】responsible 是負責的；direct 是直接的。"
+  },
+  {
+    "id": 1102,
+    "day": "Day4_2",
+    "topic": "TOEIC-workplace",
+    "question": "He always speaks in a polite ______ during meetings.",
+    "choices": {
+      "A": "manner",
+      "B": "personnel",
+      "C": "coworker",
+      "D": "direct"
+    },
+    "answer": "A",
+    "explanation": "【翻譯】他在會議中總是以禮貌的方式說話。\n【為何選 A】in a polite manner 表示以禮貌的方式。\n【排除】personnel 是人事人員。"
+  },
+  {
+    "id": 1103,
+    "day": "Day4_2",
+    "topic": "TOEIC-workplace",
+    "question": "She is ______ for managing the marketing department.",
+    "choices": {
+      "A": "direct",
+      "B": "responsible",
+      "C": "satisfied",
+      "D": "adjust"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】她負責管理行銷部門。\n【為何選 B】be responsible for 是固定搭配，表示負責。\n【排除】direct 是形容詞直接的。"
+  },
+  {
+    "id": 1104,
+    "day": "Day4_2",
+    "topic": "TOEIC-workplace",
+    "question": "The company will ______ a survey to understand customer needs.",
+    "choices": {
+      "A": "conduct",
+      "B": "agree",
+      "C": "adjust",
+      "D": "direct"
+    },
+    "answer": "A",
+    "explanation": "【翻譯】公司將進行一項調查以了解顧客需求。\n【為何選 A】conduct a survey 是固定搭配。\n【排除】agree 是同意。"
+  },
+  {
+    "id": 1105,
+    "day": "Day4_2",
+    "topic": "TOEIC-workplace",
+    "question": "The manager asked the team to ______ the schedule.",
+    "choices": {
+      "A": "adjust",
+      "B": "agree",
+      "C": "supervise",
+      "D": "conduct"
+    },
+    "answer": "A",
+    "explanation": "【翻譯】經理要求團隊調整時間表。\n【為何選 A】adjust schedule 表示調整行程。\n【排除】supervise 是監督。"
+  },
+  {
+    "id": 1106,
+    "day": "Day4_2",
+    "topic": "TOEIC-workplace",
+    "question": "The human resources department manages company ______.",
+    "choices": {
+      "A": "coworkers",
+      "B": "personnel",
+      "C": "manner",
+      "D": "conduct"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】人力資源部門管理公司的人事。\n【為何選 B】personnel 表示公司人員。\n【排除】coworker 是同事。"
+  },
+  {
+    "id": 1107,
+    "day": "Day4_2",
+    "topic": "TOEIC-workplace",
+    "question": "Most employees ______ that the new policy is beneficial.",
+    "choices": {
+      "A": "agree",
+      "B": "adjust",
+      "C": "conduct",
+      "D": "direct"
+    },
+    "answer": "A",
+    "explanation": "【翻譯】大多數員工同意新政策是有益的。\n【為何選 A】agree that 是常見句型。\n【排除】conduct 是進行。"
+  },
+  {
+    "id": 1108,
+    "day": "Day4_2",
+    "topic": "TOEIC-workplace",
+    "question": "She will ______ the interns during the training period.",
+    "choices": {
+      "A": "adjust",
+      "B": "supervise",
+      "C": "agree",
+      "D": "conduct"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】她將在培訓期間監督實習生。\n【為何選 B】supervise 表示監督。\n【排除】conduct 是執行。"
+  },
+  {
+    "id": 1109,
+    "day": "Day4_2",
+    "topic": "TOEIC-workplace",
+    "question": "My ______ helped me finish the report before the deadline.",
+    "choices": {
+      "A": "coworker",
+      "B": "personnel",
+      "C": "manner",
+      "D": "direct"
+    },
+    "answer": "A",
+    "explanation": "【翻譯】我的同事幫助我在截止前完成報告。\n【為何選 A】coworker 表示同事。\n【排除】personnel 指整體員工。"
+  },
+  {
+    "id": 1110,
+    "day": "Day4_2",
+    "topic": "TOEIC-workplace",
+    "question": "Please ______ your questions to the customer service desk.",
+    "choices": {
+      "A": "adjust",
+      "B": "direct",
+      "C": "agree",
+      "D": "conduct"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】請將你的問題轉交客服櫃檯。\n【為何選 B】direct something to 表示將某事指向或轉交某處。\n【排除】adjust 是調整。"
+  },
+  {
+    "id": 1201,
+    "day": "Day4_3",
+    "topic": "TOEIC-workplace",
+    "question": "All financial reports must remain ______ and should not be shared publicly.",
+    "choices": {
+      "A": "formal",
+      "B": "confidential",
+      "C": "leading",
+      "D": "abstract"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】所有財務報告必須保持機密，不得公開分享。\n【為何選 B】confidential 表示機密的，常用於商業文件。\n【排除】formal 是正式的；abstract 是抽象的。"
+  },
+  {
+    "id": 1202,
+    "day": "Day4_3",
+    "topic": "TOEIC-workplace",
+    "question": "The manager will ______ the task to the most experienced employee.",
+    "choices": {
+      "A": "assign",
+      "B": "remove",
+      "C": "collect",
+      "D": "coordinate"
+    },
+    "answer": "A",
+    "explanation": "【翻譯】經理將把這項任務指派給最有經驗的員工。\n【為何選 A】assign a task 表示指派任務。\n【排除】remove 是移除；collect 是收集。"
+  },
+  {
+    "id": 1203,
+    "day": "Day4_3",
+    "topic": "TOEIC-workplace",
+    "question": "She works for a ______ technology company in the industry.",
+    "choices": {
+      "A": "formal",
+      "B": "abstract",
+      "C": "leading",
+      "D": "directory"
+    },
+    "answer": "C",
+    "explanation": "【翻譯】她在該產業一家領先的科技公司工作。\n【為何選 C】leading company 表示領先企業。\n【排除】abstract 表示抽象的。"
+  },
+  {
+    "id": 1204,
+    "day": "Day4_3",
+    "topic": "TOEIC-workplace",
+    "question": "The company requires employees to wear ______ attire during official events.",
+    "choices": {
+      "A": "formal",
+      "B": "confidential",
+      "C": "abstract",
+      "D": "leading"
+    },
+    "answer": "A",
+    "explanation": "【翻譯】公司要求員工在正式活動中穿著正式服裝。\n【為何選 A】formal attire 是固定搭配。\n【排除】confidential 與服裝無關。"
+  },
+  {
+    "id": 1205,
+    "day": "Day4_3",
+    "topic": "TOEIC-workplace",
+    "question": "Please ______ your personal belongings from the desk before leaving.",
+    "choices": {
+      "A": "collect",
+      "B": "remove",
+      "C": "assign",
+      "D": "coordinate"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】離開前請將個人物品從桌上移走。\n【為何選 B】remove 表示移除。\n【排除】collect 是收集。"
+  },
+  {
+    "id": 1206,
+    "day": "Day4_3",
+    "topic": "TOEIC-workplace",
+    "question": "The team will ______ customer feedback after the event.",
+    "choices": {
+      "A": "remove",
+      "B": "collect",
+      "C": "assign",
+      "D": "abstract"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】活動後團隊將收集客戶回饋。\n【為何選 B】collect feedback 是常見搭配。\n【排除】assign 是指派。"
+  },
+  {
+    "id": 1207,
+    "day": "Day4_3",
+    "topic": "TOEIC-workplace",
+    "question": "The manager must ______ the work of several departments.",
+    "choices": {
+      "A": "coordinate",
+      "B": "assign",
+      "C": "collect",
+      "D": "remove"
+    },
+    "answer": "A",
+    "explanation": "【翻譯】經理必須協調多個部門的工作。\n【為何選 A】coordinate 表示協調。\n【排除】assign 是分配任務。"
+  },
+  {
+    "id": 1208,
+    "day": "Day4_3",
+    "topic": "TOEIC-workplace",
+    "question": "He ______ ever arrives late for meetings.",
+    "choices": {
+      "A": "hardly",
+      "B": "formal",
+      "C": "abstract",
+      "D": "leading"
+    },
+    "answer": "A",
+    "explanation": "【翻譯】他幾乎從不遲到。\n【為何選 A】hardly 表示幾乎不。\n【排除】formal 是形容詞。"
+  },
+  {
+    "id": 1209,
+    "day": "Day4_3",
+    "topic": "TOEIC-workplace",
+    "question": "The professor's explanation was too ______ for beginners to understand.",
+    "choices": {
+      "A": "abstract",
+      "B": "formal",
+      "C": "confidential",
+      "D": "leading"
+    },
+    "answer": "A",
+    "explanation": "【翻譯】教授的解釋對初學者來說太抽象。\n【為何選 A】abstract 表示抽象的。\n【排除】formal 表示正式的。"
+  },
+  {
+    "id": 1210,
+    "day": "Day4_3",
+    "topic": "TOEIC-workplace",
+    "question": "You can find the manager's contact information in the company ______.",
+    "choices": {
+      "A": "directory",
+      "B": "coordinate",
+      "C": "abstract",
+      "D": "collect"
+    },
+    "answer": "A",
+    "explanation": "【翻譯】你可以在公司通訊錄中找到經理的聯絡資訊。\n【為何選 A】directory 表示名錄或通訊錄。\n【排除】coordinate 是動詞。"
+  },
+  {
+    "id": 1301,
+    "day": "Day4_4",
+    "topic": "TOEIC-workplace",
+    "question": "Managers are ______ for the performance of their teams.",
+    "choices": {
+      "A": "exclusive",
+      "B": "accountable",
+      "C": "contrary",
+      "D": "neutral"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】經理需對團隊的績效負責。\n【為何選 B】accountable for 表示對某事負責。\n【排除】exclusive 表示專屬的。"
+  },
+  {
+    "id": 1302,
+    "day": "Day4_4",
+    "topic": "TOEIC-workplace",
+    "question": "The technician ______ repaired the damaged equipment.",
+    "choices": {
+      "A": "widely",
+      "B": "externally",
+      "C": "skillfully",
+      "D": "contrary"
+    },
+    "answer": "C",
+    "explanation": "【翻譯】技術人員熟練地修好了損壞的設備。\n【為何選 C】skillfully 表示熟練地。\n【排除】widely 表示廣泛地。"
+  },
+  {
+    "id": 1303,
+    "day": "Day4_4",
+    "topic": "TOEIC-workplace",
+    "question": "This membership offers ______ access to premium services.",
+    "choices": {
+      "A": "exclusive",
+      "B": "contrary",
+      "C": "neutral",
+      "D": "duplicate"
+    },
+    "answer": "A",
+    "explanation": "【翻譯】此會員資格提供專屬服務。\n【為何選 A】exclusive 表示專屬的。\n【排除】duplicate 表示複製的。"
+  },
+  {
+    "id": 1304,
+    "day": "Day4_4",
+    "topic": "TOEIC-workplace",
+    "question": "The manager explained his ______ behind the decision.",
+    "choices": {
+      "A": "contrary",
+      "B": "duplicate",
+      "C": "intention",
+      "D": "neutrality"
+    },
+    "answer": "C",
+    "explanation": "【翻譯】經理解釋了這個決定背後的意圖。\n【為何選 C】intention 表示意圖。\n【排除】contrary 是相反的。"
+  },
+  {
+    "id": 1305,
+    "day": "Day4_4",
+    "topic": "TOEIC-workplace",
+    "question": "The company plans to ______ its business model using new technology.",
+    "choices": {
+      "A": "transform",
+      "B": "engage",
+      "C": "duplicate",
+      "D": "foster"
+    },
+    "answer": "A",
+    "explanation": "【翻譯】公司計畫利用新科技轉型其商業模式。\n【為何選 A】transform 表示轉變。\n【排除】engage 是參與。"
+  },
+  {
+    "id": 1306,
+    "day": "Day4_4",
+    "topic": "TOEIC-workplace",
+    "question": "Employees should remain ______ when communicating with clients.",
+    "choices": {
+      "A": "contrary",
+      "B": "respectful",
+      "C": "disturbing",
+      "D": "duplicate"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】員工與客戶溝通時應保持尊重。\n【為何選 B】respectful 表示尊重的。\n【排除】disturbing 表示令人不安的。"
+  },
+  {
+    "id": 1307,
+    "day": "Day4_4",
+    "topic": "TOEIC-workplace",
+    "question": "Please keep a ______ copy of this document for your records.",
+    "choices": {
+      "A": "neutral",
+      "B": "contrary",
+      "C": "duplicate",
+      "D": "exclusive"
+    },
+    "answer": "C",
+    "explanation": "【翻譯】請保留此文件的副本。\n【為何選 C】duplicate copy 表示副本。\n【排除】exclusive 是專屬的。"
+  },
+  {
+    "id": 1308,
+    "day": "Day4_4",
+    "topic": "TOEIC-workplace",
+    "question": "His opinion was ______ to the majority of the committee.",
+    "choices": {
+      "A": "exclusive",
+      "B": "contrary",
+      "C": "neutral",
+      "D": "widely"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】他的意見與委員會多數人的看法相反。\n【為何選 B】contrary to 表示與…相反。\n【排除】neutral 表示中立的。"
+  },
+  {
+    "id": 1309,
+    "day": "Day4_4",
+    "topic": "TOEIC-workplace",
+    "question": "The report contained some ______ statistics that worried investors.",
+    "choices": {
+      "A": "disturbing",
+      "B": "neutral",
+      "C": "exclusive",
+      "D": "skillful"
+    },
+    "answer": "A",
+    "explanation": "【翻譯】報告包含一些令人不安的數據。\n【為何選 A】disturbing 表示令人不安的。\n【排除】neutral 是中立的。"
+  },
+  {
+    "id": 1310,
+    "day": "Day4_4",
+    "topic": "TOEIC-workplace",
+    "question": "The company hopes to ______ more young people in environmental projects.",
+    "choices": {
+      "A": "engage",
+      "B": "transform",
+      "C": "duplicate",
+      "D": "contrary"
+    },
+    "answer": "A",
+    "explanation": "【翻譯】公司希望讓更多年輕人參與環保專案。\n【為何選 A】engage 表示使參與。\n【排除】transform 是轉變。"
+  },
+  {
+    "id": 1311,
+    "day": "Day4_4",
+    "topic": "TOEIC-workplace",
+    "question": "The organization aims to ______ innovation among its employees.",
+    "choices": {
+      "A": "foster",
+      "B": "duplicate",
+      "C": "engage",
+      "D": "neutral"
+    },
+    "answer": "A",
+    "explanation": "【翻譯】該組織旨在培養員工的創新能力。\n【為何選 A】foster innovation 表示促進或培養。\n【排除】duplicate 是複製。"
+  },
+  {
+    "id": 1312,
+    "day": "Day4_4",
+    "topic": "TOEIC-workplace",
+    "question": "Journalists must maintain political ______ when reporting the news.",
+    "choices": {
+      "A": "neutrality",
+      "B": "intention",
+      "C": "exclusive",
+      "D": "duplicate"
+    },
+    "answer": "A",
+    "explanation": "【翻譯】記者在報導新聞時必須保持政治中立。\n【為何選 A】neutrality 表示中立。\n【排除】intention 是意圖。"
+  },
+  {
+    "id": 1313,
+    "day": "Day4_4",
+    "topic": "TOEIC-workplace",
+    "question": "The product is ______ recognized as a leader in its category.",
+    "choices": {
+      "A": "externally",
+      "B": "skillfully",
+      "C": "widely",
+      "D": "contrary"
+    },
+    "answer": "C",
+    "explanation": "【翻譯】該產品被廣泛認為是該類別的領導者。\n【為何選 C】widely recognized 是常見搭配。\n【排除】externally 是外部地。"
+  },
+  {
+    "id": 1314,
+    "day": "Day4_4",
+    "topic": "TOEIC-workplace",
+    "question": "Some technical services are handled ______ by outside partners.",
+    "choices": {
+      "A": "widely",
+      "B": "externally",
+      "C": "contrary",
+      "D": "neutral"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】一些技術服務由外部合作夥伴處理。\n【為何選 B】externally 表示由外部處理。\n【排除】widely 是廣泛地。"
+  },
+  {
+    "id": 1401,
+    "day": "Day5",
+    "topic": "TOEIC-workplace",
+    "question": "The company uses a ______ security system to protect its data.",
+    "choices": {
+      "A": "accessible",
+      "B": "sophisticated",
+      "C": "timely",
+      "D": "prompt"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】公司使用一套精密的安全系統來保護資料。\n【為何選 B】sophisticated 表示複雜精密的，常形容科技或系統。\n【排除】accessible 是可取得的；timely 是及時的。"
+  },
+  {
+    "id": 1402,
+    "day": "Day5",
+    "topic": "TOEIC-workplace",
+    "question": "A ______ response to customer complaints is essential.",
+    "choices": {
+      "A": "timely",
+      "B": "accessible",
+      "C": "outstanding",
+      "D": "replacement"
+    },
+    "answer": "A",
+    "explanation": "【翻譯】及時回應客戶投訴是非常重要的。\n【為何選 A】timely response 表示及時回應。\n【排除】outstanding 是優秀的。"
+  },
+  {
+    "id": 1403,
+    "day": "Day5",
+    "topic": "TOEIC-workplace",
+    "question": "We must ______ evaluate the project's budget before approving it.",
+    "choices": {
+      "A": "promptly",
+      "B": "realistically",
+      "C": "timely",
+      "D": "accessible"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】在批准專案之前，我們必須實際地評估其預算。\n【為何選 B】realistically 表示務實地、實際地。\n【排除】promptly 表示迅速地。"
+  },
+  {
+    "id": 1404,
+    "day": "Day5",
+    "topic": "TOEIC-workplace",
+    "question": "The support team responded ______ to the technical issue.",
+    "choices": {
+      "A": "realistically",
+      "B": "promptly",
+      "C": "accessible",
+      "D": "timely"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】支援團隊迅速回應了技術問題。\n【為何選 B】promptly 表示迅速地。\n【排除】timely 是形容詞。"
+  },
+  {
+    "id": 1405,
+    "day": "Day5",
+    "topic": "TOEIC-workplace",
+    "question": "The company's online services are easily ______ to customers.",
+    "choices": {
+      "A": "accessible",
+      "B": "outstanding",
+      "C": "prompt",
+      "D": "sophisticated"
+    },
+    "answer": "A",
+    "explanation": "【翻譯】公司的線上服務客戶可以輕鬆使用。\n【為何選 A】accessible 表示可取得或可使用的。\n【排除】outstanding 表示傑出的。"
+  },
+  {
+    "id": 1406,
+    "day": "Day5",
+    "topic": "TOEIC-workplace",
+    "question": "The company plans to ______ a new marketing strategy next month.",
+    "choices": {
+      "A": "implement",
+      "B": "inform",
+      "C": "replace",
+      "D": "access"
+    },
+    "answer": "A",
+    "explanation": "【翻譯】公司計畫下個月實施新的行銷策略。\n【為何選 A】implement 表示實施或執行計畫。\n【排除】inform 表示通知。"
+  },
+  {
+    "id": 1407,
+    "day": "Day5",
+    "topic": "TOEIC-workplace",
+    "question": "Customer ______ helps the company improve its services.",
+    "choices": {
+      "A": "replacement",
+      "B": "feedback",
+      "C": "inform",
+      "D": "prompt"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】客戶回饋有助於公司改善服務。\n【為何選 B】feedback 表示回饋意見。\n【排除】replacement 表示替代品。"
+  },
+  {
+    "id": 1408,
+    "day": "Day5",
+    "topic": "TOEIC-workplace",
+    "question": "She received an ______ award for her excellent performance.",
+    "choices": {
+      "A": "timely",
+      "B": "outstanding",
+      "C": "accessible",
+      "D": "realistic"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】她因優秀表現而獲得傑出獎。\n【為何選 B】outstanding 表示傑出的。\n【排除】timely 是及時的。"
+  },
+  {
+    "id": 1409,
+    "day": "Day5",
+    "topic": "TOEIC-workplace",
+    "question": "Please ______ the staff about the schedule change.",
+    "choices": {
+      "A": "implement",
+      "B": "inform",
+      "C": "replace",
+      "D": "access"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】請通知員工行程變更。\n【為何選 B】inform 表示通知。\n【排除】implement 是實施。"
+  },
+  {
+    "id": 1410,
+    "day": "Day5",
+    "topic": "TOEIC-workplace",
+    "question": "The company ordered a ______ for the broken printer.",
+    "choices": {
+      "A": "feedback",
+      "B": "replacement",
+      "C": "prompt",
+      "D": "access"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】公司為壞掉的印表機訂購了替換品。\n【為何選 B】replacement 表示替代品。\n【排除】feedback 是回饋。"
+  },
+  {
+    "id": 1411,
+    "day": "Day5_2",
+    "topic": "TOEIC-workplace",
+    "question": "The company made an important ______ regarding the new policy.",
+    "choices": {
+      "A": "announcement",
+      "B": "overview",
+      "C": "outline",
+      "D": "department"
+    },
+    "answer": "A",
+    "explanation": "【翻譯】公司發布了一項關於新政策的重要公告。\n【為何選 A】announcement 表示公告或正式通知。\n【排除】overview 是概述。"
+  },
+  {
+    "id": 1412,
+    "day": "Day5_2",
+    "topic": "TOEIC-workplace",
+    "question": "She works in the human resources ______ of the company.",
+    "choices": {
+      "A": "announcement",
+      "B": "department",
+      "C": "overview",
+      "D": "outline"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】她在公司的人力資源部門工作。\n【為何選 B】department 表示部門。\n【排除】announcement 是公告。"
+  },
+  {
+    "id": 1413,
+    "day": "Day5_2",
+    "topic": "TOEIC-workplace",
+    "question": "The store will close ______ at the end of this month.",
+    "choices": {
+      "A": "subsequently",
+      "B": "permanently",
+      "C": "temporarily",
+      "D": "recently"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】這家商店將在本月底永久關閉。\n【為何選 B】permanently 表示永久地。\n【排除】temporarily 表示暫時地。"
+  },
+  {
+    "id": 1414,
+    "day": "Day5_2",
+    "topic": "TOEIC-workplace",
+    "question": "Employees must ______ their duties responsibly.",
+    "choices": {
+      "A": "fulfill",
+      "B": "contain",
+      "C": "compile",
+      "D": "outline"
+    },
+    "answer": "A",
+    "explanation": "【翻譯】員工必須負責任地履行職責。\n【為何選 A】fulfill duties 表示履行職責。\n【排除】compile 是編輯或整理。"
+  },
+  {
+    "id": 1415,
+    "day": "Day5_2",
+    "topic": "TOEIC-workplace",
+    "question": "The report will ______ the main objectives of the project.",
+    "choices": {
+      "A": "compile",
+      "B": "outline",
+      "C": "contain",
+      "D": "explain"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】報告將概述專案的主要目標。\n【為何選 B】outline 表示概述。\n【排除】contain 表示包含。"
+  },
+  {
+    "id": 1416,
+    "day": "Day5_2",
+    "topic": "TOEIC-workplace",
+    "question": "The manager will ______ the new procedures during the meeting.",
+    "choices": {
+      "A": "contain",
+      "B": "compile",
+      "C": "explain",
+      "D": "fulfill"
+    },
+    "answer": "C",
+    "explanation": "【翻譯】經理將在會議中解釋新的流程。\n【為何選 C】explain 表示解釋。\n【排除】compile 是整理資料。"
+  },
+  {
+    "id": 1417,
+    "day": "Day5_2",
+    "topic": "TOEIC-workplace",
+    "question": "This document may ______ confidential information.",
+    "choices": {
+      "A": "compile",
+      "B": "contain",
+      "C": "outline",
+      "D": "explain"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】這份文件可能包含機密資訊。\n【為何選 B】contain 表示包含。\n【排除】compile 是編輯整理。"
+  },
+  {
+    "id": 1418,
+    "day": "Day5_2",
+    "topic": "TOEIC-workplace",
+    "question": "She was asked to ______ a list of potential clients.",
+    "choices": {
+      "A": "compile",
+      "B": "contain",
+      "C": "fulfill",
+      "D": "outline"
+    },
+    "answer": "A",
+    "explanation": "【翻譯】她被要求整理一份潛在客戶名單。\n【為何選 A】compile a list 表示編輯或整理名單。\n【排除】contain 表示包含。"
+  },
+  {
+    "id": 1419,
+    "day": "Day5_2",
+    "topic": "TOEIC-workplace",
+    "question": "The company experienced rapid growth in the ______ years.",
+    "choices": {
+      "A": "subsequent",
+      "B": "permanent",
+      "C": "previous",
+      "D": "current"
+    },
+    "answer": "A",
+    "explanation": "【翻譯】公司在隨後幾年經歷了快速成長。\n【為何選 A】subsequent 表示隨後的。\n【排除】previous 是之前的。"
+  },
+  {
+    "id": 1420,
+    "day": "Day5_2",
+    "topic": "TOEIC-workplace",
+    "question": "The presentation will give an ______ of the company’s strategy.",
+    "choices": {
+      "A": "announcement",
+      "B": "overview",
+      "C": "department",
+      "D": "compile"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】這場簡報將提供公司策略的概覽。\n【為何選 B】overview 表示概覽或整體說明。\n【排除】announcement 是公告。"
+  },
+  {
+    "id": 1421,
+    "day": "Day5_3",
+    "topic": "TOEIC-workplace",
+    "question": "The internet ______ guarantees stable service to its customers.",
+    "choices": {
+      "A": "provider",
+      "B": "expertise",
+      "C": "matter",
+      "D": "remainder"
+    },
+    "answer": "A",
+    "explanation": "【翻譯】該網路服務供應商保證為客戶提供穩定的服務。\n【為何選 A】provider 表示供應商或服務提供者。\n【排除】expertise 是專業知識。"
+  },
+  {
+    "id": 1422,
+    "day": "Day5_3",
+    "topic": "TOEIC-workplace",
+    "question": "This issue is an important ______ that requires immediate attention.",
+    "choices": {
+      "A": "provider",
+      "B": "matter",
+      "C": "expertise",
+      "D": "compliance"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】這是一個需要立即關注的重要事項。\n【為何選 B】matter 表示事情、議題。\n【排除】expertise 是專業能力。"
+  },
+  {
+    "id": 1423,
+    "day": "Day5_3",
+    "topic": "TOEIC-workplace",
+    "question": "Her technical ______ helped solve the system problem quickly.",
+    "choices": {
+      "A": "provider",
+      "B": "remainder",
+      "C": "expertise",
+      "D": "divide"
+    },
+    "answer": "C",
+    "explanation": "【翻譯】她的技術專長幫助快速解決系統問題。\n【為何選 C】expertise 表示專業知識或專長。\n【排除】provider 是提供者。"
+  },
+  {
+    "id": 1424,
+    "day": "Day5_3",
+    "topic": "TOEIC-workplace",
+    "question": "The presentation will ______ the benefits of the new software.",
+    "choices": {
+      "A": "demonstrate",
+      "B": "divide",
+      "C": "clarify",
+      "D": "major"
+    },
+    "answer": "A",
+    "explanation": "【翻譯】簡報將展示新軟體的優點。\n【為何選 A】demonstrate 表示展示或說明。\n【排除】clarify 表示釐清。"
+  },
+  {
+    "id": 1425,
+    "day": "Day5_3",
+    "topic": "TOEIC-workplace",
+    "question": "The ______ of the meeting will focus on project planning.",
+    "choices": {
+      "A": "expertise",
+      "B": "remainder",
+      "C": "provider",
+      "D": "compliance"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】會議剩餘的部分將專注於專案規劃。\n【為何選 B】remainder 表示剩餘部分。\n【排除】expertise 是專長。"
+  },
+  {
+    "id": 1426,
+    "day": "Day5_3",
+    "topic": "TOEIC-workplace",
+    "question": "Good communication is ______ for successful teamwork.",
+    "choices": {
+      "A": "major",
+      "B": "essential",
+      "C": "expert",
+      "D": "divide"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】良好的溝通對成功的團隊合作至關重要。\n【為何選 B】essential 表示必要的、不可或缺的。\n【排除】major 表示主要的。"
+  },
+  {
+    "id": 1427,
+    "day": "Day5_3",
+    "topic": "TOEIC-workplace",
+    "question": "The manager decided to ______ the project into several stages.",
+    "choices": {
+      "A": "divide",
+      "B": "clarify",
+      "C": "demonstrate",
+      "D": "provider"
+    },
+    "answer": "A",
+    "explanation": "【翻譯】經理決定將專案分成幾個階段。\n【為何選 A】divide 表示分割。\n【排除】clarify 是解釋。"
+  },
+  {
+    "id": 1428,
+    "day": "Day5_3",
+    "topic": "TOEIC-workplace",
+    "question": "The company announced a ______ expansion of its global operations.",
+    "choices": {
+      "A": "essential",
+      "B": "major",
+      "C": "provider",
+      "D": "remainder"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】公司宣布將大幅擴展全球業務。\n【為何選 B】major 表示重大的。\n【排除】essential 是必要的。"
+  },
+  {
+    "id": 1429,
+    "day": "Day5_3",
+    "topic": "TOEIC-workplace",
+    "question": "The company must ensure ______ with all safety regulations.",
+    "choices": {
+      "A": "compliance",
+      "B": "expertise",
+      "C": "divide",
+      "D": "remainder"
+    },
+    "answer": "A",
+    "explanation": "【翻譯】公司必須確保遵守所有安全規定。\n【為何選 A】compliance with 表示遵守規定。\n【排除】expertise 是專長。"
+  },
+  {
+    "id": 1430,
+    "day": "Day5_3",
+    "topic": "TOEIC-workplace",
+    "question": "Could you ______ the instructions for the new system?",
+    "choices": {
+      "A": "divide",
+      "B": "clarify",
+      "C": "demonstrate",
+      "D": "major"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】你能釐清新系統的操作說明嗎？\n【為何選 B】clarify 表示澄清或說明。\n【排除】demonstrate 是展示。"
+  }
+]

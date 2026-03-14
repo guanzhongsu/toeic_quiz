@@ -1,0 +1,184 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>選擇刷題日</title>
+  <style>
+    body {
+      margin: 0;
+      background: #f4f7f5;
+      font-family: system-ui, -apple-system, "Segoe UI", Arial, sans-serif;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      min-height: 100vh;
+      color: #2f3e34;
+    }
+
+    .card {
+      background: #ffffff;
+      padding: 32px 40px;
+      border-radius: 16px;
+      box-shadow: 0 8px 24px rgba(0,0,0,0.06);
+      text-align: center;
+      width: min(360px, 90vw);
+    }
+
+    h2 {
+      margin-top: 0;
+    }
+
+    select, button {
+      width: 100%;
+      padding: 12px;
+      margin-top: 16px;
+      font-size: 16px;
+      border-radius: 10px;
+      border: 1px solid #cbd5cd;
+      box-sizing: border-box;
+    }
+
+    button {
+      background: #5f7c6d;
+      color: white;
+      border: none;
+      cursor: pointer;
+    }
+
+    button:hover {
+      background: #4f6b5e;
+    }
+
+    .hint {
+      margin-top: 14px;
+      color: #6b7a72;
+      font-size: 14px;
+    }
+
+    .error {
+      margin-top: 14px;
+      color: #b42318;
+      font-size: 14px;
+    }
+  </style>
+</head>
+<body>
+  <form class="card" id="day-form">
+    <h2>📘 今日刷題</h2>
+    <p>請選擇刷題天數</p>
+
+    <select id="day-select" name="day" required>
+      <option value="">載入中...</option>
+    </select>
+
+    <button type="submit">開始刷題</button>
+
+    <div class="hint" id="hint-text">題庫讀取中...</div>
+    <div class="error" id="error-text"></div>
+  </form>
+
+  <!-- <script>
+    const QUESTIONS_FILE = "./questions.json";
+    let questions = [];
+
+    function daySortKey(day) {
+      const m = String(day).match(/^Day(\d+)(?:_(\d+))?$/i);
+      if (!m) return [999, 999];
+      const main = parseInt(m[1], 10);
+      const sub = m[2] ? parseInt(m[2], 10) : 0;
+      return [main, sub];
+    }
+
+    function compareDays(a, b) {
+      const [a1, a2] = daySortKey(a);
+      const [b1, b2] = daySortKey(b);
+      if (a1 !== b1) return a1 - b1;
+      return a2 - b2;
+    }
+
+    async function loadQuestions() {
+      const res = await fetch(`${QUESTIONS_FILE}?t=${Date.now()}`);
+      if (!res.ok) {
+        throw new Error("無法讀取 questions.json");
+      }
+      return await res.json();
+    }
+
+    function getDays(questions) {
+      return [...new Set(
+        questions.map(q => String(q.day || "Day1"))
+      )].sort(compareDays);
+    }
+
+    function populateDays(days) {
+      const select = document.getElementById("day-select");
+
+      if (!days.length) {
+        select.innerHTML = `<option value="">沒有可用的 Day</option>`;
+        return;
+      }
+
+      select.innerHTML = days
+        .map(day => `<option value="${day}">${day}</option>`)
+        .join("");
+    }
+
+    function startDay(day) {
+      const order = questions
+        .map((q, i) => ({ q, i }))
+        .filter(item => String(item.q.day || "Day1") === day)
+        .map(item => item.i);
+
+      const state = {
+        day,
+        order,
+        idx: 0,
+        correct: 0,
+        total: 0
+      };
+
+      sessionStorage.setItem("quizState", JSON.stringify(state));
+      sessionStorage.removeItem("currentQuestion");
+      sessionStorage.removeItem("selectedAnswer");
+      sessionStorage.removeItem("resultData");
+
+      window.location.href = "index.html";
+    }
+
+    document.getElementById("day-form").addEventListener("submit", function(e) {
+      e.preventDefault();
+
+      const day = document.getElementById("day-select").value;
+      if (!day) return;
+
+      startDay(day);
+    });
+
+    (async function init() {
+      const hint = document.getElementById("hint-text");
+      const error = document.getElementById("error-text");
+
+      try {
+        questions = await loadQuestions();
+
+        if (!Array.isArray(questions) || questions.length === 0) {
+          populateDays([]);
+          hint.textContent = "題庫是空的，請先放入 questions.json。";
+          return;
+        }
+
+        const days = getDays(questions);
+        populateDays(days);
+        hint.textContent = `目前共有 ${days.length} 個 Day 可供練習。`;
+      } catch (err) {
+        document.getElementById("day-select").innerHTML =
+          `<option value="">載入失敗</option>`;
+        hint.textContent = "";
+        error.textContent = `載入題庫失敗：${err.message}`;
+      }
+    })();
+  </script> -->
+  <script src="app.js"></script>
+</body>
+</html>

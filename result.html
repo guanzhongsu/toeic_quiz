@@ -1,0 +1,76 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>完成刷題</title>
+  <style>
+    body {
+      margin: 0;
+      background: #f4f7f5;
+      font-family: system-ui, -apple-system, "Segoe UI", Arial, sans-serif;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      min-height: 100vh;
+    }
+
+    .card {
+      background: white;
+      padding: 32px;
+      border-radius: 16px;
+      text-align: center;
+      box-shadow: 0 8px 24px rgba(0,0,0,0.06);
+      width: min(90%, 420px);
+    }
+
+    h2 {
+      margin-top: 0;
+      color: #2f3e36;
+    }
+
+    p {
+      color: #4f5d56;
+      font-size: 18px;
+      margin: 12px 0 0;
+    }
+
+    .actions {
+      margin-top: 20px;
+      display: flex;
+      gap: 12px;
+      justify-content: center;
+      flex-wrap: wrap;
+    }
+
+    button {
+      display: inline-block;
+      margin-top: 12px;
+      padding: 10px 18px;
+      border: none;
+      border-radius: 10px;
+      background: #5f7c6d;
+      color: white;
+      font-size: 15px;
+      cursor: pointer;
+    }
+
+    button:hover {
+      background: #4f685b;
+    }
+  </style>
+</head>
+<body>
+  <div class="card">
+    <h2 id="finish-title">🎉 完成</h2>
+    <p id="finish-score">答對 0 / 0 題</p>
+
+    <div class="actions">
+      <button type="button" onclick="restartDay()">重新做一次</button>
+      <button type="button" onclick="goHome()">回到選擇頁</button>
+    </div>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>

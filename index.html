@@ -1,0 +1,153 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>TOEIC 刷題</title>
+  <style>
+    :root {
+      --bg: #0f1419;
+      --card: #1b2228;
+      --text: #d6dde3;
+      --muted: #9aa4ad;
+      --accent: #6fa8dc;
+      --border: #2c343c;
+      --button: #3a6ea5;
+      --button-hover: #2f5f8f;
+      --home: #555f6b;
+      --home-hover: #4b5560;
+    }
+
+    body {
+      margin: 0;
+      background: var(--bg);
+      color: var(--text);
+      font-family: system-ui, -apple-system, "Segoe UI", Arial, sans-serif;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      min-height: 100vh;
+    }
+
+    .card {
+      position: relative;
+      background: var(--card);
+      max-width: 760px;
+      width: 90%;
+      padding: 32px 36px;
+      border-radius: 18px;
+      box-shadow: 0 20px 40px rgba(0,0,0,0.45);
+      border: 1px solid var(--border);
+    }
+
+    .meta {
+      color: var(--muted);
+      font-size: 14px;
+      margin-bottom: 12px;
+    }
+
+    h3 {
+      font-weight: 600;
+      line-height: 1.5;
+      margin-bottom: 22px;
+    }
+
+    .choice {
+      margin: 14px 0;
+      padding: 10px 14px;
+      border-radius: 10px;
+      border: 1px solid var(--border);
+      transition: background 0.2s;
+    }
+
+    .choice:hover {
+      background: #222b33;
+    }
+
+    label {
+      cursor: pointer;
+      display: block;
+    }
+
+    input[type="radio"] {
+      margin-right: 8px;
+      accent-color: var(--accent);
+    }
+
+    .btn-row {
+      display: flex;
+      justify-content: space-between;
+      margin-top: 24px;
+    }
+
+    button {
+      padding: 14px 28px;
+      font-size: 16px;
+      border-radius: 14px;
+      border: none;
+      cursor: pointer;
+      transition: background 0.2s, transform 0.05s;
+    }
+
+    .submit-btn {
+      background: var(--button);
+      color: #eaf2f8;
+    }
+
+    .submit-btn:hover {
+      background: var(--button-hover);
+    }
+
+    .home-btn {
+      background: var(--home);
+      color: #eaf2f8;
+    }
+
+    .home-btn:hover {
+      background: var(--home-hover);
+    }
+
+    button:active {
+      transform: translateY(1px);
+    }
+
+    .home-top {
+      position: absolute;
+      top: 18px;
+      right: 22px;
+      background: #555f6b;
+      color: #eaf2f8;
+      padding: 8px 16px;
+      font-size: 13px;
+      border-radius: 10px;
+      border: none;
+      cursor: pointer;
+      transition: background 0.2s;
+    }
+
+    .home-top:hover {
+      background: #4b5560;
+    }
+  </style>
+</head>
+
+<body>
+  <div class="card">
+    <button type="button" class="home-top" onclick="goHome()">回首頁</button>
+
+    <div class="meta" id="question-meta">載入中...</div>
+
+    <h3 id="question-text">題目載入中...</h3>
+
+    <form id="quiz-form">
+      <div id="choices-container"></div>
+
+      <div class="btn-row">
+        <button type="submit" class="submit-btn">送出答案</button>
+      </div>
+    </form>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>
