@@ -2,7 +2,8 @@ const QUESTIONS_FILE = "./questions.json";
 
 const STORAGE_KEYS = {
   quizState: "quizState",
-  resultData: "resultData"
+  resultData: "resultData",
+  questionsCache: "questionsCache"
 };
 
 let questions = [];
@@ -26,43 +27,23 @@ function compareDays(a, b) {
   return a2 - b2;
 }
 
-// async function loadQuestions() {
-//   const res = await fetch(`${QUESTIONS_FILE}?t=${Date.now()}`);
-//   if (!res.ok) {
-//     throw new Error("無法讀取 questions.json");
-//   }
-
-//   const data = await res.json();
-//   if (!Array.isArray(data)) {
-//     throw new Error("questions.json 格式錯誤，最外層應為陣列");
-//   }
-
-//   return data;
-// }
-async function loadQuestions() {
-  const cached = sessionStorage.getItem("questionsCache");
-  if (cached) {
-    return JSON.parse(cached);
-  }
-
-  const res = await fetch(QUESTIONS_FILE);
-  if (!res.ok) {
-    throw new Error("無法讀取 questions.json");
-  }
-
-  const data = await res.json();
-  if (!Array.isArray(data)) {
-    throw new Error("questions.json 格式錯誤，最外層應為陣列");
-  }
-
-  sessionStorage.setItem("questionsCache", JSON.stringify(data));
-  return data;
+function escapeHtml(str) {
+  return String(str ?? "")
+    .replaceAll("&", "&amp;")
+    .replaceAll("<", "&lt;")
+    .replaceAll(">", "&gt;")
+    .replaceAll('"', "&quot;")
+    .replaceAll("'", "&#39;");
 }
 
-function getDays(questionsList) {
-  return [...new Set(
-    questionsList.map(q => String(q.day || "Day1"))
-  )].sort(compareDays);
+function getPageName() {
+  const path = window.location.pathname;
+  const file = path.split("/").pop();
+  return file || "index.html";
+}
+
+function goToPage(pageName) {
+  window.location.href = pageName;
 }
 
 function getState() {
@@ -88,23 +69,49 @@ function saveResultData(resultData) {
   sessionStorage.setItem(STORAGE_KEYS.resultData, JSON.stringify(resultData));
 }
 
-function escapeHtml(str) {
-  return String(str ?? "")
-    .replaceAll("&", "&amp;")
-    .replaceAll("<", "&lt;")
-    .replaceAll(">", "&gt;")
-    .replaceAll('"', "&quot;")
-    .replaceAll("'", "&#39;");
+function getDays(questionsList) {
+  return [...new Set(
+    questionsList.map(q => String(q.day || "Day1"))
+  )].sort(compareDays);
 }
 
-function goToPage(pageName) {
-  window.location.href = pageName;
+async function loadQuestions() {
+  const cached = sessionStorage.getItem(STORAGE_KEYS.questionsCache);
+  if (cached) {
+    return JSON.parse(cached);
+  }
+
+  const res = await fetch(QUESTIONS_FILE);
+  if (!res.ok) {
+    throw new Error(`無法讀取 questions.json（HTTP ${res.status}）`);
+  }
+
+  const data = await res.json();
+  if (!Array.isArray(data)) {
+    throw new Error("questions.json 格式錯誤，最外層應為陣列");
+  }
+
+  sessionStorage.setItem(STORAGE_KEYS.questionsCache, JSON.stringify(data));
+  return data;
 }
 
-function getPageName() {
-  const path = window.location.pathname;
-  const file = path.split("/").pop();
-  return file || "index.html";
+function showFatalError(message) {
+  document.body.innerHTML = `
+    <div style="
+      max-width: 720px;
+      margin: 60px auto;
+      padding: 24px;
+      font-family: system-ui, -apple-system, 'Segoe UI', Arial, sans-serif;
+      background: #fff4f4;
+      color: #8a1f1f;
+      border: 1px solid #f0bcbc;
+      border-radius: 12px;
+      line-height: 1.7;
+    ">
+      <h2 style="margin-top: 0;">載入失敗</h2>
+      <div>${escapeHtml(message)}</div>
+    </div>
+  `;
 }
 
 function getCurrentQuestion(state) {
@@ -116,10 +123,8 @@ function getCurrentQuestion(state) {
 }
 
 /* =========================
-   流程邏輯（對應 Flask）
+   流程邏輯
 ========================= */
-
-// 對應 Flask: 使用者選擇 Day 後建立 session
 function startDay(day) {
   const selectedDay = String(day || "").trim();
   if (!selectedDay) return;
@@ -145,11 +150,9 @@ function startDay(day) {
 
   saveState(state);
   sessionStorage.removeItem(STORAGE_KEYS.resultData);
-
   goToPage("index.html");
 }
 
-// 對應 Flask: submit() -> render_template("result.html")
 function submitAnswer(userAnswerRaw) {
   const state = getState();
   if (!state) {
@@ -177,7 +180,7 @@ function submitAnswer(userAnswerRaw) {
   const userChoiceText = choices[userAnswer] || "";
   const correctChoiceText = choices[correctAnswer] || "";
 
-  const resultPayload = {
+  saveResultData({
     question: q.question || "",
     choices,
     user_answer: userAnswer,
@@ -189,15 +192,11 @@ function submitAnswer(userAnswerRaw) {
     score_correct: state.correct || 0,
     score_total: state.total || 0,
     day: state.day || ""
-  };
+  });
 
-  saveResultData(resultPayload);
-
-  // 這裡一定先去結果頁看解析
   goToPage("result.html");
 }
 
-// 對應 Flask: /next -> idx + 1 -> redirect(index)
 function nextQuestion() {
   const state = getState();
   if (!state || !Array.isArray(state.order)) {
@@ -209,9 +208,6 @@ function nextQuestion() {
   saveState(state);
   sessionStorage.removeItem(STORAGE_KEYS.resultData);
 
-  // 對應 Flask index():
-  // idx >= len(order) -> finish.html
-  // 否則 -> index.html
   if (state.idx >= state.order.length) {
     goToPage("finish.html");
   } else {
@@ -221,9 +217,7 @@ function nextQuestion() {
 
 function goHome() {
   clearState();
-  sessionStorage.removeItem("questionsCache");  
-  goToPage("select_day.html");
-}
+  sessionStorage.removeItem(STORAGE_KEYS.questionsCache);
   goToPage("select_day.html");
 }
 
@@ -244,7 +238,7 @@ function restartDay() {
 }
 
 /* =========================
-   頁面初始化：select_day.html
+   頁面初始化
 ========================= */
 function initSelectDayPage() {
   const form = document.getElementById("day-form");
@@ -252,7 +246,10 @@ function initSelectDayPage() {
   const hint = document.getElementById("hint-text");
   const error = document.getElementById("error-text");
 
-  if (!form || !select) return;
+  if (!form || !select) {
+    showFatalError("select_day.html 缺少必要元素：day-form 或 day-select。");
+    return;
+  }
 
   const days = getDays(questions);
 
@@ -277,26 +274,23 @@ function initSelectDayPage() {
   });
 }
 
-/* =========================
-   頁面初始化：index.html
-========================= */
 function initQuestionPage() {
   const metaEl = document.getElementById("question-meta");
   const textEl = document.getElementById("question-text");
   const choicesEl = document.getElementById("choices-container");
   const form = document.getElementById("quiz-form");
 
-  if (!metaEl || !textEl || !choicesEl || !form) return;
+  if (!metaEl || !textEl || !choicesEl || !form) {
+    showFatalError("index.html 缺少必要元素：question-meta、question-text、choices-container 或 quiz-form。");
+    return;
+  }
 
   const state = getState();
-
-  // 對應 Flask index(): 若 session 不完整就回首頁
   if (!state || !state.day || !Array.isArray(state.order) || !state.order.length) {
     goHome();
     return;
   }
 
-  // 對應 Flask index(): 題目做完才顯示 finish
   if (state.idx >= state.order.length) {
     goToPage("finish.html");
     return;
@@ -304,7 +298,7 @@ function initQuestionPage() {
 
   const q = getCurrentQuestion(state);
   if (!q) {
-    goHome();
+    showFatalError("找不到目前題目，請回首頁重新開始。");
     return;
   }
 
@@ -312,9 +306,7 @@ function initQuestionPage() {
   metaEl.textContent = `${state.day} ｜ 第 ${state.idx + 1} / ${state.order.length} 題`;
   textEl.textContent = q.question || "";
 
-  const choices = q.choices || {};
-  const entries = Object.entries(choices);
-
+  const entries = Object.entries(q.choices || {});
   if (!entries.length) {
     choicesEl.innerHTML = `<div class="choice">此題沒有選項</div>`;
     return;
@@ -331,20 +323,15 @@ function initQuestionPage() {
 
   form.addEventListener("submit", function (e) {
     e.preventDefault();
-
     const checked = form.querySelector('input[name="answer"]:checked');
     if (!checked) {
       alert("請先選擇答案。");
       return;
     }
-
     submitAnswer(checked.value);
   });
 }
 
-/* =========================
-   頁面初始化：result.html
-========================= */
 function initResultPage() {
   const qEl = document.getElementById("result-question");
   const userEl = document.getElementById("user-answer-text");
@@ -353,26 +340,23 @@ function initResultPage() {
   const expEl = document.getElementById("result-explanation");
   const scoreEl = document.getElementById("result-score");
 
-  if (!qEl || !userEl || !correctEl || !statusEl || !expEl || !scoreEl) return;
+  if (!qEl || !userEl || !correctEl || !statusEl || !expEl || !scoreEl) {
+    showFatalError("result.html 缺少必要元素。");
+    return;
+  }
 
   const state = getState();
   const r = getResultData();
 
-  // result.html 必須有 state 與 resultData
   if (!state || !r) {
     goHome();
     return;
   }
 
   document.title = "作答結果";
-
   qEl.textContent = r.question || "";
-
-  const userText = `${r.user_answer || ""} (${r.user_choice_text || ""})`;
-  const correctText = `${r.correct_answer || ""} (${r.correct_choice_text || ""})`;
-
-  userEl.textContent = userText;
-  correctEl.textContent = correctText;
+  userEl.textContent = `${r.user_answer || ""} (${r.user_choice_text || ""})`;
+  correctEl.textContent = `${r.correct_answer || ""} (${r.correct_choice_text || ""})`;
   expEl.textContent = r.explanation || "（本題尚未提供解析）";
   scoreEl.textContent = `目前得分：${r.score_correct ?? 0} / ${r.score_total ?? 0}`;
 
@@ -387,14 +371,14 @@ function initResultPage() {
   }
 }
 
-/* =========================
-   頁面初始化：finish.html
-========================= */
 function initFinishPage() {
   const titleEl = document.getElementById("finish-title");
   const scoreEl = document.getElementById("finish-score");
 
-  if (!titleEl || !scoreEl) return;
+  if (!titleEl || !scoreEl) {
+    showFatalError("finish.html 缺少必要元素：finish-title 或 finish-score。");
+    return;
+  }
 
   const state = getState();
   if (!state || !state.day) {
@@ -407,30 +391,12 @@ function initFinishPage() {
   scoreEl.textContent = `答對 ${state.correct ?? 0} / ${state.total ?? 0} 題`;
 }
 
-/* =========================
-   主初始化
-========================= */
 async function initApp() {
   try {
     questions = await loadQuestions();
   } catch (err) {
     console.error(err);
-
-    const errorBox = document.getElementById("error-text");
-    const hint = document.getElementById("hint-text");
-
-    if (errorBox) {
-      errorBox.textContent = `載入題庫失敗：${err.message}`;
-    } else {
-      document.body.innerHTML = `
-        <div style="padding:24px;font-family:system-ui;">
-          <h2>載入題庫失敗</h2>
-          <p>${escapeHtml(err.message)}</p>
-        </div>
-      `;
-    }
-
-    if (hint) hint.textContent = "";
+    showFatalError(err.message);
     return;
   }
 
@@ -444,6 +410,8 @@ async function initApp() {
     initResultPage();
   } else if (page === "finish.html") {
     initFinishPage();
+  } else {
+    showFatalError(`未知頁面：${page}`);
   }
 }
 
