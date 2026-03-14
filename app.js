@@ -26,8 +26,26 @@ function compareDays(a, b) {
   return a2 - b2;
 }
 
+// async function loadQuestions() {
+//   const res = await fetch(`${QUESTIONS_FILE}?t=${Date.now()}`);
+//   if (!res.ok) {
+//     throw new Error("無法讀取 questions.json");
+//   }
+
+//   const data = await res.json();
+//   if (!Array.isArray(data)) {
+//     throw new Error("questions.json 格式錯誤，最外層應為陣列");
+//   }
+
+//   return data;
+// }
 async function loadQuestions() {
-  const res = await fetch(`${QUESTIONS_FILE}?t=${Date.now()}`);
+  const cached = sessionStorage.getItem("questionsCache");
+  if (cached) {
+    return JSON.parse(cached);
+  }
+
+  const res = await fetch(QUESTIONS_FILE);
   if (!res.ok) {
     throw new Error("無法讀取 questions.json");
   }
@@ -37,6 +55,7 @@ async function loadQuestions() {
     throw new Error("questions.json 格式錯誤，最外層應為陣列");
   }
 
+  sessionStorage.setItem("questionsCache", JSON.stringify(data));
   return data;
 }
 
@@ -202,6 +221,9 @@ function nextQuestion() {
 
 function goHome() {
   clearState();
+  sessionStorage.removeItem("questionsCache");  
+  goToPage("select_day.html");
+}
   goToPage("select_day.html");
 }
 
