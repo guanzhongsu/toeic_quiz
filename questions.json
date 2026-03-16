@@ -2714,5 +2714,145 @@
     },
     "answer": "B",
     "explanation": "【翻譯】你能釐清新系統的操作說明嗎？\n【為何選 B】clarify 表示澄清或說明。\n【排除】demonstrate 是展示。"
+  },
+  {
+    "id": 1431,
+    "day": "Day5_4",
+    "topic": "TOEIC-workplace",
+    "question": "The company may ______ serious financial challenges this year.",
+    "choices": {
+      "A": "face",
+      "B": "aspect",
+      "C": "aware",
+      "D": "follow"
+    },
+    "answer": "A",
+    "explanation": "【翻譯】公司今年可能面臨嚴重的財務挑戰。\n【為何選 A】face challenges 表示面對挑戰。\n【排除】aspect 是方面。"
+  },
+  {
+    "id": 1432,
+    "day": "Day5_4",
+    "topic": "TOEIC-workplace",
+    "question": "Please ______ the instructions carefully before using the system.",
+    "choices": {
+      "A": "follow",
+      "B": "face",
+      "C": "speak",
+      "D": "aspect"
+    },
+    "answer": "A",
+    "explanation": "【翻譯】在使用系統之前請仔細遵循說明。\n【為何選 A】follow instructions 是固定搭配。\n【排除】face 表示面對。"
+  },
+  {
+    "id": 1433,
+    "day": "Day5_4",
+    "topic": "TOEIC-workplace",
+    "question": "Customer satisfaction is an important ______ of business success.",
+    "choices": {
+      "A": "aspect",
+      "B": "face",
+      "C": "speak",
+      "D": "aware"
+    },
+    "answer": "A",
+    "explanation": "【翻譯】客戶滿意度是商業成功的重要方面。\n【為何選 A】aspect 表示方面。\n【排除】face 表示面對。"
+  },
+  {
+    "id": 1434,
+    "day": "Day5_4",
+    "topic": "TOEIC-workplace",
+    "question": "The delay was ______ caused by a technical problem.",
+    "choices": {
+      "A": "apparently",
+      "B": "extended",
+      "C": "aware",
+      "D": "concerned"
+    },
+    "answer": "A",
+    "explanation": "【翻譯】這次延誤顯然是由技術問題造成的。\n【為何選 A】apparently 表示顯然地。\n【排除】extended 表示延長的。"
+  },
+  {
+    "id": 1435,
+    "day": "Day5_4",
+    "topic": "TOEIC-workplace",
+    "question": "Employees should be ______ of company policies.",
+    "choices": {
+      "A": "aware",
+      "B": "extended",
+      "C": "concerned",
+      "D": "follow"
+    },
+    "answer": "A",
+    "explanation": "【翻譯】員工應該了解公司政策。\n【為何選 A】be aware of 表示知道或了解。\n【排除】concerned 是關心的。"
+  },
+  {
+    "id": 1436,
+    "day": "Day5_4",
+    "topic": "TOEIC-workplace",
+    "question": "The meeting was ______ for another hour due to discussions.",
+    "choices": {
+      "A": "extended",
+      "B": "accidentally",
+      "C": "apparently",
+      "D": "concerned"
+    },
+    "answer": "A",
+    "explanation": "【翻譯】由於討論，會議被延長了一個小時。\n【為何選 A】extend a meeting 表示延長會議。\n【排除】accidentally 表示意外地。"
+  },
+  {
+    "id": 1437,
+    "day": "Day5_4",
+    "topic": "TOEIC-workplace",
+    "question": "He ______ deleted an important email.",
+    "choices": {
+      "A": "apparently",
+      "B": "accidentally",
+      "C": "aware",
+      "D": "follow"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】他不小心刪除了重要的電子郵件。\n【為何選 B】accidentally 表示意外地。\n【排除】apparently 是顯然地。"
+  },
+  {
+    "id": 1438,
+    "day": "Day5_4",
+    "topic": "TOEIC-workplace",
+    "question": "It is ______ to review the contract before signing it.",
+    "choices": {
+      "A": "advisable",
+      "B": "concerned",
+      "C": "aware",
+      "D": "extended"
+    },
+    "answer": "A",
+    "explanation": "【翻譯】在簽署合約前先審查是明智的。\n【為何選 A】advisable 表示明智的、建議的。\n【排除】concerned 是關心的。"
+  },
+  {
+    "id": 1439,
+    "day": "Day5_4",
+    "topic": "TOEIC-workplace",
+    "question": "Managers are ______ about employee safety.",
+    "choices": {
+      "A": "aware",
+      "B": "concerned",
+      "C": "extended",
+      "D": "aspect"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】經理關心員工安全。\n【為何選 B】concerned about 表示關心。\n【排除】aware about 不常見。"
+  },
+  {
+    "id": 1440,
+    "day": "Day5_4",
+    "topic": "TOEIC-workplace",
+    "question": "She will ______ at the conference tomorrow.",
+    "choices": {
+      "A": "follow",
+      "B": "speak",
+      "C": "face",
+      "D": "aspect"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】她將在明天的會議上發表演說。\n【為何選 B】speak at a conference 表示在會議上演講。\n【排除】follow 表示跟隨。"
   }
 ]
