@@ -2854,5 +2854,145 @@
     },
     "answer": "B",
     "explanation": "【翻譯】她將在明天的會議上發表演說。\n【為何選 B】speak at a conference 表示在會議上演講。\n【排除】follow 表示跟隨。"
+  },
+  {
+    "id": 1441,
+    "day": "Day6",
+    "topic": "TOEIC-workplace",
+    "question": "Please take a short ______ before continuing your work.",
+    "choices": {
+      "A": "rest",
+      "B": "live",
+      "C": "present",
+      "D": "popular"
+    },
+    "answer": "A",
+    "explanation": "【翻譯】請在繼續工作前稍作休息。\n【為何選 A】take a rest 是固定用法。\n【排除】live 是動詞生活。"
+  },
+  {
+    "id": 1442,
+    "day": "Day6",
+    "topic": "TOEIC-workplace",
+    "question": "The museum is hosting an art ______ this weekend.",
+    "choices": {
+      "A": "donation",
+      "B": "exhibition",
+      "C": "admission",
+      "D": "rest"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】博物館本週末將舉辦藝術展覽。\n【為何選 B】exhibition 表示展覽。\n【排除】donation 是捐款。"
+  },
+  {
+    "id": 1443,
+    "day": "Day6",
+    "topic": "TOEIC-workplace",
+    "question": "A famous ______ will attend the charity event tonight.",
+    "choices": {
+      "A": "alumni",
+      "B": "celebrity",
+      "C": "present",
+      "D": "popular"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】一位知名名人今晚將出席慈善活動。\n【為何選 B】celebrity 表示名人。\n【排除】alumni 是校友（複數）。"
+  },
+  {
+    "id": 1444,
+    "day": "Day6",
+    "topic": "TOEIC-workplace",
+    "question": "The concert will be broadcast ______ on television.",
+    "choices": {
+      "A": "popular",
+      "B": "live",
+      "C": "present",
+      "D": "rest"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】演唱會將在電視上現場直播。\n【為何選 B】live 表示現場直播。\n【排除】present 是呈現。"
+  },
+  {
+    "id": 1445,
+    "day": "Day6",
+    "topic": "TOEIC-workplace",
+    "question": "He had to ______ when the presentation equipment failed.",
+    "choices": {
+      "A": "present",
+      "B": "improvise",
+      "C": "rest",
+      "D": "donate"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】當簡報設備故障時，他必須即興應對。\n【為何選 B】improvise 表示臨場發揮。\n【排除】present 是呈現。"
+  },
+  {
+    "id": 1446,
+    "day": "Day6",
+    "topic": "TOEIC-workplace",
+    "question": "This restaurant is very ______ among young people.",
+    "choices": {
+      "A": "popular",
+      "B": "live",
+      "C": "rest",
+      "D": "present"
+    },
+    "answer": "A",
+    "explanation": "【翻譯】這家餐廳在年輕人中非常受歡迎。\n【為何選 A】popular 表示受歡迎的。\n【排除】live 是現場的。"
+  },
+  {
+    "id": 1447,
+    "day": "Day6",
+    "topic": "TOEIC-workplace",
+    "question": "The organization received a large ______ from a local company.",
+    "choices": {
+      "A": "admission",
+      "B": "donation",
+      "C": "exhibition",
+      "D": "rest"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】該組織收到一家本地公司的大筆捐款。\n【為何選 B】donation 表示捐款。\n【排除】admission 是入場費。"
+  },
+  {
+    "id": 1448,
+    "day": "Day6",
+    "topic": "TOEIC-workplace",
+    "question": "Many ______ returned to the university for the reunion.",
+    "choices": {
+      "A": "celebrity",
+      "B": "alumni",
+      "C": "donation",
+      "D": "present"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】許多校友回到學校參加同學會。\n【為何選 B】alumni 是校友（複數）。\n【排除】celebrity 是名人。"
+  },
+  {
+    "id": 1449,
+    "day": "Day6",
+    "topic": "TOEIC-workplace",
+    "question": "She will ______ the award to the winner.",
+    "choices": {
+      "A": "rest",
+      "B": "present",
+      "C": "live",
+      "D": "improvise"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】她將頒發獎項給得獎者。\n【為何選 B】present 表示頒發或呈現。\n【排除】rest 是休息。"
+  },
+  {
+    "id": 1450,
+    "day": "Day6",
+    "topic": "TOEIC-workplace",
+    "question": "The ______ fee includes access to all areas of the event.",
+    "choices": {
+      "A": "donation",
+      "B": "admission",
+      "C": "exhibition",
+      "D": "rest"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】入場費包含所有區域的進入權。\n【為何選 B】admission fee 表示入場費。\n【排除】donation 是捐款。"
   }
 ]
