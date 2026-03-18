@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>選擇刷題日</title>
   <!-- <link rel="stylesheet" href="style.css"> -->
-  <style>
+  <!-- <style>
     body {
       margin: 0;
       background: #f4f7f5;
@@ -62,7 +62,89 @@
       color: #b42318;
       font-size: 14px;
     }
-  </style>
+  </style> -->
+  <style>
+  :root {
+    --bg: #0f1419;
+    --card: #1b2228;
+    --text: #d6dde3;
+    --muted: #9aa4ad;
+    --accent: #6fa8dc;
+    --border: #2c343c;
+    --button: #3a6ea5;
+    --button-hover: #2f5f8f;
+    --error: #e07a7a;
+  }
+  
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--text);
+    font-family: system-ui, -apple-system, "Segoe UI", Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+  }
+  
+  .card {
+    background: var(--card);
+    padding: 32px 40px;
+    border-radius: 16px;
+    box-shadow: 0 20px 40px rgba(0,0,0,0.45);
+    text-align: center;
+    width: min(360px, 90vw);
+    border: 1px solid var(--border);
+  }
+  
+  h2 {
+    margin-top: 0;
+    color: var(--text);
+  }
+  
+  select, button {
+    width: 100%;
+    padding: 12px;
+    margin-top: 16px;
+    font-size: 16px;
+    border-radius: 10px;
+    box-sizing: border-box;
+  }
+  
+  /* select input */
+  select {
+    background: #222b33;
+    color: var(--text);
+    border: 1px solid var(--border);
+  }
+  
+  /* button */
+  button {
+    background: var(--button);
+    color: #eaf2f8;
+    border: none;
+    cursor: pointer;
+    transition: background 0.2s;
+  }
+  
+  button:hover {
+    background: var(--button-hover);
+  }
+  
+  /* hint */
+  .hint {
+    margin-top: 14px;
+    color: var(--muted);
+    font-size: 14px;
+  }
+  
+  /* error */
+  .error {
+    margin-top: 14px;
+    color: var(--error);
+    font-size: 14px;
+  }
+ </style>
 </head>
 <body>
   <form class="card" id="day-form">
