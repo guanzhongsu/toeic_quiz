@@ -6,7 +6,74 @@
   <title>完成刷題</title>
   <!-- <link rel="stylesheet" href="style.css"> -->
   <style>
+    :root {
+      --bg: #0f1419;
+      --card: #1b2228;
+      --text: #d6dde3;
+      --muted: #9aa4ad;
+      --accent: #6fa8dc;
+      --border: #2c343c;
+      --button: #3a6ea5;
+      --button-hover: #2f5f8f;
+    }
+    
     body {
+      margin: 0;
+      background: var(--bg);
+      font-family: system-ui, -apple-system, "Segoe UI", Arial, sans-serif;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      min-height: 100vh;
+      color: var(--text);
+    }
+    
+    .card {
+      background: var(--card);
+      padding: 32px;
+      border-radius: 16px;
+      text-align: center;
+      box-shadow: 0 20px 40px rgba(0,0,0,0.45);
+      width: min(90%, 420px);
+      border: 1px solid var(--border);
+    }
+    
+    h2 {
+      margin-top: 0;
+      color: var(--text);
+    }
+    
+    p {
+      color: var(--muted);
+      font-size: 18px;
+      margin: 12px 0 0;
+    }
+    
+    .actions {
+      margin-top: 20px;
+    }
+    
+    button {
+      display: inline-block;
+      margin-top: 12px;
+      padding: 10px 18px;
+      border: none;
+      border-radius: 10px;
+      background: var(--button);
+      color: #eaf2f8;
+      font-size: 15px;
+      cursor: pointer;
+      transition: background 0.2s, transform 0.05s;
+    }
+    
+    button:hover {
+      background: var(--button-hover);
+    }
+    
+    button:active {
+      transform: translateY(1px);
+    }
+    /* body {
       margin: 0;
       background: #f4f7f5;
       font-family: system-ui, -apple-system, "Segoe UI", Arial, sans-serif;
@@ -54,7 +121,7 @@
 
     button:hover {
       background: #4f685b;
-    }
+    } */
   </style>
 </head>
 <body>
