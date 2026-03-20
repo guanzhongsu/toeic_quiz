@@ -3134,5 +3134,145 @@
     },
     "answer": "C",
     "explanation": "【翻譯】幾項新產品將在下個月上市（出現於市場）。\n【為何選 C】appear 表示出現。\n【排除】resume 是履歷或繼續。"
+  },
+  {
+    "id": 1451,
+    "day": "Day6_2",
+    "topic": "TOEIC-workplace",
+    "question": "The company will host a formal ______ for its employees next week.",
+    "choices": {
+      "A": "collection",
+      "B": "banquet",
+      "C": "subscription",
+      "D": "issue"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】公司下週將為員工舉辦一場正式宴會。\n【為何選 B】banquet 表示正式宴會。\n【排除】collection 是收藏或收集。"
+  },
+  {
+    "id": 1452,
+    "day": "Day6_2",
+    "topic": "TOEIC-workplace",
+    "question": "They are celebrating the company's 20th ______ this year.",
+    "choices": {
+      "A": "anniversary",
+      "B": "issue",
+      "C": "collection",
+      "D": "resume"
+    },
+    "answer": "A",
+    "explanation": "【翻譯】他們今年正在慶祝公司成立20週年。\n【為何選 A】anniversary 表示週年紀念。\n【排除】issue 是問題或期刊。"
+  },
+  {
+    "id": 1453,
+    "day": "Day6_2",
+    "topic": "TOEIC-workplace",
+    "question": "All employees are ______ to attend the safety training.",
+    "choices": {
+      "A": "appear",
+      "B": "required",
+      "C": "collection",
+      "D": "subscription"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】所有員工都必須參加安全訓練。\n【為何選 B】be required to 表示必須。\n【排除】appear 是出現。"
+  },
+  {
+    "id": 1454,
+    "day": "Day6_2",
+    "topic": "TOEIC-workplace",
+    "question": "If you work hard, you will ______ in your career.",
+    "choices": {
+      "A": "issue",
+      "B": "succeed",
+      "C": "resume",
+      "D": "appear"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】如果你努力工作，你會在職涯上成功。\n【為何選 B】succeed 表示成功。\n【排除】resume 是履歷或繼續。"
+  },
+  {
+    "id": 1455,
+    "day": "Day6_2",
+    "topic": "TOEIC-workplace",
+    "question": "The museum has an impressive art ______.",
+    "choices": {
+      "A": "collection",
+      "B": "banquet",
+      "C": "issue",
+      "D": "subscription"
+    },
+    "answer": "A",
+    "explanation": "【翻譯】這座博物館擁有令人印象深刻的藝術收藏。\n【為何選 A】collection 表示收藏品。\n【排除】banquet 是宴會。"
+  },
+  {
+    "id": 1456,
+    "day": "Day6_2",
+    "topic": "TOEIC-workplace",
+    "question": "The organization is holding a ______ event to support charity.",
+    "choices": {
+      "A": "issue",
+      "B": "resume",
+      "C": "fund-raising",
+      "D": "subscription"
+    },
+    "answer": "C",
+    "explanation": "【翻譯】該組織正在舉辦募款活動支持慈善。\n【為何選 C】fund-raising 表示募款。\n【排除】subscription 是訂閱。"
+  },
+  {
+    "id": 1457,
+    "day": "Day6_2",
+    "topic": "TOEIC-workplace",
+    "question": "Please submit your ______ when applying for the position.",
+    "choices": {
+      "A": "issue",
+      "B": "resume",
+      "C": "collection",
+      "D": "banquet"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】申請該職位時請提交你的履歷。\n【為何選 B】resume 表示履歷。\n【排除】issue 是問題。"
+  },
+  {
+    "id": 1458,
+    "day": "Day6_2",
+    "topic": "TOEIC-workplace",
+    "question": "The manager discussed an important ______ during the meeting.",
+    "choices": {
+      "A": "issue",
+      "B": "subscription",
+      "C": "collection",
+      "D": "anniversary"
+    },
+    "answer": "A",
+    "explanation": "【翻譯】經理在會議中討論了一個重要議題。\n【為何選 A】issue 表示議題或問題。\n【排除】subscription 是訂閱。"
+  },
+  {
+    "id": 1459,
+    "day": "Day6_2",
+    "topic": "TOEIC-workplace",
+    "question": "You need a monthly ______ to access premium content.",
+    "choices": {
+      "A": "issue",
+      "B": "collection",
+      "C": "subscription",
+      "D": "banquet"
+    },
+    "answer": "C",
+    "explanation": "【翻譯】你需要每月訂閱才能使用高級內容。\n【為何選 C】subscription 表示訂閱。\n【排除】collection 是收藏。"
+  },
+  {
+    "id": 1460,
+    "day": "Day6_2",
+    "topic": "TOEIC-workplace",
+    "question": "Several new products will ______ in the market next month.",
+    "choices": {
+      "A": "resume",
+      "B": "succeed",
+      "C": "appear",
+      "D": "issue"
+    },
+    "answer": "C",
+    "explanation": "【翻譯】幾項新產品將在下個月上市（出現於市場）。\n【為何選 C】appear 表示出現。\n【排除】resume 是履歷或繼續。"
   }
 ]
