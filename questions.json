@@ -3274,5 +3274,146 @@
     },
     "answer": "C",
     "explanation": "【翻譯】幾項新產品將在下個月上市（出現於市場）。\n【為何選 C】appear 表示出現。\n【排除】resume 是履歷或繼續。"
+  },
+  {
+    "id": 1461,
+    "day": "Day6_3",
+    "topic": "TOEIC-workplace",
+    "question": "She will ______ the manager to the business meeting.",
+    "choices": {
+      "A": "commit",
+      "B": "accompany",
+      "C": "inform",
+      "D": "note"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】她將陪同經理參加商務會議。\n【為何選 B】accompany 表示陪同。\n【排除】commit 是承諾或投入。"
+  },
+  {
+    "id": 1462,
+    "day": "Day6_3",
+    "topic": "TOEIC-workplace",
+    "question": "This is the latest ______ of the company newsletter.",
+    "choices": {
+      "A": "edition",
+      "B": "audience",
+      "C": "author",
+      "D": "note"
+    },
+    "answer": "A",
+    "explanation": "【翻譯】這是公司通訊的最新版本。\n【為何選 A】edition 表示版本、版次。\n【排除】author 是作者。"
+  },
+  {
+    "id": 1463,
+    "day": "Day6_3",
+    "topic": "TOEIC-workplace",
+    "question": "The report was written ______ for new employees.",
+    "choices": {
+      "A": "anonymous",
+      "B": "specifically",
+      "C": "informative",
+      "D": "antique"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】這份報告是專門為新員工撰寫的。\n【為何選 B】specifically 表示特別地、專門地。\n【排除】anonymous 是匿名的。"
+  },
+  {
+    "id": 1464,
+    "day": "Day6_3",
+    "topic": "TOEIC-workplace",
+    "question": "The survey was conducted in a completely ______ manner.",
+    "choices": {
+      "A": "informative",
+      "B": "anonymous",
+      "C": "specific",
+      "D": "antique"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】這項調查以完全匿名的方式進行。\n【為何選 B】anonymous 表示匿名的。\n【排除】informative 是資訊豐富的。"
+  },
+  {
+    "id": 1465,
+    "day": "Day6_3",
+    "topic": "TOEIC-workplace",
+    "question": "He decided to ______ himself to improving his skills.",
+    "choices": {
+      "A": "accompany",
+      "B": "commit",
+      "C": "note",
+      "D": "author"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】他決定投入自己來提升技能。\n【為何選 B】commit oneself to 表示投入於。\n【排除】accompany 是陪同。"
+  },
+  {
+    "id": 1466,
+    "day": "Day6_3",
+    "topic": "TOEIC-workplace",
+    "question": "The presentation was both clear and highly ______.",
+    "choices": {
+      "A": "informative",
+      "B": "anonymous",
+      "C": "antique",
+      "D": "specific"
+    },
+    "answer": "A",
+    "explanation": "【翻譯】這場簡報既清楚又資訊豐富。\n【為何選 A】informative 表示資訊豐富的。\n【排除】anonymous 是匿名的。"
+  },
+  {
+    "id": 1467,
+    "day": "Day6_3",
+    "topic": "TOEIC-workplace",
+    "question": "The speaker engaged the ______ with an interesting story.",
+    "choices": {
+      "A": "author",
+      "B": "edition",
+      "C": "audience",
+      "D": "note"
+    },
+    "answer": "C",
+    "explanation": "【翻譯】演講者用一個有趣的故事吸引了觀眾。\n【為何選 C】audience 表示觀眾。\n【排除】author 是作者。"
+  },
+  {
+    "id": 1468,
+    "day": "Day6_3",
+    "topic": "TOEIC-workplace",
+    "question": "The ______ of the book will attend the signing event.",
+    "choices": {
+      "A": "edition",
+      "B": "author",
+      "C": "audience",
+      "D": "note"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】這本書的作者將出席簽書會。\n【為何選 B】author 表示作者。\n【排除】edition 是版本。"
+  },
+  {
+    "id": 1469,
+    "day": "Day6_3",
+    "topic": "TOEIC-workplace",
+    "question": "Please take a ______ of the important points discussed.",
+    "choices": {
+      "A": "note",
+      "B": "author",
+      "C": "edition",
+      "D": "antique"
+    },
+    "answer": "A",
+    "explanation": "【翻譯】請記下討論的重要重點。\n【為何選 A】take notes 是固定搭配。\n【排除】author 是作者。"
+  },
+  {
+    "id": 1470,
+    "day": "Day6_3",
+    "topic": "TOEIC-workplace",
+    "question": "The museum displays a collection of ______ furniture.",
+    "choices": {
+      "A": "informative",
+      "B": "anonymous",
+      "C": "antique",
+      "D": "specific"
+    },
+    "answer": "C",
+    "explanation": "【翻譯】博物館展示了一系列古董家具。\n【為何選 C】antique 表示古董的。\n【排除】informative 是資訊性的。"
   }
 ]
+
