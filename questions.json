@@ -3274,6 +3274,174 @@
     },
     "answer": "C",
     "explanation": "【翻譯】博物館展示了一系列古董家具。\n【為何選 C】antique 表示古董的。\n【排除】informative 是資訊性的。"
+  },
+  {
+    "id": 1471,
+    "day": "Day6_4",
+    "topic": "TOEIC-workplace",
+    "question": "The writer submitted his ______ to the publisher for review.",
+    "choices": {
+      "A": "manuscript",
+      "B": "variety",
+      "C": "contributor",
+      "D": "showing"
+    },
+    "answer": "A",
+    "explanation": "【翻譯】作家將手稿提交給出版社審查。\n【為何選 A】manuscript 表示手稿。\n【排除】contributor 是貢獻者。"
+  },
+  {
+    "id": 1472,
+    "day": "Day6_4",
+    "topic": "TOEIC-workplace",
+    "question": "Regular exercise is ______ to your health.",
+    "choices": {
+      "A": "current",
+      "B": "beneficial",
+      "C": "local",
+      "D": "fascinating"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】規律運動對健康有益。\n【為何選 B】beneficial to 表示對…有益。\n【排除】fascinating 是迷人的。"
+  },
+  {
+    "id": 1473,
+    "day": "Day6_4",
+    "topic": "TOEIC-workplace",
+    "question": "The company is preparing for the ______ product launch.",
+    "choices": {
+      "A": "current",
+      "B": "upcoming",
+      "C": "local",
+      "D": "beneficial"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】公司正在準備即將到來的產品發表。\n【為何選 B】upcoming 表示即將到來的。\n【排除】current 是目前的。"
+  },
+  {
+    "id": 1474,
+    "day": "Day6_4",
+    "topic": "TOEIC-workplace",
+    "question": "Can you ______ me your notes for the meeting?",
+    "choices": {
+      "A": "lend",
+      "B": "show",
+      "C": "advocate",
+      "D": "defy"
+    },
+    "answer": "A",
+    "explanation": "【翻譯】你可以借我你的會議筆記嗎？\n【為何選 A】lend 表示借出。\n【排除】show 是展示。"
+  },
+  {
+    "id": 1475,
+    "day": "Day6_4",
+    "topic": "TOEIC-workplace",
+    "question": "The ______ market conditions are challenging for small businesses.",
+    "choices": {
+      "A": "current",
+      "B": "upcoming",
+      "C": "local",
+      "D": "beneficial"
+    },
+    "answer": "A",
+    "explanation": "【翻譯】目前的市場環境對小企業來說充滿挑戰。\n【為何選 A】current 表示目前的。\n【排除】upcoming 是未來的。"
+  },
+  {
+    "id": 1476,
+    "day": "Day6_4",
+    "topic": "TOEIC-workplace",
+    "question": "The restaurant serves a variety of ______ dishes.",
+    "choices": {
+      "A": "beneficial",
+      "B": "local",
+      "C": "current",
+      "D": "fascinating"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】這家餐廳提供多種在地料理。\n【為何選 B】local dishes 表示在地料理。\n【排除】beneficial 與食物不搭。"
+  },
+  {
+    "id": 1477,
+    "day": "Day6_4",
+    "topic": "TOEIC-workplace",
+    "question": "The company offers a wide ______ of services.",
+    "choices": {
+      "A": "variety",
+      "B": "manuscript",
+      "C": "contributor",
+      "D": "showing"
+    },
+    "answer": "A",
+    "explanation": "【翻譯】公司提供多樣化的服務。\n【為何選 A】a variety of 表示各種。\n【排除】manuscript 是手稿。"
+  },
+  {
+    "id": 1478,
+    "day": "Day6_4",
+    "topic": "TOEIC-workplace",
+    "question": "He strongly ______ for environmental protection policies.",
+    "choices": {
+      "A": "defies",
+      "B": "advocates",
+      "C": "lends",
+      "D": "shows"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】他強烈主張環保政策。\n【為何選 B】advocate for 表示主張。\n【排除】defy 是反抗。"
+  },
+  {
+    "id": 1479,
+    "day": "Day6_4",
+    "topic": "TOEIC-workplace",
+    "question": "Each ______ contributed to the success of the project.",
+    "choices": {
+      "A": "manuscript",
+      "B": "contributor",
+      "C": "variety",
+      "D": "showing"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】每位貢獻者都促成了專案成功。\n【為何選 B】contributor 表示貢獻者。\n【排除】variety 是多樣性。"
+  },
+  {
+    "id": 1480,
+    "day": "Day6_4",
+    "topic": "TOEIC-workplace",
+    "question": "The results seem to ______ expectations.",
+    "choices": {
+      "A": "lend",
+      "B": "advocate",
+      "C": "defy",
+      "D": "show"
+    },
+    "answer": "C",
+    "explanation": "【翻譯】結果似乎違背了預期。\n【為何選 C】defy expectations 表示違背預期。\n【排除】show 是展示。"
+  },
+  {
+    "id": 1481,
+    "day": "Day6_4",
+    "topic": "TOEIC-workplace",
+    "question": "The documentary provided a ______ look at marine life.",
+    "choices": {
+      "A": "current",
+      "B": "fascinating",
+      "C": "local",
+      "D": "beneficial"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】這部紀錄片提供了對海洋生物的迷人觀察。\n【為何選 B】fascinating 表示令人著迷的。\n【排除】beneficial 是有益的。"
+  },
+  {
+    "id": 1482,
+    "day": "Day6_4",
+    "topic": "TOEIC-workplace",
+    "question": "The art gallery is ______ a special exhibition this month.",
+    "choices": {
+      "A": "lending",
+      "B": "advocating",
+      "C": "showing",
+      "D": "defying"
+    },
+    "answer": "C",
+    "explanation": "【翻譯】藝術畫廊本月正在展出特別展覽。\n【為何選 C】showing 表示展出。\n【排除】advocating 是主張。"
   }
 ]
 
