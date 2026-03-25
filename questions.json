@@ -3442,6 +3442,146 @@
     },
     "answer": "C",
     "explanation": "【翻譯】藝術畫廊本月正在展出特別展覽。\n【為何選 C】showing 表示展出。\n【排除】advocating 是主張。"
+  },
+  {
+    "id": 1483,
+    "day": "Day7",
+    "topic": "TOEIC-business",
+    "question": "The company conducted a customer ______ to gather feedback.",
+    "choices": {
+      "A": "analysis",
+      "B": "survey",
+      "C": "demand",
+      "D": "competition"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】公司進行了一項顧客調查以蒐集回饋。\n【為何選 B】conduct a survey 是固定搭配。\n【排除】analysis 是分析。"
+  },
+  {
+    "id": 1484,
+    "day": "Day7",
+    "topic": "TOEIC-business",
+    "question": "The report includes a detailed market ______.",
+    "choices": {
+      "A": "analysis",
+      "B": "survey",
+      "C": "respondent",
+      "D": "demand"
+    },
+    "answer": "A",
+    "explanation": "【翻譯】報告包含詳細的市場分析。\n【為何選 A】market analysis 是常見搭配。\n【排除】survey 是調查。"
+  },
+  {
+    "id": 1485,
+    "day": "Day7",
+    "topic": "TOEIC-business",
+    "question": "Each ______ was asked to complete the questionnaire.",
+    "choices": {
+      "A": "analysis",
+      "B": "competition",
+      "C": "respondent",
+      "D": "demand"
+    },
+    "answer": "C",
+    "explanation": "【翻譯】每位受訪者都被要求完成問卷。\n【為何選 C】respondent 表示受訪者。\n【排除】competition 是競爭。"
+  },
+  {
+    "id": 1486,
+    "day": "Day7",
+    "topic": "TOEIC-business",
+    "question": "The company was accused of creating a market ______.",
+    "choices": {
+      "A": "competition",
+      "B": "analysis",
+      "C": "monopoly",
+      "D": "demand"
+    },
+    "answer": "C",
+    "explanation": "【翻譯】該公司被指控壟斷市場。\n【為何選 C】monopoly 表示壟斷。\n【排除】competition 是競爭。"
+  },
+  {
+    "id": 1487,
+    "day": "Day7",
+    "topic": "TOEIC-business",
+    "question": "Strong ______ in the market forces companies to improve.",
+    "choices": {
+      "A": "monopoly",
+      "B": "competition",
+      "C": "analysis",
+      "D": "respondent"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】激烈的市場競爭迫使公司進步。\n【為何選 B】competition 表示競爭。\n【排除】monopoly 是壟斷。"
+  },
+  {
+    "id": 1488,
+    "day": "Day7",
+    "topic": "TOEIC-business",
+    "question": "She has ______ delivered high-quality work for years.",
+    "choices": {
+      "A": "consistently",
+      "B": "advanced",
+      "C": "expand",
+      "D": "survey"
+    },
+    "answer": "A",
+    "explanation": "【翻譯】她多年來持續提供高品質的工作成果。\n【為何選 A】consistently 表示持續地。\n【排除】advanced 是形容詞。"
+  },
+  {
+    "id": 1489,
+    "day": "Day7",
+    "topic": "TOEIC-business",
+    "question": "There is a growing ______ for eco-friendly products.",
+    "choices": {
+      "A": "analysis",
+      "B": "demand",
+      "C": "competition",
+      "D": "respondent"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】對環保產品的需求正在增加。\n【為何選 B】demand 表示需求。\n【排除】analysis 是分析。"
+  },
+  {
+    "id": 1490,
+    "day": "Day7",
+    "topic": "TOEIC-business",
+    "question": "The team will do their ______ to complete the project on time.",
+    "choices": {
+      "A": "analysis",
+      "B": "competition",
+      "C": "utmost",
+      "D": "demand"
+    },
+    "answer": "C",
+    "explanation": "【翻譯】團隊將盡最大努力準時完成專案。\n【為何選 C】do one's utmost 表示盡最大努力。\n【排除】其他選項不符合固定片語。"
+  },
+  {
+    "id": 1491,
+    "day": "Day7",
+    "topic": "TOEIC-business",
+    "question": "The company plans to ______ its business into new markets.",
+    "choices": {
+      "A": "expand",
+      "B": "advance",
+      "C": "survey",
+      "D": "analyze"
+    },
+    "answer": "A",
+    "explanation": "【翻譯】公司計畫將業務拓展到新市場。\n【為何選 A】expand 表示擴展。\n【排除】advance 偏向推進。"
+  },
+  {
+    "id": 1492,
+    "day": "Day7",
+    "topic": "TOEIC-business",
+    "question": "The company uses ______ technology to improve efficiency.",
+    "choices": {
+      "A": "advanced",
+      "B": "expand",
+      "C": "demand",
+      "D": "survey"
+    },
+    "answer": "A",
+    "explanation": "【翻譯】公司使用先進技術提升效率。\n【為何選 A】advanced technology 是固定搭配。\n【排除】expand 是動詞。"
   }
 ]
 
