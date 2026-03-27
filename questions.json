@@ -3582,6 +3582,146 @@
     },
     "answer": "A",
     "explanation": "【翻譯】公司使用先進技術提升效率。\n【為何選 A】advanced technology 是固定搭配。\n【排除】expand 是動詞。"
+  },
+  {
+    "id": 1493,
+    "day": "Day7_2",
+    "topic": "TOEIC-business",
+    "question": "The meeting has been ______ until next Monday.",
+    "choices": {
+      "A": "postponed",
+      "B": "examined",
+      "C": "appreciated",
+      "D": "bought"
+    },
+    "answer": "A",
+    "explanation": "【翻譯】會議已延後到下週一。\n【為何選 A】postpone 表示延後，常用被動：be postponed。\n【排除】examined 是檢查。"
+  },
+  {
+    "id": 1494,
+    "day": "Day7_2",
+    "topic": "TOEIC-business",
+    "question": "We need ______ information before making a decision.",
+    "choices": {
+      "A": "effective",
+      "B": "additional",
+      "C": "closely",
+      "D": "especially"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】在做決定之前，我們需要更多資訊。\n【為何選 B】additional 表示額外的。\n【排除】effective 是有效的。"
+  },
+  {
+    "id": 1495,
+    "day": "Day7_2",
+    "topic": "TOEIC-business",
+    "question": "We greatly ______ your support during this project.",
+    "choices": {
+      "A": "buy",
+      "B": "examine",
+      "C": "appreciate",
+      "D": "like"
+    },
+    "answer": "C",
+    "explanation": "【翻譯】我們非常感謝您在此專案中的支持。\n【為何選 C】appreciate 表示感謝。\n【排除】like 太口語。"
+  },
+  {
+    "id": 1496,
+    "day": "Day7_2",
+    "topic": "TOEIC-business",
+    "question": "The product ______ attracted many potential customers.",
+    "choices": {
+      "A": "demonstration",
+      "B": "additional",
+      "C": "effective",
+      "D": "closely"
+    },
+    "answer": "A",
+    "explanation": "【翻譯】產品展示吸引了許多潛在顧客。\n【為何選 A】demonstration 表示展示活動。\n【排除】effective 是形容詞。"
+  },
+  {
+    "id": 1497,
+    "day": "Day7_2",
+    "topic": "TOEIC-business",
+    "question": "Customers often ______ products online these days.",
+    "choices": {
+      "A": "appreciate",
+      "B": "buy",
+      "C": "examine",
+      "D": "postpone"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】現今顧客常在線上購買產品。\n【為何選 B】buy 表示購買。\n【排除】examine 是檢查。"
+  },
+  {
+    "id": 1498,
+    "day": "Day7_2",
+    "topic": "TOEIC-business",
+    "question": "The inspector will ______ the equipment for safety issues.",
+    "choices": {
+      "A": "buy",
+      "B": "examine",
+      "C": "like",
+      "D": "postpone"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】檢查員將檢查設備的安全問題。\n【為何選 B】examine 表示檢查。\n【排除】buy 是購買。"
+  },
+  {
+    "id": 1499,
+    "day": "Day7_2",
+    "topic": "TOEIC-business",
+    "question": "This strategy has proven to be highly ______.",
+    "choices": {
+      "A": "additional",
+      "B": "effective",
+      "C": "closely",
+      "D": "especially"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】這項策略已被證明非常有效。\n【為何選 B】effective 表示有效的。\n【排除】closely 是副詞。"
+  },
+  {
+    "id": 1500,
+    "day": "Day7_2",
+    "topic": "TOEIC-business",
+    "question": "I would ______ to join your team in the future.",
+    "choices": {
+      "A": "buy",
+      "B": "like",
+      "C": "examine",
+      "D": "postpone"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】我希望未來能加入你的團隊。\n【為何選 B】would like to 是固定用法。\n【排除】buy 不合語意。"
+  },
+  {
+    "id": 1501,
+    "day": "Day7_2",
+    "topic": "TOEIC-business",
+    "question": "This feature is ______ useful for new users.",
+    "choices": {
+      "A": "closely",
+      "B": "especially",
+      "C": "additional",
+      "D": "effective"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】這項功能對新用戶特別有用。\n【為何選 B】especially 表示特別地。\n【排除】closely 表示密切地。"
+  },
+  {
+    "id": 1502,
+    "day": "Day7_2",
+    "topic": "TOEIC-business",
+    "question": "The manager monitored the project ______ to ensure success.",
+    "choices": {
+      "A": "especially",
+      "B": "closely",
+      "C": "additional",
+      "D": "effective"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】經理密切監控專案以確保成功。\n【為何選 B】closely monitor 是固定搭配。\n【排除】especially 表示特別地。"
   }
 ]
 
