@@ -3722,6 +3722,146 @@
     },
     "answer": "B",
     "explanation": "【翻譯】經理密切監控專案以確保成功。\n【為何選 B】closely monitor 是固定搭配。\n【排除】especially 表示特別地。"
+  },
+  {
+    "id": 1503,
+    "day": "Day7_3",
+    "topic": "TOEIC-business",
+    "question": "Please ______ a meeting room for tomorrow's presentation.",
+    "choices": {
+      "A": "target",
+      "B": "reserve",
+      "C": "raise",
+      "D": "affect"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】請為明天的簡報預訂會議室。\n【為何選 B】reserve 表示預訂。\n【排除】target 是目標。"
+  },
+  {
+    "id": 1504,
+    "day": "Day7_3",
+    "topic": "TOEIC-business",
+    "question": "The two companies agreed to ______ on the new project.",
+    "choices": {
+      "A": "cooperate",
+      "B": "reserve",
+      "C": "affect",
+      "D": "raise"
+    },
+    "answer": "A",
+    "explanation": "【翻譯】這兩家公司同意在新專案上合作。\n【為何選 A】cooperate 表示合作。\n【排除】reserve 是預訂。"
+  },
+  {
+    "id": 1505,
+    "day": "Day7_3",
+    "topic": "TOEIC-business",
+    "question": "This product is of ______ high quality.",
+    "choices": {
+      "A": "very",
+      "B": "extremely",
+      "C": "consecutive",
+      "D": "publicize"
+    },
+    "answer": "A",
+    "explanation": "【翻譯】這項產品品質非常高。\n【為何選 A】very 可修飾形容詞 high。\n【排除】extremely 也可用，但此句常見搭配為 very high quality。"
+  },
+  {
+    "id": 1506,
+    "day": "Day7_3",
+    "topic": "TOEIC-business",
+    "question": "Sales have increased for three ______ months.",
+    "choices": {
+      "A": "target",
+      "B": "consecutive",
+      "C": "extremely",
+      "D": "affect"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】銷售額已連續三個月上升。\n【為何選 B】consecutive 表示連續的。\n【排除】extremely 是副詞。"
+  },
+  {
+    "id": 1507,
+    "day": "Day7_3",
+    "topic": "TOEIC-business",
+    "question": "The results did not meet our ______.",
+    "choices": {
+      "A": "expectation",
+      "B": "target",
+      "C": "affect",
+      "D": "raise"
+    },
+    "answer": "A",
+    "explanation": "【翻譯】結果未達到我們的期望。\n【為何選 A】meet expectations 是固定搭配。\n【排除】target 是目標。"
+  },
+  {
+    "id": 1508,
+    "day": "Day7_3",
+    "topic": "TOEIC-business",
+    "question": "The company plans to ______ the new product through social media.",
+    "choices": {
+      "A": "reserve",
+      "B": "publicize",
+      "C": "affect",
+      "D": "target"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】公司計畫透過社群媒體宣傳新產品。\n【為何選 B】publicize 表示宣傳。\n【排除】target 是鎖定。"
+  },
+  {
+    "id": 1509,
+    "day": "Day7_3",
+    "topic": "TOEIC-business",
+    "question": "The company decided to ______ prices due to rising costs.",
+    "choices": {
+      "A": "affect",
+      "B": "raise",
+      "C": "reserve",
+      "D": "cooperate"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】公司因成本上升決定提高價格。\n【為何選 B】raise prices 是固定搭配。\n【排除】affect 是影響。"
+  },
+  {
+    "id": 1510,
+    "day": "Day7_3",
+    "topic": "TOEIC-business",
+    "question": "The weather may ______ the schedule of the event.",
+    "choices": {
+      "A": "target",
+      "B": "affect",
+      "C": "reserve",
+      "D": "cooperate"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】天氣可能會影響活動行程。\n【為何選 B】affect 表示影響。\n【排除】target 是目標。"
+  },
+  {
+    "id": 1511,
+    "day": "Day7_3",
+    "topic": "TOEIC-business",
+    "question": "The task was ______ difficult to complete in one day.",
+    "choices": {
+      "A": "very",
+      "B": "extremely",
+      "C": "consecutive",
+      "D": "target"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】這項任務非常困難，無法在一天內完成。\n【為何選 B】extremely 表示非常（程度更強）。\n【排除】consecutive 是連續的。"
+  },
+  {
+    "id": 1512,
+    "day": "Day7_3",
+    "topic": "TOEIC-business",
+    "question": "The marketing team aims to ______ young consumers.",
+    "choices": {
+      "A": "target",
+      "B": "raise",
+      "C": "affect",
+      "D": "reserve"
+    },
+    "answer": "A",
+    "explanation": "【翻譯】行銷團隊旨在鎖定年輕消費者。\n【為何選 A】target customers 是常見搭配。\n【排除】raise 是提高。"
   }
 ]
 
