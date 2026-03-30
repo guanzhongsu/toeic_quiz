@@ -3862,6 +3862,132 @@
     },
     "answer": "A",
     "explanation": "【翻譯】行銷團隊旨在鎖定年輕消費者。\n【為何選 A】target customers 是常見搭配。\n【排除】raise 是提高。"
+  },
+  {
+    "id": 1513,
+    "day": "Day7_4",
+    "topic": "TOEIC-business",
+    "question": "The company launched a marketing ______ to promote its new product.",
+    "choices": {
+      "A": "campaign",
+      "B": "impact",
+      "C": "gap",
+      "D": "focus"
+    },
+    "answer": "A",
+    "explanation": "【翻譯】公司發起了一項行銷活動來推廣新產品。\n【為何選 A】marketing campaign 是固定搭配。\n【排除】impact 是影響。"
+  },
+  {
+    "id": 1514,
+    "day": "Day7_4",
+    "topic": "TOEIC-business",
+    "question": "It is ______ that sales will increase during the holiday season.",
+    "choices": {
+      "A": "probable",
+      "B": "seasonal",
+      "C": "mounting",
+      "D": "reflective"
+    },
+    "answer": "A",
+    "explanation": "【翻譯】在假期期間銷售增加是很有可能的。\n【為何選 A】probable 表示可能的。\n【排除】seasonal 是季節性的。"
+  },
+  {
+    "id": 1515,
+    "day": "Day7_4",
+    "topic": "TOEIC-business",
+    "question": "The manager asked the team to ______ on improving customer service.",
+    "choices": {
+      "A": "impact",
+      "B": "focus",
+      "C": "gap",
+      "D": "campaign"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】經理要求團隊專注於改善顧客服務。\n【為何選 B】focus on 是固定搭配。\n【排除】impact 是影響。"
+  },
+  {
+    "id": 1516,
+    "day": "Day7_4",
+    "topic": "TOEIC-business",
+    "question": "The store offers discounts on ______ items during winter.",
+    "choices": {
+      "A": "probable",
+      "B": "seasonal",
+      "C": "reflective",
+      "D": "mounting"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】該商店在冬季對季節性商品提供折扣。\n【為何選 B】seasonal 表示季節性的。\n【排除】probable 是可能的。"
+  },
+  {
+    "id": 1517,
+    "day": "Day7_4",
+    "topic": "TOEIC-business",
+    "question": "The new policy had a significant ______ on employee performance.",
+    "choices": {
+      "A": "impact",
+      "B": "gap",
+      "C": "focus",
+      "D": "comparison"
+    },
+    "answer": "A",
+    "explanation": "【翻譯】新政策對員工表現產生重大影響。\n【為何選 A】have an impact on 是固定搭配。\n【排除】gap 是差距。"
+  },
+  {
+    "id": 1518,
+    "day": "Day7_4",
+    "topic": "TOEIC-business",
+    "question": "The report includes a ______ of last year's and this year's results.",
+    "choices": {
+      "A": "impact",
+      "B": "gap",
+      "C": "comparison",
+      "D": "focus"
+    },
+    "answer": "C",
+    "explanation": "【翻譯】報告包含去年與今年結果的比較。\n【為何選 C】comparison 表示比較。\n【排除】gap 是差距。"
+  },
+  {
+    "id": 1519,
+    "day": "Day7_4",
+    "topic": "TOEIC-business",
+    "question": "There is a large ______ between the two companies' revenues.",
+    "choices": {
+      "A": "impact",
+      "B": "comparison",
+      "C": "gap",
+      "D": "focus"
+    },
+    "answer": "C",
+    "explanation": "【翻譯】兩家公司之間的收入存在很大的差距。\n【為何選 C】gap 表示差距。\n【排除】comparison 是比較。"
+  },
+  {
+    "id": 1520,
+    "day": "Day7_4",
+    "topic": "TOEIC-business",
+    "question": "The company is facing ______ pressure from competitors.",
+    "choices": {
+      "A": "seasonal",
+      "B": "probable",
+      "C": "mounting",
+      "D": "reflective"
+    },
+    "answer": "C",
+    "explanation": "【翻譯】公司正面臨來自競爭對手日益增加的壓力。\n【為何選 C】mounting 表示逐漸增加的。\n【排除】seasonal 是季節性的。"
+  },
+  {
+    "id": 1521,
+    "day": "Day7_4",
+    "topic": "TOEIC-business",
+    "question": "The article is highly ______ and encourages readers to think deeply.",
+    "choices": {
+      "A": "mounting",
+      "B": "reflective",
+      "C": "probable",
+      "D": "seasonal"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】這篇文章富有反思性，鼓勵讀者深入思考。\n【為何選 B】reflective 表示具反思性的。\n【排除】mounting 是增加的。"
   }
 ]
 
