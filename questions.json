@@ -3988,6 +3988,146 @@
     },
     "answer": "B",
     "explanation": "【翻譯】這篇文章富有反思性，鼓勵讀者深入思考。\n【為何選 B】reflective 表示具反思性的。\n【排除】mounting 是增加的。"
+  },
+  {
+    "id": 1522,
+    "day": "Day8",
+    "topic": "TOEIC-marketing",
+    "question": "The company launched a new ______ to promote its products.",
+    "choices": {
+      "A": "advertisement",
+      "B": "strategy",
+      "C": "customer",
+      "D": "influence"
+    },
+    "answer": "A",
+    "explanation": "【翻譯】公司推出了一則新的廣告來推廣產品。\n【為何選 A】advertisement 表示廣告。\n【排除】strategy 是策略。"
+  },
+  {
+    "id": 1523,
+    "day": "Day8",
+    "topic": "TOEIC-marketing",
+    "question": "The profit increase was only ______ this quarter.",
+    "choices": {
+      "A": "creative",
+      "B": "marginal",
+      "C": "aggressively",
+      "D": "instantly"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】本季的利潤成長僅為微幅增加。\n【為何選 B】marginal 表示微小的。\n【排除】creative 是創意的。"
+  },
+  {
+    "id": 1524,
+    "day": "Day8",
+    "topic": "TOEIC-marketing",
+    "question": "The company values each ______ and strives to meet their needs.",
+    "choices": {
+      "A": "customer",
+      "B": "strategy",
+      "C": "advertisement",
+      "D": "aim"
+    },
+    "answer": "A",
+    "explanation": "【翻譯】公司重視每一位顧客並努力滿足他們的需求。\n【為何選 A】customer 表示顧客。\n【排除】strategy 是策略。"
+  },
+  {
+    "id": 1525,
+    "day": "Day8",
+    "topic": "TOEIC-marketing",
+    "question": "Social media can greatly ______ consumer behavior.",
+    "choices": {
+      "A": "aim",
+      "B": "influence",
+      "C": "indicate",
+      "D": "strategy"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】社群媒體可以大幅影響消費者行為。\n【為何選 B】influence 表示影響。\n【排除】indicate 是指出。"
+  },
+  {
+    "id": 1526,
+    "day": "Day8",
+    "topic": "TOEIC-marketing",
+    "question": "The system updates the data ______ after submission.",
+    "choices": {
+      "A": "creative",
+      "B": "instantly",
+      "C": "marginal",
+      "D": "aggressively"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】系統在提交後會立即更新資料。\n【為何選 B】instantly 表示立即地。\n【排除】creative 是形容詞。"
+  },
+  {
+    "id": 1527,
+    "day": "Day8",
+    "topic": "TOEIC-marketing",
+    "question": "The team developed a ______ marketing campaign.",
+    "choices": {
+      "A": "creative",
+      "B": "marginal",
+      "C": "instantly",
+      "D": "aggressively"
+    },
+    "answer": "A",
+    "explanation": "【翻譯】團隊制定了一個富有創意的行銷活動。\n【為何選 A】creative 表示有創意的。\n【排除】instantly 是副詞。"
+  },
+  {
+    "id": 1528,
+    "day": "Day8",
+    "topic": "TOEIC-marketing",
+    "question": "The company is expanding ______ to gain market share.",
+    "choices": {
+      "A": "creative",
+      "B": "aggressively",
+      "C": "marginal",
+      "D": "instantly"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】公司正積極擴展以取得市場佔有率。\n【為何選 B】aggressively 表示積極地。\n【排除】instantly 表示立即。"
+  },
+  {
+    "id": 1529,
+    "day": "Day8",
+    "topic": "TOEIC-marketing",
+    "question": "The company's main ______ is to increase global sales.",
+    "choices": {
+      "A": "aim",
+      "B": "customer",
+      "C": "advertisement",
+      "D": "indicate"
+    },
+    "answer": "A",
+    "explanation": "【翻譯】公司的主要目標是提高全球銷售。\n【為何選 A】aim 表示目標。\n【排除】customer 是顧客。"
+  },
+  {
+    "id": 1530,
+    "day": "Day8",
+    "topic": "TOEIC-marketing",
+    "question": "The company adopted a new pricing ______.",
+    "choices": {
+      "A": "strategy",
+      "B": "aim",
+      "C": "influence",
+      "D": "customer"
+    },
+    "answer": "A",
+    "explanation": "【翻譯】公司採用了新的定價策略。\n【為何選 A】pricing strategy 是固定搭配。\n【排除】aim 是目標。"
+  },
+  {
+    "id": 1531,
+    "day": "Day8",
+    "topic": "TOEIC-marketing",
+    "question": "The data ______ a strong increase in sales this month.",
+    "choices": {
+      "A": "aim",
+      "B": "indicate",
+      "C": "influence",
+      "D": "strategy"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】數據顯示本月銷售大幅成長。\n【為何選 B】indicate 表示顯示、指出。\n【排除】influence 是影響。"
   }
 ]
 
