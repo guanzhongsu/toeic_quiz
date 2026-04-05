@@ -4128,6 +4128,146 @@
     },
     "answer": "B",
     "explanation": "【翻譯】數據顯示本月銷售大幅成長。\n【為何選 B】indicate 表示顯示、指出。\n【排除】influence 是影響。"
+  },
+  {
+    "id": 1532,
+    "day": "Day8_2",
+    "topic": "TOEIC-business",
+    "question": "The new design is expected to ______ more customers.",
+    "choices": {
+      "A": "analyze",
+      "B": "attract",
+      "C": "introduce",
+      "D": "advise"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】新設計預計會吸引更多顧客。\n【為何選 B】attract customers 是固定搭配。\n【排除】analyze 是分析。"
+  },
+  {
+    "id": 1533,
+    "day": "Day8_2",
+    "topic": "TOEIC-business",
+    "question": "She has many years of work ______ in marketing.",
+    "choices": {
+      "A": "absence",
+      "B": "means",
+      "C": "experience",
+      "D": "advantage"
+    },
+    "answer": "C",
+    "explanation": "【翻譯】她在行銷方面有多年工作經驗。\n【為何選 C】work experience 是固定用法。\n【排除】absence 是缺席。"
+  },
+  {
+    "id": 1534,
+    "day": "Day8_2",
+    "topic": "TOEIC-business",
+    "question": "The team will ______ the data before making a decision.",
+    "choices": {
+      "A": "introduce",
+      "B": "advise",
+      "C": "analyze",
+      "D": "prefer"
+    },
+    "answer": "C",
+    "explanation": "【翻譯】團隊會在做決定前分析數據。\n【為何選 C】analyze data 是常見搭配。\n【排除】introduce 是介紹。"
+  },
+  {
+    "id": 1535,
+    "day": "Day8_2",
+    "topic": "TOEIC-business",
+    "question": "The company plans to ______ a new product next month.",
+    "choices": {
+      "A": "introduce",
+      "B": "subscribe",
+      "C": "advise",
+      "D": "means"
+    },
+    "answer": "A",
+    "explanation": "【翻譯】公司計畫下個月推出新產品。\n【為何選 A】introduce a product 表示推出產品。\n【排除】subscribe 是訂閱。"
+  },
+  {
+    "id": 1536,
+    "day": "Day8_2",
+    "topic": "TOEIC-business",
+    "question": "The manager will ______ employees on how to improve performance.",
+    "choices": {
+      "A": "introduce",
+      "B": "advise",
+      "C": "analyze",
+      "D": "prefer"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】經理將建議員工如何提升績效。\n【為何選 B】advise 表示建議。\n【排除】introduce 是介紹。"
+  },
+  {
+    "id": 1537,
+    "day": "Day8_2",
+    "topic": "TOEIC-business",
+    "question": "Many users choose to ______ to the company's online service.",
+    "choices": {
+      "A": "subscribe",
+      "B": "introduce",
+      "C": "analyze",
+      "D": "advise"
+    },
+    "answer": "A",
+    "explanation": "【翻譯】許多使用者選擇訂閱公司的線上服務。\n【為何選 A】subscribe to 表示訂閱。\n【排除】introduce 是介紹。"
+  },
+  {
+    "id": 1538,
+    "day": "Day8_2",
+    "topic": "TOEIC-business",
+    "question": "Due to his ______, the meeting was postponed.",
+    "choices": {
+      "A": "experience",
+      "B": "advantage",
+      "C": "absence",
+      "D": "means"
+    },
+    "answer": "C",
+    "explanation": "【翻譯】由於他的缺席，會議被延後。\n【為何選 C】absence 表示缺席。\n【排除】experience 是經驗。"
+  },
+  {
+    "id": 1539,
+    "day": "Day8_2",
+    "topic": "TOEIC-business",
+    "question": "Email is an effective ______ of communication.",
+    "choices": {
+      "A": "means",
+      "B": "advantage",
+      "C": "experience",
+      "D": "absence"
+    },
+    "answer": "A",
+    "explanation": "【翻譯】電子郵件是一種有效的溝通方式。\n【為何選 A】means of communication 是固定搭配。\n【排除】advantage 是優點。"
+  },
+  {
+    "id": 1540,
+    "day": "Day8_2",
+    "topic": "TOEIC-business",
+    "question": "Some customers ______ online shopping over visiting stores.",
+    "choices": {
+      "A": "advise",
+      "B": "prefer",
+      "C": "analyze",
+      "D": "introduce"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】有些顧客比起逛實體店更偏好網購。\n【為何選 B】prefer A over B 是固定搭配。\n【排除】advise 是建議。"
+  },
+  {
+    "id": 1541,
+    "day": "Day8_2",
+    "topic": "TOEIC-business",
+    "question": "One major ______ of this product is its low cost.",
+    "choices": {
+      "A": "means",
+      "B": "absence",
+      "C": "advantage",
+      "D": "experience"
+    },
+    "answer": "C",
+    "explanation": "【翻譯】這項產品的一大優勢是價格低廉。\n【為何選 C】advantage 表示優勢。\n【排除】means 是方法。"
   }
 ]
 
