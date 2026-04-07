@@ -4268,6 +4268,146 @@
     },
     "answer": "C",
     "explanation": "【翻譯】這項產品的一大優勢是價格低廉。\n【為何選 C】advantage 表示優勢。\n【排除】means 是方法。"
+  },
+  {
+    "id": 1542,
+    "day": "Day8_3",
+    "topic": "TOEIC-business",
+    "question": "Please ______ the email to the marketing department.",
+    "choices": {
+      "A": "detect",
+      "B": "resolve",
+      "C": "forward",
+      "D": "intensify"
+    },
+    "answer": "C",
+    "explanation": "【翻譯】請將這封電子郵件轉寄給行銷部門。\n【為何選 C】forward 表示轉寄。\n【排除】resolve 是解決。"
+  },
+  {
+    "id": 1543,
+    "day": "Day8_3",
+    "topic": "TOEIC-business",
+    "question": "The company focuses on ______ design trends.",
+    "choices": {
+      "A": "initial",
+      "B": "contemporary",
+      "C": "steady",
+      "D": "necessary"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】公司專注於當代設計趨勢。\n【為何選 B】contemporary 表示當代的。\n【排除】initial 是最初的。"
+  },
+  {
+    "id": 1544,
+    "day": "Day8_3",
+    "topic": "TOEIC-business",
+    "question": "The issue was brought up during the team ______.",
+    "choices": {
+      "A": "discussion",
+      "B": "resolve",
+      "C": "forward",
+      "D": "detect"
+    },
+    "answer": "A",
+    "explanation": "【翻譯】這個問題是在團隊討論中提出的。\n【為何選 A】discussion 表示討論。\n【排除】resolve 是動詞。"
+  },
+  {
+    "id": 1545,
+    "day": "Day8_3",
+    "topic": "TOEIC-business",
+    "question": "The ______ plan was revised after receiving feedback.",
+    "choices": {
+      "A": "initial",
+      "B": "steadily",
+      "C": "favorably",
+      "D": "necessarily"
+    },
+    "answer": "A",
+    "explanation": "【翻譯】初始計畫在收到回饋後被修改。\n【為何選 A】initial 表示最初的。\n【排除】steadily 是副詞。"
+  },
+  {
+    "id": 1546,
+    "day": "Day8_3",
+    "topic": "TOEIC-business",
+    "question": "Sales have grown ______ over the past year.",
+    "choices": {
+      "A": "favorably",
+      "B": "steadily",
+      "C": "initially",
+      "D": "necessarily"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】過去一年銷售穩定成長。\n【為何選 B】steadily 表示穩定地。\n【排除】favorably 是有利地。"
+  },
+  {
+    "id": 1547,
+    "day": "Day8_3",
+    "topic": "TOEIC-business",
+    "question": "Success does not ______ depend on luck.",
+    "choices": {
+      "A": "forward",
+      "B": "necessarily",
+      "C": "steadily",
+      "D": "initial"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】成功不一定取決於運氣。\n【為何選 B】not necessarily 表示不一定。\n【排除】steadily 是穩定地。"
+  },
+  {
+    "id": 1548,
+    "day": "Day8_3",
+    "topic": "TOEIC-business",
+    "question": "The company worked quickly to ______ the issue.",
+    "choices": {
+      "A": "resolve",
+      "B": "detect",
+      "C": "forward",
+      "D": "intensify"
+    },
+    "answer": "A",
+    "explanation": "【翻譯】公司迅速解決了這個問題。\n【為何選 A】resolve 表示解決。\n【排除】detect 是偵測。"
+  },
+  {
+    "id": 1549,
+    "day": "Day8_3",
+    "topic": "TOEIC-business",
+    "question": "The system can ______ errors in real time.",
+    "choices": {
+      "A": "resolve",
+      "B": "detect",
+      "C": "forward",
+      "D": "favor"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】系統可以即時偵測錯誤。\n【為何選 B】detect 表示偵測。\n【排除】resolve 是解決。"
+  },
+  {
+    "id": 1550,
+    "day": "Day8_3",
+    "topic": "TOEIC-business",
+    "question": "The company plans to ______ its marketing efforts.",
+    "choices": {
+      "A": "detect",
+      "B": "intensify",
+      "C": "resolve",
+      "D": "forward"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】公司計畫加強其行銷力度。\n【為何選 B】intensify 表示加強。\n【排除】detect 是偵測。"
+  },
+  {
+    "id": 1551,
+    "day": "Day8_3",
+    "topic": "TOEIC-business",
+    "question": "The proposal was received ______ by the management team.",
+    "choices": {
+      "A": "favorably",
+      "B": "steadily",
+      "C": "necessarily",
+      "D": "initially"
+    },
+    "answer": "A",
+    "explanation": "【翻譯】該提案受到管理團隊的正面回應。\n【為何選 A】favorably 表示正面地、有利地。\n【排除】steadily 是穩定地。"
   }
 ]
 
