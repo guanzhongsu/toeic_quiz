@@ -4408,6 +4408,146 @@
     },
     "answer": "A",
     "explanation": "【翻譯】該提案受到管理團隊的正面回應。\n【為何選 A】favorably 表示正面地、有利地。\n【排除】steadily 是穩定地。"
+  },
+  {
+    "id": 1552,
+    "day": "Day8_4",
+    "topic": "TOEIC-business",
+    "question": "The insurance will ______ most of the medical expenses.",
+    "choices": {
+      "A": "cover",
+      "B": "adopt",
+      "C": "need",
+      "D": "effort"
+    },
+    "answer": "A",
+    "explanation": "【翻譯】保險將涵蓋大部分醫療費用。\n【為何選 A】cover expenses 表示支付或涵蓋費用。\n【排除】adopt 是採用。"
+  },
+  {
+    "id": 1553,
+    "day": "Day8_4",
+    "topic": "TOEIC-business",
+    "question": "This solution is ______ expensive than the previous one.",
+    "choices": {
+      "A": "majority",
+      "B": "less",
+      "C": "largely",
+      "D": "effort"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】這個方案比之前的更便宜。\n【為何選 B】less 用於比較級（less expensive）。\n【排除】largely 是副詞。"
+  },
+  {
+    "id": 1554,
+    "day": "Day8_4",
+    "topic": "TOEIC-business",
+    "question": "The ______ of employees supported the new policy.",
+    "choices": {
+      "A": "majority",
+      "B": "effort",
+      "C": "incentive",
+      "D": "need"
+    },
+    "answer": "A",
+    "explanation": "【翻譯】大多數員工支持新政策。\n【為何選 A】the majority of 表示大多數。\n【排除】effort 是努力。"
+  },
+  {
+    "id": 1555,
+    "day": "Day8_4",
+    "topic": "TOEIC-business",
+    "question": "The company decided to ______ a new management system.",
+    "choices": {
+      "A": "cover",
+      "B": "adopt",
+      "C": "disregard",
+      "D": "need"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】公司決定採用新的管理系統。\n【為何選 B】adopt 表示採用。\n【排除】cover 是覆蓋或支付。"
+  },
+  {
+    "id": 1556,
+    "day": "Day8_4",
+    "topic": "TOEIC-business",
+    "question": "The success of the project was ______ due to teamwork.",
+    "choices": {
+      "A": "less",
+      "B": "largely",
+      "C": "majority",
+      "D": "need"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】專案的成功主要歸功於團隊合作。\n【為何選 B】largely 表示主要地。\n【排除】less 是比較用語。"
+  },
+  {
+    "id": 1557,
+    "day": "Day8_4",
+    "topic": "TOEIC-business",
+    "question": "The manager chose to ______ the minor complaints.",
+    "choices": {
+      "A": "adopt",
+      "B": "disregard",
+      "C": "cover",
+      "D": "need"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】經理選擇忽略這些小抱怨。\n【為何選 B】disregard 表示忽視。\n【排除】adopt 是採用。"
+  },
+  {
+    "id": 1558,
+    "day": "Day8_4",
+    "topic": "TOEIC-business",
+    "question": "The team made a great ______ to complete the project on time.",
+    "choices": {
+      "A": "effort",
+      "B": "majority",
+      "C": "incentive",
+      "D": "need"
+    },
+    "answer": "A",
+    "explanation": "【翻譯】團隊付出了很大的努力準時完成專案。\n【為何選 A】make an effort 是固定搭配。\n【排除】incentive 是動機或誘因。"
+  },
+  {
+    "id": 1559,
+    "day": "Day8_4",
+    "topic": "TOEIC-business",
+    "question": "The company offers bonuses as an ______ for employees.",
+    "choices": {
+      "A": "effort",
+      "B": "incentive",
+      "C": "majority",
+      "D": "need"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】公司提供獎金作為員工的激勵。\n【為何選 B】incentive 表示激勵。\n【排除】effort 是努力。"
+  },
+  {
+    "id": 1560,
+    "day": "Day8_4",
+    "topic": "TOEIC-business",
+    "question": "There is a growing ______ for skilled workers in this industry.",
+    "choices": {
+      "A": "need",
+      "B": "majority",
+      "C": "effort",
+      "D": "cover"
+    },
+    "answer": "A",
+    "explanation": "【翻譯】這個產業對技術人才的需求正在增加。\n【為何選 A】need 表示需求。\n【排除】majority 是大多數。"
+  },
+  {
+    "id": 1561,
+    "day": "Day8_4",
+    "topic": "TOEIC-business",
+    "question": "He was the ______ behind the successful marketing campaign.",
+    "choices": {
+      "A": "effort",
+      "B": "mastermind",
+      "C": "majority",
+      "D": "incentive"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】他是這次成功行銷活動的幕後策劃者。\n【為何選 B】mastermind 表示策劃者或主謀。\n【排除】effort 是努力。"
   }
 ]
 
