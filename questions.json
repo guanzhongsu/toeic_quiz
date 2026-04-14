@@ -4548,6 +4548,146 @@
     },
     "answer": "B",
     "explanation": "【翻譯】他是這次成功行銷活動的幕後策劃者。\n【為何選 B】mastermind 表示策劃者或主謀。\n【排除】effort 是努力。"
+  },
+  {
+    "id": 1562,
+    "day": "Day9",
+    "topic": "TOEIC-business",
+    "question": "Sales remained ______ despite increased marketing efforts.",
+    "choices": {
+      "A": "stagnant",
+      "B": "rapidly",
+      "C": "dramatically",
+      "D": "brisk"
+    },
+    "answer": "A",
+    "explanation": "【翻譯】儘管增加行銷力度，銷售仍然停滯。\n【為何選 A】stagnant 表示停滯不前的。\n【排除】rapidly 是副詞。"
+  },
+  {
+    "id": 1563,
+    "day": "Day9",
+    "topic": "TOEIC-business",
+    "question": "Profits increased ______ after the new strategy was implemented.",
+    "choices": {
+      "A": "stagnant",
+      "B": "brisk",
+      "C": "dramatically",
+      "D": "unstable"
+    },
+    "answer": "C",
+    "explanation": "【翻譯】新策略實施後，利潤大幅成長。\n【為何選 C】dramatically 表示大幅地。\n【排除】brisk 是形容詞。"
+  },
+  {
+    "id": 1564,
+    "day": "Day9",
+    "topic": "TOEIC-business",
+    "question": "Business has been ______ during the holiday season.",
+    "choices": {
+      "A": "brisk",
+      "B": "stagnant",
+      "C": "unstable",
+      "D": "rapidly"
+    },
+    "answer": "A",
+    "explanation": "【翻譯】假日期間生意十分興隆。\n【為何選 A】brisk 表示興旺的。\n【排除】rapidly 是副詞。"
+  },
+  {
+    "id": 1565,
+    "day": "Day9",
+    "topic": "TOEIC-business",
+    "question": "The market is currently ______ due to economic uncertainty.",
+    "choices": {
+      "A": "stable",
+      "B": "unstable",
+      "C": "brisk",
+      "D": "dramatic"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】由於經濟不確定性，市場目前不穩定。\n【為何選 B】unstable 表示不穩定的。\n【排除】brisk 是興旺的。"
+  },
+  {
+    "id": 1566,
+    "day": "Day9",
+    "topic": "TOEIC-business",
+    "question": "The company is expanding ______ in international markets.",
+    "choices": {
+      "A": "stagnant",
+      "B": "rapidly",
+      "C": "brisk",
+      "D": "unstable"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】公司正在國際市場快速擴張。\n【為何選 B】rapidly 表示快速地。\n【排除】brisk 是形容詞。"
+  },
+  {
+    "id": 1567,
+    "day": "Day9",
+    "topic": "TOEIC-business",
+    "question": "Stock prices may ______ if demand continues to rise.",
+    "choices": {
+      "A": "assert",
+      "B": "boost",
+      "C": "soar",
+      "D": "stagnant"
+    },
+    "answer": "C",
+    "explanation": "【翻譯】如果需求持續上升，股價可能會飆升。\n【為何選 C】soar 表示急劇上升。\n【排除】boost 是提升（較溫和）。"
+  },
+  {
+    "id": 1568,
+    "day": "Day9",
+    "topic": "TOEIC-business",
+    "question": "The manager ______ that the plan would succeed.",
+    "choices": {
+      "A": "asserted",
+      "B": "boosted",
+      "C": "soared",
+      "D": "rapidly"
+    },
+    "answer": "A",
+    "explanation": "【翻譯】經理斷言該計畫會成功。\n【為何選 A】assert 表示斷言。\n【排除】boost 是提升。"
+  },
+  {
+    "id": 1569,
+    "day": "Day9",
+    "topic": "TOEIC-business",
+    "question": "The campaign helped ______ sales significantly.",
+    "choices": {
+      "A": "assert",
+      "B": "boost",
+      "C": "soar",
+      "D": "stagnant"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】這項活動顯著提升了銷售。\n【為何選 B】boost 表示提升。\n【排除】soar 通常不直接搭配 help。"
+  },
+  {
+    "id": 1570,
+    "day": "Day9",
+    "topic": "TOEIC-business",
+    "question": "The financial ______ predicted a market recovery next year.",
+    "choices": {
+      "A": "analyst",
+      "B": "potential",
+      "C": "boost",
+      "D": "assert"
+    },
+    "answer": "A",
+    "explanation": "【翻譯】財務分析師預測市場明年將復甦。\n【為何選 A】analyst 表示分析師。\n【排除】potential 是潛力。"
+  },
+  {
+    "id": 1571,
+    "day": "Day9",
+    "topic": "TOEIC-business",
+    "question": "The project shows great ______ for future growth.",
+    "choices": {
+      "A": "analyst",
+      "B": "boost",
+      "C": "potential",
+      "D": "assert"
+    },
+    "answer": "C",
+    "explanation": "【翻譯】該專案展現出未來成長的巨大潛力。\n【為何選 C】potential 表示潛力。\n【排除】analyst 是人。"
   }
 ]
 
