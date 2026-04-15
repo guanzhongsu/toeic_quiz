@@ -4688,7 +4688,148 @@
     },
     "answer": "C",
     "explanation": "【翻譯】該專案展現出未來成長的巨大潛力。\n【為何選 C】potential 表示潛力。\n【排除】analyst 是人。"
+  },
+  {
+    "id": 1572,
+    "day": "Day9_2",
+    "topic": "TOEIC-business",
+    "question": "The manager was ______ with the team's performance.",
+    "choices": {
+      "A": "pleased",
+      "B": "limited",
+      "C": "costly",
+      "D": "drastic"
+    },
+    "answer": "A",
+    "explanation": "【翻譯】經理對團隊的表現感到滿意。\n【為何選 A】be pleased with 是固定搭配。\n【排除】limited 是有限的。"
+  },
+  {
+    "id": 1573,
+    "day": "Day9_2",
+    "topic": "TOEIC-business",
+    "question": "Sales are expected to ______ stable this quarter.",
+    "choices": {
+      "A": "lead",
+      "B": "remain",
+      "C": "evidence",
+      "D": "prospect"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】預計本季銷售將維持穩定。\n【為何選 B】remain stable 是固定用法。\n【排除】lead 是帶領。"
+  },
+  {
+    "id": 1574,
+    "day": "Day9_2",
+    "topic": "TOEIC-business",
+    "question": "The company has ______ resources for expansion.",
+    "choices": {
+      "A": "costly",
+      "B": "limited",
+      "C": "evenly",
+      "D": "pleased"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】公司用於擴張的資源有限。\n【為何選 B】limited 表示有限的。\n【排除】costly 是昂貴的。"
+  },
+  {
+    "id": 1575,
+    "day": "Day9_2",
+    "topic": "TOEIC-business",
+    "question": "The new equipment is too ______ for small businesses.",
+    "choices": {
+      "A": "limited",
+      "B": "costly",
+      "C": "evenly",
+      "D": "particular"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】這項新設備對小型企業來說太昂貴。\n【為何選 B】costly 表示昂貴的。\n【排除】limited 是有限的。"
+  },
+  {
+    "id": 1576,
+    "day": "Day9_2",
+    "topic": "TOEIC-business",
+    "question": "The customer showed interest in a ______ product line.",
+    "choices": {
+      "A": "drastic",
+      "B": "particular",
+      "C": "evenly",
+      "D": "limited"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】該顧客對某一特定產品線表現出興趣。\n【為何選 B】particular 表示特定的。\n【排除】drastic 是劇烈的。"
+  },
+  {
+    "id": 1577,
+    "day": "Day9_2",
+    "topic": "TOEIC-business",
+    "question": "The company made a ______ decision to cut costs.",
+    "choices": {
+      "A": "drastic",
+      "B": "evenly",
+      "C": "pleased",
+      "D": "limited"
+    },
+    "answer": "A",
+    "explanation": "【翻譯】公司做出一項激烈的削減成本決策。\n【為何選 A】drastic 表示劇烈的、激烈的。\n【排除】evenly 是平均地。"
+  },
+  {
+    "id": 1578,
+    "day": "Day9_2",
+    "topic": "TOEIC-business",
+    "question": "The workload was distributed ______ among the team members.",
+    "choices": {
+      "A": "limited",
+      "B": "evenly",
+      "C": "costly",
+      "D": "drastic"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】工作量被平均分配給團隊成員。\n【為何選 B】evenly 表示平均地。\n【排除】limited 是有限的。"
+  },
+  {
+    "id": 1579,
+    "day": "Day9_2",
+    "topic": "TOEIC-business",
+    "question": "There is clear ______ that the policy has improved efficiency.",
+    "choices": {
+      "A": "prospect",
+      "B": "evidence",
+      "C": "lead",
+      "D": "remain"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】有明確證據顯示該政策提升了效率。\n【為何選 B】evidence 表示證據。\n【排除】prospect 是前景。"
+  },
+  {
+    "id": 1580,
+    "day": "Day9_2",
+    "topic": "TOEIC-business",
+    "question": "The company has good growth ______ in overseas markets.",
+    "choices": {
+      "A": "lead",
+      "B": "prospect",
+      "C": "evidence",
+      "D": "remain"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】公司在海外市場有良好的成長前景。\n【為何選 B】prospect 表示前景。\n【排除】evidence 是證據。"
+  },
+  {
+    "id": 1581,
+    "day": "Day9_2",
+    "topic": "TOEIC-business",
+    "question": "Strong leadership can ______ a company to success.",
+    "choices": {
+      "A": "lead",
+      "B": "remain",
+      "C": "evidence",
+      "D": "limited"
+    },
+    "answer": "A",
+    "explanation": "【翻譯】強而有力的領導能帶領公司走向成功。\n【為何選 A】lead to success 是固定搭配。\n【排除】remain 是維持。"
   }
+  
 ]
 
 
