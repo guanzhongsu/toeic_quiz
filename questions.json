@@ -4829,6 +4829,146 @@
     "answer": "A",
     "explanation": "【翻譯】強而有力的領導能帶領公司走向成功。\n【為何選 A】lead to success 是固定搭配。\n【排除】remain 是維持。"
   }
+  {
+    "id": 1582,
+    "day": "Day9_3",
+    "topic": "TOEIC-business",
+    "question": "Sales began to ______ after the holiday season ended.",
+    "choices": {
+      "A": "fall",
+      "B": "boom",
+      "C": "substitute",
+      "D": "indicator"
+    },
+    "answer": "A",
+    "explanation": "【翻譯】假期結束後銷售開始下降。\n【為何選 A】fall 表示下降。\n【排除】boom 是暴增。"
+  },
+  {
+    "id": 1583,
+    "day": "Day9_3",
+    "topic": "TOEIC-business",
+    "question": "The company experienced growth during a short ______ of time.",
+    "choices": {
+      "A": "indicator",
+      "B": "period",
+      "C": "consequence",
+      "D": "industry"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】公司在短時間內經歷了成長。\n【為何選 B】period 表示期間。\n【排除】indicator 是指標。"
+  },
+  {
+    "id": 1584,
+    "day": "Day9_3",
+    "topic": "TOEIC-business",
+    "question": "Rising sales are a strong ______ of market demand.",
+    "choices": {
+      "A": "indicator",
+      "B": "director",
+      "C": "period",
+      "D": "consequence"
+    },
+    "answer": "A",
+    "explanation": "【翻譯】銷售上升是市場需求的強烈指標。\n【為何選 A】indicator 表示指標。\n【排除】director 是主管。"
+  },
+  {
+    "id": 1585,
+    "day": "Day9_3",
+    "topic": "TOEIC-business",
+    "question": "The company operates in the technology ______.",
+    "choices": {
+      "A": "period",
+      "B": "indicator",
+      "C": "industry",
+      "D": "consequence"
+    },
+    "answer": "C",
+    "explanation": "【翻譯】公司在科技產業運作。\n【為何選 C】industry 表示產業。\n【排除】period 是期間。"
+  },
+  {
+    "id": 1586,
+    "day": "Day9_3",
+    "topic": "TOEIC-business",
+    "question": "It is ______ that the company will expand next year.",
+    "choices": {
+      "A": "fairly",
+      "B": "likely",
+      "C": "boom",
+      "D": "fall"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】公司明年很可能會擴張。\n【為何選 B】likely 表示可能的。\n【排除】fairly 是相當地。"
+  },
+  {
+    "id": 1587,
+    "day": "Day9_3",
+    "topic": "TOEIC-business",
+    "question": "The economy began to ______ after the crisis.",
+    "choices": {
+      "A": "fall",
+      "B": "boom",
+      "C": "substitute",
+      "D": "indicator"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】危機後經濟開始繁榮。\n【為何選 B】boom 表示快速成長。\n【排除】fall 是下降。"
+  },
+  {
+    "id": 1588,
+    "day": "Day9_3",
+    "topic": "TOEIC-business",
+    "question": "The board appointed a new ______ to lead the company.",
+    "choices": {
+      "A": "director",
+      "B": "indicator",
+      "C": "period",
+      "D": "consequence"
+    },
+    "answer": "A",
+    "explanation": "【翻譯】董事會任命了一位新主管來領導公司。\n【為何選 A】director 表示主管或董事。\n【排除】indicator 是指標。"
+  },
+  {
+    "id": 1589,
+    "day": "Day9_3",
+    "topic": "TOEIC-business",
+    "question": "We had to ______ sugar with honey in the recipe.",
+    "choices": {
+      "A": "boom",
+      "B": "fall",
+      "C": "substitute",
+      "D": "likely"
+    },
+    "answer": "C",
+    "explanation": "【翻譯】我們必須用蜂蜜替代糖。\n【為何選 C】substitute 表示替代。\n【排除】boom 是暴增。"
+  },
+  {
+    "id": 1590,
+    "day": "Day9_3",
+    "topic": "TOEIC-business",
+    "question": "Higher costs are a direct ______ of rising material prices.",
+    "choices": {
+      "A": "indicator",
+      "B": "consequence",
+      "C": "period",
+      "D": "industry"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】成本上升是原物料價格上漲的直接結果。\n【為何選 B】consequence 表示結果。\n【排除】indicator 是指標。"
+  },
+  {
+    "id": 1591,
+    "day": "Day9_3",
+    "topic": "TOEIC-business",
+    "question": "The results were ______ good considering the limited budget.",
+    "choices": {
+      "A": "likely",
+      "B": "fairly",
+      "C": "boom",
+      "D": "fall"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】考慮到有限預算，結果算是相當不錯。\n【為何選 B】fairly 表示相當地。\n【排除】likely 是可能的。"
+  }
   
 ]
 
