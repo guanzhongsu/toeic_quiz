@@ -4968,7 +4968,148 @@
     },
     "answer": "B",
     "explanation": "【翻譯】考慮到有限預算，結果算是相當不錯。\n【為何選 B】fairly 表示相當地。\n【排除】likely 是可能的。"
+  },
+  {
+    "id": 1592,
+    "day": "Day9_4",
+    "topic": "TOEIC-business",
+    "question": "This model is more ______ and consumes less energy.",
+    "choices": {
+      "A": "economical",
+      "B": "promising",
+      "C": "adverse",
+      "D": "dwindle"
+    },
+    "answer": "A",
+    "explanation": "【翻譯】這個型號更經濟且耗能更低。\n【為何選 A】economical 表示經濟實惠的。\n【排除】promising 是有前景的。"
+  },
+  {
+    "id": 1593,
+    "day": "Day9_4",
+    "topic": "TOEIC-business",
+    "question": "Small businesses can ______ with proper financial support.",
+    "choices": {
+      "A": "wane",
+      "B": "thrive",
+      "C": "impede",
+      "D": "dwindle"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】小型企業在適當的財務支持下可以蓬勃發展。\n【為何選 B】thrive 表示蓬勃發展。\n【排除】wane 是衰退。"
+  },
+  {
+    "id": 1594,
+    "day": "Day9_4",
+    "topic": "TOEIC-business",
+    "question": "The decision has serious ______ for future operations.",
+    "choices": {
+      "A": "implication",
+      "B": "prosperity",
+      "C": "depression",
+      "D": "economical"
+    },
+    "answer": "A",
+    "explanation": "【翻譯】這項決定對未來營運有嚴重影響。\n【為何選 A】implication 表示影響或含意。\n【排除】prosperity 是繁榮。"
+  },
+  {
+    "id": 1595,
+    "day": "Day9_4",
+    "topic": "TOEIC-business",
+    "question": "Interest in the product began to ______ over time.",
+    "choices": {
+      "A": "thrive",
+      "B": "wane",
+      "C": "impede",
+      "D": "promising"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】隨著時間推移，人們對該產品的興趣開始減弱。\n【為何選 B】wane 表示減弱。\n【排除】thrive 是成長。"
+  },
+  {
+    "id": 1596,
+    "day": "Day9_4",
+    "topic": "TOEIC-business",
+    "question": "The country experienced economic ______ during the 1990s.",
+    "choices": {
+      "A": "depression",
+      "B": "prosperity",
+      "C": "implication",
+      "D": "adversity"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】該國在1990年代經歷了經濟繁榮。\n【為何選 B】prosperity 表示繁榮。\n【排除】depression 是蕭條。"
+  },
+  {
+    "id": 1597,
+    "day": "Day9_4",
+    "topic": "TOEIC-business",
+    "question": "The company struggled during the economic ______.",
+    "choices": {
+      "A": "prosperity",
+      "B": "depression",
+      "C": "promising",
+      "D": "economical"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】公司在經濟蕭條期間掙扎求生。\n【為何選 B】depression 表示經濟衰退。\n【排除】prosperity 是繁榮。"
+  },
+  {
+    "id": 1598,
+    "day": "Day9_4",
+    "topic": "TOEIC-business",
+    "question": "Resources began to ______ due to poor management.",
+    "choices": {
+      "A": "thrive",
+      "B": "dwindle",
+      "C": "impede",
+      "D": "wane"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】由於管理不善，資源開始減少。\n【為何選 B】dwindle 表示逐漸減少。\n【排除】wane 偏抽象減弱。"
+  },
+  {
+    "id": 1599,
+    "day": "Day9_4",
+    "topic": "TOEIC-business",
+    "question": "Heavy traffic may ______ the delivery schedule.",
+    "choices": {
+      "A": "impede",
+      "B": "thrive",
+      "C": "prosper",
+      "D": "wane"
+    },
+    "answer": "A",
+    "explanation": "【翻譯】交通壅塞可能會阻礙配送時程。\n【為何選 A】impede 表示阻礙。\n【排除】thrive 是成長。"
+  },
+  {
+    "id": 1600,
+    "day": "Day9_4",
+    "topic": "TOEIC-business",
+    "question": "The project shows ______ results for future expansion.",
+    "choices": {
+      "A": "adversity",
+      "B": "promising",
+      "C": "dwindle",
+      "D": "implication"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】該專案顯示出對未來擴張具有前景的成果。\n【為何選 B】promising 表示有前景的。\n【排除】adversity 是逆境。"
+  },
+  {
+    "id": 1601,
+    "day": "Day9_4",
+    "topic": "TOEIC-business",
+    "question": "The company overcame many challenges during times of ______.",
+    "choices": {
+      "A": "prosperity",
+      "B": "adversity",
+      "C": "economical",
+      "D": "implication"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】公司在逆境中克服了許多挑戰。\n【為何選 B】adversity 表示逆境。\n【排除】prosperity 是繁榮。"
   }
+  
   
 ]
 
