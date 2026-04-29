@@ -5108,6 +5108,146 @@
     },
     "answer": "B",
     "explanation": "【翻譯】公司在逆境中克服了許多挑戰。\n【為何選 B】adversity 表示逆境。\n【排除】prosperity 是繁榮。"
+  },
+   {
+    "id": 1602,
+    "day": "Day10",
+    "topic": "TOEIC-business",
+    "question": "Customers can ______ items online through the company website.",
+    "choices": {
+      "A": "purchase",
+      "B": "charge",
+      "C": "notice",
+      "D": "installment"
+    },
+    "answer": "A",
+    "explanation": "【翻譯】顧客可以透過公司網站在線購買商品。\n【為何選 A】purchase 表示購買。\n【排除】charge 是收費。"
+  },
+  {
+    "id": 1603,
+    "day": "Day10",
+    "topic": "TOEIC-business",
+    "question": "The ______ of the product has increased due to demand.",
+    "choices": {
+      "A": "purchase",
+      "B": "price",
+      "C": "charge",
+      "D": "notice"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】由於需求增加，產品價格上升。\n【為何選 B】price 表示價格。\n【排除】purchase 是購買行為。"
+  },
+  {
+    "id": 1604,
+    "day": "Day10",
+    "topic": "TOEIC-business",
+    "question": "The company offers ______ products for budget-conscious customers.",
+    "choices": {
+      "A": "experienced",
+      "B": "affordable",
+      "C": "exactly",
+      "D": "expert"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】公司為精打細算的顧客提供價格實惠的產品。\n【為何選 B】affordable 表示負擔得起的。\n【排除】experienced 是有經驗的。"
+  },
+  {
+    "id": 1605,
+    "day": "Day10",
+    "topic": "TOEIC-business",
+    "question": "The total cost is ______ what we expected.",
+    "choices": {
+      "A": "experienced",
+      "B": "exactly",
+      "C": "charge",
+      "D": "installment"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】總成本正好符合我們的預期。\n【為何選 B】exactly 表示正好。\n【排除】charge 是收費。"
+  },
+  {
+    "id": 1606,
+    "day": "Day10",
+    "topic": "TOEIC-business",
+    "question": "Customers can pay in monthly ______ instead of a full payment.",
+    "choices": {
+      "A": "installments",
+      "B": "charges",
+      "C": "notices",
+      "D": "experts"
+    },
+    "answer": "A",
+    "explanation": "【翻譯】顧客可以分期付款，而不是一次付清。\n【為何選 A】installments 表示分期付款。\n【排除】charges 是費用。"
+  },
+  {
+    "id": 1607,
+    "day": "Day10",
+    "topic": "TOEIC-business",
+    "question": "Please read the ______ carefully before signing the contract.",
+    "choices": {
+      "A": "purchase",
+      "B": "notice",
+      "C": "instruction",
+      "D": "expert"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】請在簽約前仔細閱讀公告。\n【為何選 B】notice 表示通知或公告。\n【排除】instruction 是指示（通常用於操作）。"
+  },
+  {
+    "id": 1608,
+    "day": "Day10",
+    "topic": "TOEIC-business",
+    "question": "The company will ______ a fee for late payments.",
+    "choices": {
+      "A": "purchase",
+      "B": "charge",
+      "C": "notice",
+      "D": "install"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】公司將對延遲付款收取費用。\n【為何選 B】charge a fee 是固定搭配。\n【排除】purchase 是購買。"
+  },
+  {
+    "id": 1609,
+    "day": "Day10",
+    "topic": "TOEIC-business",
+    "question": "We hired an ______ technician to handle the system.",
+    "choices": {
+      "A": "affordable",
+      "B": "experienced",
+      "C": "exactly",
+      "D": "notice"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】我們聘請了一位有經驗的技術人員來處理系統。\n【為何選 B】experienced 表示有經驗的。\n【排除】affordable 是便宜的。"
+  },
+  {
+    "id": 1610,
+    "day": "Day10",
+    "topic": "TOEIC-business",
+    "question": "Follow the ______ provided in the manual.",
+    "choices": {
+      "A": "instruction",
+      "B": "price",
+      "C": "charge",
+      "D": "expert"
+    },
+    "answer": "A",
+    "explanation": "【翻譯】請依照手冊中的指示操作。\n【為何選 A】instruction 表示指示或說明。\n【排除】price 是價格。"
+  },
+  {
+    "id": 1611,
+    "day": "Day10",
+    "topic": "TOEIC-business",
+    "question": "You should consult an ______ before making a final decision.",
+    "choices": {
+      "A": "notice",
+      "B": "installment",
+      "C": "expert",
+      "D": "price"
+    },
+    "answer": "C",
+    "explanation": "【翻譯】在做最終決定前，你應該諮詢專家。\n【為何選 C】expert 表示專家。\n【排除】notice 是通知。"
   }
   
   
