@@ -5248,8 +5248,147 @@
     },
     "answer": "C",
     "explanation": "【翻譯】在做最終決定前，你應該諮詢專家。\n【為何選 C】expert 表示專家。\n【排除】notice 是通知。"
+  },
+   {
+    "id": 1612,
+    "day": "Day10_2",
+    "topic": "TOEIC-business",
+    "question": "The product comes with a one-year ______ for repairs.",
+    "choices": {
+      "A": "refund",
+      "B": "warranty",
+      "C": "receipt",
+      "D": "delivery"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】該產品附有一年維修保固。\n【為何選 B】warranty 表示保固。\n【排除】refund 是退款。"
+  },
+  {
+    "id": 1613,
+    "day": "Day10_2",
+    "topic": "TOEIC-business",
+    "question": "Customers can request a ______ if they are not satisfied.",
+    "choices": {
+      "A": "receipt",
+      "B": "delivery",
+      "C": "refund",
+      "D": "subscriber"
+    },
+    "answer": "C",
+    "explanation": "【翻譯】如果顧客不滿意，可以申請退款。\n【為何選 C】refund 表示退款。\n【排除】receipt 是收據。"
+  },
+  {
+    "id": 1614,
+    "day": "Day10_2",
+    "topic": "TOEIC-business",
+    "question": "Each ______ will receive a monthly newsletter.",
+    "choices": {
+      "A": "delivery",
+      "B": "subscriber",
+      "C": "receipt",
+      "D": "benefit"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】每位訂閱者都會收到每月電子報。\n【為何選 B】subscriber 表示訂閱者。\n【排除】delivery 是配送。"
+  },
+  {
+    "id": 1615,
+    "day": "Day10_2",
+    "topic": "TOEIC-business",
+    "question": "The ______ of the package was delayed due to weather conditions.",
+    "choices": {
+      "A": "receipt",
+      "B": "delivery",
+      "C": "refund",
+      "D": "description"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】由於天氣因素，包裹配送延遲。\n【為何選 B】delivery 表示配送。\n【排除】receipt 是收據。"
+  },
+  {
+    "id": 1616,
+    "day": "Day10_2",
+    "topic": "TOEIC-business",
+    "question": "Please keep your ______ as proof of purchase.",
+    "choices": {
+      "A": "receipt",
+      "B": "subscriber",
+      "C": "benefit",
+      "D": "delivery"
+    },
+    "answer": "A",
+    "explanation": "【翻譯】請保留收據作為購買證明。\n【為何選 A】receipt 表示收據。\n【排除】delivery 是配送。"
+  },
+  {
+    "id": 1617,
+    "day": "Day10_2",
+    "topic": "TOEIC-business",
+    "question": "Please read the instructions ______ before using the product.",
+    "choices": {
+      "A": "carefully",
+      "B": "exclusively",
+      "C": "benefit",
+      "D": "offer"
+    },
+    "answer": "A",
+    "explanation": "【翻譯】請在使用產品前仔細閱讀說明。\n【為何選 A】carefully 表示仔細地。\n【排除】exclusively 是專門地。"
+  },
+  {
+    "id": 1618,
+    "day": "Day10_2",
+    "topic": "TOEIC-business",
+    "question": "The company will ______ a discount for early buyers.",
+    "choices": {
+      "A": "benefit",
+      "B": "offer",
+      "C": "receipt",
+      "D": "delivery"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】公司將為早期購買者提供折扣。\n【為何選 B】offer 表示提供。\n【排除】benefit 是名詞。"
+  },
+  {
+    "id": 1619,
+    "day": "Day10_2",
+    "topic": "TOEIC-business",
+    "question": "Employees enjoy many ______, including health insurance.",
+    "choices": {
+      "A": "benefits",
+      "B": "receipts",
+      "C": "deliveries",
+      "D": "subscribers"
+    },
+    "answer": "A",
+    "explanation": "【翻譯】員工享有許多福利，包括健康保險。\n【為何選 A】benefits 表示福利。\n【排除】receipt 是收據。"
+  },
+  {
+    "id": 1620,
+    "day": "Day10_2",
+    "topic": "TOEIC-business",
+    "question": "This promotion is available ______ to premium members.",
+    "choices": {
+      "A": "carefully",
+      "B": "exclusively",
+      "C": "benefit",
+      "D": "delivery"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】此促銷僅限高級會員。\n【為何選 B】exclusively 表示專門地、僅限。\n【排除】carefully 是仔細地。"
+  },
+  {
+    "id": 1621,
+    "day": "Day10_2",
+    "topic": "TOEIC-business",
+    "question": "The product ______ provides detailed specifications.",
+    "choices": {
+      "A": "offer",
+      "B": "description",
+      "C": "benefit",
+      "D": "receipt"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】產品描述提供詳細規格。\n【為何選 B】description 表示描述。\n【排除】offer 是提供。"
   }
-  
   
 ]
 
