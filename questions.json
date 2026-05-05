@@ -5388,6 +5388,146 @@
     },
     "answer": "B",
     "explanation": "【翻譯】產品描述提供詳細規格。\n【為何選 B】description 表示描述。\n【排除】offer 是提供。"
+  },
+  {
+    "id": 1622,
+    "day": "Day10_3",
+    "topic": "TOEIC-business",
+    "question": "The task is ______ simple compared to previous projects.",
+    "choices": {
+      "A": "mutually",
+      "B": "relatively",
+      "C": "acceptable",
+      "D": "clearance"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】與之前的專案相比，這項任務相對簡單。\n【為何選 B】relatively 表示相對地。\n【排除】mutually 是相互地。"
+  },
+  {
+    "id": 1623,
+    "day": "Day10_3",
+    "topic": "TOEIC-business",
+    "question": "Proper ______ is necessary before the meeting.",
+    "choices": {
+      "A": "preparation",
+      "B": "method",
+      "C": "area",
+      "D": "alter"
+    },
+    "answer": "A",
+    "explanation": "【翻譯】會議前需要充分準備。\n【為何選 A】preparation 表示準備。\n【排除】method 是方法。"
+  },
+  {
+    "id": 1624,
+    "day": "Day10_3",
+    "topic": "TOEIC-business",
+    "question": "Do you have any ______ time this afternoon?",
+    "choices": {
+      "A": "acceptable",
+      "B": "spare",
+      "C": "mutually",
+      "D": "clearance"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】你今天下午有空嗎？\n【為何選 B】spare time 表示空閒時間。\n【排除】acceptable 是可接受的。"
+  },
+  {
+    "id": 1625,
+    "day": "Day10_3",
+    "topic": "TOEIC-business",
+    "question": "This ______ is restricted to authorized personnel only.",
+    "choices": {
+      "A": "method",
+      "B": "area",
+      "C": "apply",
+      "D": "alter"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】此區域僅限授權人員進入。\n【為何選 B】area 表示區域。\n【排除】method 是方法。"
+  },
+  {
+    "id": 1626,
+    "day": "Day10_3",
+    "topic": "TOEIC-business",
+    "question": "Employees must obtain security ______ before entering the facility.",
+    "choices": {
+      "A": "acceptable",
+      "B": "clearance",
+      "C": "preparation",
+      "D": "method"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】員工必須取得安全許可才能進入設施。\n【為何選 B】clearance 表示許可。\n【排除】acceptable 是可接受的。"
+  },
+  {
+    "id": 1627,
+    "day": "Day10_3",
+    "topic": "TOEIC-business",
+    "question": "The company decided to ______ its pricing strategy.",
+    "choices": {
+      "A": "apply",
+      "B": "alter",
+      "C": "area",
+      "D": "method"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】公司決定調整定價策略。\n【為何選 B】alter 表示改變。\n【排除】apply 是應用。"
+  },
+  {
+    "id": 1628,
+    "day": "Day10_3",
+    "topic": "TOEIC-business",
+    "question": "You must ______ for the position before the deadline.",
+    "choices": {
+      "A": "alter",
+      "B": "apply",
+      "C": "method",
+      "D": "acceptable"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】你必須在截止日前申請這個職位。\n【為何選 B】apply for 是固定搭配。\n【排除】alter 是改變。"
+  },
+  {
+    "id": 1629,
+    "day": "Day10_3",
+    "topic": "TOEIC-business",
+    "question": "The agreement was ______ beneficial to both parties.",
+    "choices": {
+      "A": "relatively",
+      "B": "mutually",
+      "C": "acceptable",
+      "D": "spare"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】這項協議對雙方都有利。\n【為何選 B】mutually beneficial 是固定搭配。\n【排除】relatively 是相對地。"
+  },
+  {
+    "id": 1630,
+    "day": "Day10_3",
+    "topic": "TOEIC-business",
+    "question": "This is the most efficient ______ to complete the task.",
+    "choices": {
+      "A": "area",
+      "B": "method",
+      "C": "apply",
+      "D": "alter"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】這是完成任務最有效的方法。\n【為何選 B】method 表示方法。\n【排除】area 是區域。"
+  },
+  {
+    "id": 1631,
+    "day": "Day10_3",
+    "topic": "TOEIC-business",
+    "question": "The proposal is considered ______ by the management team.",
+    "choices": {
+      "A": "acceptable",
+      "B": "mutually",
+      "C": "clearance",
+      "D": "area"
+    },
+    "answer": "A",
+    "explanation": "【翻譯】該提案被管理團隊認為是可接受的。\n【為何選 A】acceptable 表示可接受的。\n【排除】mutually 是副詞。"
   }
   
 ]
