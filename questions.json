@@ -5528,6 +5528,146 @@
     },
     "answer": "A",
     "explanation": "【翻譯】該提案被管理團隊認為是可接受的。\n【為何選 A】acceptable 表示可接受的。\n【排除】mutually 是副詞。"
+  },
+  {
+    "id": 1632,
+    "day": "Day10_4",
+    "topic": "TOEIC-business",
+    "question": "Many customers ______ to receive faster delivery service.",
+    "choices": {
+      "A": "qualify",
+      "B": "desire",
+      "C": "redeem",
+      "D": "consume"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】許多顧客希望能獲得更快速的配送服務。\n【為何選 B】desire 表示渴望、希望。\n【排除】qualify 是符合資格。"
+  },
+  {
+    "id": 1633,
+    "day": "Day10_4",
+    "topic": "TOEIC-business",
+    "question": "This coupon is ______ for one free beverage.",
+    "choices": {
+      "A": "authentic",
+      "B": "redeemable",
+      "C": "officially",
+      "D": "valid"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】這張優惠券可兌換一杯免費飲料。\n【為何選 B】redeemable 表示可兌換的。\n【排除】valid 是有效的，但不表示可兌換。"
+  },
+  {
+    "id": 1634,
+    "day": "Day10_4",
+    "topic": "TOEIC-business",
+    "question": "The new policy was ______ announced yesterday.",
+    "choices": {
+      "A": "officially",
+      "B": "authentic",
+      "C": "redeemable",
+      "D": "consumption"
+    },
+    "answer": "A",
+    "explanation": "【翻譯】新政策於昨天正式宣布。\n【為何選 A】officially 表示正式地。\n【排除】authentic 是真實的。"
+  },
+  {
+    "id": 1635,
+    "day": "Day10_4",
+    "topic": "TOEIC-business",
+    "question": "Electricity ______ has increased this summer.",
+    "choices": {
+      "A": "fabric",
+      "B": "auction",
+      "C": "consumption",
+      "D": "vendor"
+    },
+    "answer": "C",
+    "explanation": "【翻譯】今年夏天的用電量增加了。\n【為何選 C】consumption 表示消耗量。\n【排除】vendor 是販售商。"
+  },
+  {
+    "id": 1636,
+    "day": "Day10_4",
+    "topic": "TOEIC-business",
+    "question": "Applicants must ______ for financial assistance before applying.",
+    "choices": {
+      "A": "qualify",
+      "B": "consume",
+      "C": "redeem",
+      "D": "auction"
+    },
+    "answer": "A",
+    "explanation": "【翻譯】申請者必須先符合財務補助資格。\n【為何選 A】qualify 表示符合資格。\n【排除】consume 是消耗。"
+  },
+  {
+    "id": 1637,
+    "day": "Day10_4",
+    "topic": "TOEIC-business",
+    "question": "This shirt is made from high-quality ______.",
+    "choices": {
+      "A": "fabric",
+      "B": "vendor",
+      "C": "consumption",
+      "D": "auction"
+    },
+    "answer": "A",
+    "explanation": "【翻譯】這件襯衫是由高品質布料製成。\n【為何選 A】fabric 表示布料。\n【排除】vendor 是供應商。"
+  },
+  {
+    "id": 1638,
+    "day": "Day10_4",
+    "topic": "TOEIC-business",
+    "question": "The painting will be sold at an ______ next month.",
+    "choices": {
+      "A": "vendor",
+      "B": "auction",
+      "C": "fabric",
+      "D": "qualify"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】這幅畫將於下個月拍賣。\n【為何選 B】auction 表示拍賣。\n【排除】vendor 是賣家。"
+  },
+  {
+    "id": 1639,
+    "day": "Day10_4",
+    "topic": "TOEIC-business",
+    "question": "Customers prefer products that are ______ and trustworthy.",
+    "choices": {
+      "A": "authentic",
+      "B": "redeemable",
+      "C": "officially",
+      "D": "consumption"
+    },
+    "answer": "A",
+    "explanation": "【翻譯】顧客偏好真實且值得信賴的產品。\n【為何選 A】authentic 表示真實的、正品的。\n【排除】officially 是副詞。"
+  },
+  {
+    "id": 1640,
+    "day": "Day10_4",
+    "topic": "TOEIC-business",
+    "question": "Your membership card is still ______ until next year.",
+    "choices": {
+      "A": "valid",
+      "B": "fabric",
+      "C": "vendor",
+      "D": "auction"
+    },
+    "answer": "A",
+    "explanation": "【翻譯】你的會員卡到明年之前都仍然有效。\n【為何選 A】valid 表示有效的。\n【排除】fabric 是布料。"
+  },
+  {
+    "id": 1641,
+    "day": "Day10_4",
+    "topic": "TOEIC-business",
+    "question": "The company selected a local ______ to supply office equipment.",
+    "choices": {
+      "A": "vendor",
+      "B": "auction",
+      "C": "fabric",
+      "D": "consumption"
+    },
+    "answer": "A",
+    "explanation": "【翻譯】公司選擇了一家本地供應商提供辦公設備。\n【為何選 A】vendor 表示供應商、販售商。\n【排除】auction 是拍賣。"
   }
   
 ]
