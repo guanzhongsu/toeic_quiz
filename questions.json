@@ -5668,6 +5668,146 @@
     },
     "answer": "A",
     "explanation": "【翻譯】公司選擇了一家本地供應商提供辦公設備。\n【為何選 A】vendor 表示供應商、販售商。\n【排除】auction 是拍賣。"
+  },
+  {
+    "id": 1642,
+    "day": "Day11",
+    "topic": "TOEIC-business",
+    "question": "The company conducted extensive ______ before launching the product.",
+    "choices": {
+      "A": "research",
+      "B": "feature",
+      "C": "patent",
+      "D": "inspiration"
+    },
+    "answer": "A",
+    "explanation": "【翻譯】公司在推出產品前進行了大量研究。\n【為何選 A】research 表示研究、調查。\n【排除】feature 是特色。"
+  },
+  {
+    "id": 1643,
+    "day": "Day11",
+    "topic": "TOEIC-business",
+    "question": "Engineers worked together to ______ a more efficient system.",
+    "choices": {
+      "A": "envision",
+      "B": "extend",
+      "C": "devise",
+      "D": "feature"
+    },
+    "answer": "C",
+    "explanation": "【翻譯】工程師共同設計出一套更有效率的系統。\n【為何選 C】devise 表示設計、發明。\n【排除】extend 是延伸。"
+  },
+  {
+    "id": 1644,
+    "day": "Day11",
+    "topic": "TOEIC-business",
+    "question": "The company introduced a ______ technology that changed the market.",
+    "choices": {
+      "A": "innovative",
+      "B": "sufficient",
+      "C": "revolutionary",
+      "D": "extended"
+    },
+    "answer": "C",
+    "explanation": "【翻譯】公司推出了一項改變市場的革命性技術。\n【為何選 C】revolutionary 表示革命性的。\n【排除】innovative 偏創新的，但程度較弱。"
+  },
+  {
+    "id": 1645,
+    "day": "Day11",
+    "topic": "TOEIC-business",
+    "question": "The design team proposed several ______ ideas for the campaign.",
+    "choices": {
+      "A": "research",
+      "B": "innovative",
+      "C": "patent",
+      "D": "extend"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】設計團隊為該活動提出數個創新想法。\n【為何選 B】innovative 表示創新的。\n【排除】patent 是專利。"
+  },
+  {
+    "id": 1646,
+    "day": "Day11",
+    "topic": "TOEIC-business",
+    "question": "One important ______ of the software is automatic backup.",
+    "choices": {
+      "A": "research",
+      "B": "feature",
+      "C": "inspiration",
+      "D": "patent"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】該軟體的一項重要功能是自動備份。\n【為何選 B】feature 表示特色或功能。\n【排除】research 是研究。"
+  },
+  {
+    "id": 1647,
+    "day": "Day11",
+    "topic": "TOEIC-business",
+    "question": "The artist found ______ in nature and modern architecture.",
+    "choices": {
+      "A": "inspiration",
+      "B": "feature",
+      "C": "research",
+      "D": "patent"
+    },
+    "answer": "A",
+    "explanation": "【翻譯】這位藝術家從大自然與現代建築中獲得靈感。\n【為何選 A】inspiration 表示靈感。\n【排除】feature 是特色。"
+  },
+  {
+    "id": 1648,
+    "day": "Day11",
+    "topic": "TOEIC-business",
+    "question": "The room was not ______ large for the entire team.",
+    "choices": {
+      "A": "revolutionary",
+      "B": "sufficiently",
+      "C": "innovative",
+      "D": "extend"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】這個房間對整個團隊而言不夠大。\n【為何選 B】sufficiently 表示充分地、足夠地。\n【排除】innovative 是創新的。"
+  },
+  {
+    "id": 1649,
+    "day": "Day11",
+    "topic": "TOEIC-business",
+    "question": "The inventor applied for a ______ to protect the technology.",
+    "choices": {
+      "A": "feature",
+      "B": "patent",
+      "C": "research",
+      "D": "extend"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】發明者申請專利以保護該技術。\n【為何選 B】patent 表示專利。\n【排除】feature 是功能。"
+  },
+  {
+    "id": 1650,
+    "day": "Day11",
+    "topic": "TOEIC-business",
+    "question": "The CEO can ______ a future where the company leads the industry.",
+    "choices": {
+      "A": "envision",
+      "B": "research",
+      "C": "feature",
+      "D": "devise"
+    },
+    "answer": "A",
+    "explanation": "【翻譯】執行長能想像公司領導產業的未來。\n【為何選 A】envision 表示想像、展望。\n【排除】devise 是設計。"
+  },
+  {
+    "id": 1651,
+    "day": "Day11",
+    "topic": "TOEIC-business",
+    "question": "The company plans to ______ its services to overseas markets.",
+    "choices": {
+      "A": "patent",
+      "B": "extend",
+      "C": "research",
+      "D": "feature"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】公司計畫將服務拓展到海外市場。\n【為何選 B】extend 表示延伸、拓展。\n【排除】feature 是特色。"
   }
   
 ]
