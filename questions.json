@@ -5808,6 +5808,146 @@
     },
     "answer": "B",
     "explanation": "【翻譯】公司計畫將服務拓展到海外市場。\n【為何選 B】extend 表示延伸、拓展。\n【排除】feature 是特色。"
+  },
+  {
+    "id": 1652,
+    "day": "Day11_2",
+    "topic": "TOEIC-business",
+    "question": "Please read the instructions carefully before ______ the procedure.",
+    "choices": {
+      "A": "following",
+      "B": "upgrade",
+      "C": "grant",
+      "D": "inspect"
+    },
+    "answer": "A",
+    "explanation": "【翻譯】在遵循程序之前，請仔細閱讀說明。\n【為何選 A】following 表示遵循、依照。\n【排除】inspect 是檢查。"
+  },
+  {
+    "id": 1653,
+    "day": "Day11_2",
+    "topic": "TOEIC-business",
+    "question": "The company ______ to open a new branch next year.",
+    "choices": {
+      "A": "allows",
+      "B": "intends",
+      "C": "grants",
+      "D": "upgrades"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】公司打算明年開設新分店。\n【為何選 B】intend to 表示打算。\n【排除】allow 是允許。"
+  },
+  {
+    "id": 1654,
+    "day": "Day11_2",
+    "topic": "TOEIC-business",
+    "question": "The university decided to ______ scholarships to outstanding students.",
+    "choices": {
+      "A": "inspect",
+      "B": "improve",
+      "C": "grant",
+      "D": "invest"
+    },
+    "answer": "C",
+    "explanation": "【翻譯】大學決定頒發獎學金給優秀學生。\n【為何選 C】grant 表示授予。\n【排除】invest 是投資。"
+  },
+  {
+    "id": 1655,
+    "day": "Day11_2",
+    "topic": "TOEIC-business",
+    "question": "Employees are not ______ to use personal phones during meetings.",
+    "choices": {
+      "A": "following",
+      "B": "allowed",
+      "C": "granted",
+      "D": "upgraded"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】員工在會議期間不被允許使用私人手機。\n【為何選 B】be allowed to 是固定搭配。\n【排除】granted 不適合此句型。"
+  },
+  {
+    "id": 1656,
+    "day": "Day11_2",
+    "topic": "TOEIC-business",
+    "question": "The manager will ______ the factory next week.",
+    "choices": {
+      "A": "inspect",
+      "B": "upgrade",
+      "C": "intend",
+      "D": "following"
+    },
+    "answer": "A",
+    "explanation": "【翻譯】經理下週將視察工廠。\n【為何選 A】inspect 表示檢查、視察。\n【排除】upgrade 是升級。"
+  },
+  {
+    "id": 1657,
+    "day": "Day11_2",
+    "topic": "TOEIC-business",
+    "question": "The company is working hard to ______ customer satisfaction.",
+    "choices": {
+      "A": "invest",
+      "B": "improve",
+      "C": "grant",
+      "D": "allow"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】公司正努力提升顧客滿意度。\n【為何選 B】improve 表示改善、提升。\n【排除】invest 是投資。"
+  },
+  {
+    "id": 1658,
+    "day": "Day11_2",
+    "topic": "TOEIC-business",
+    "question": "Customers are becoming ______ interested in eco-friendly products.",
+    "choices": {
+      "A": "various",
+      "B": "increasingly",
+      "C": "following",
+      "D": "granting"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】顧客對環保產品愈來愈感興趣。\n【為何選 B】increasingly 表示越來越。\n【排除】various 是各種的。"
+  },
+  {
+    "id": 1659,
+    "day": "Day11_2",
+    "topic": "TOEIC-business",
+    "question": "The company plans to ______ more money in research and development.",
+    "choices": {
+      "A": "invest",
+      "B": "upgrade",
+      "C": "allow",
+      "D": "inspect"
+    },
+    "answer": "A",
+    "explanation": "【翻譯】公司計畫投入更多資金於研發。\n【為何選 A】invest in 是固定搭配。\n【排除】upgrade 是升級。"
+  },
+  {
+    "id": 1660,
+    "day": "Day11_2",
+    "topic": "TOEIC-business",
+    "question": "The store sells ______ electronic devices and accessories.",
+    "choices": {
+      "A": "following",
+      "B": "various",
+      "C": "increasingly",
+      "D": "granted"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】這家商店販售各種電子設備與配件。\n【為何選 B】various 表示各種的。\n【排除】following 是接下來的。"
+  },
+  {
+    "id": 1661,
+    "day": "Day11_2",
+    "topic": "TOEIC-business",
+    "question": "The company decided to ______ its computer systems this year.",
+    "choices": {
+      "A": "invest",
+      "B": "inspect",
+      "C": "upgrade",
+      "D": "grant"
+    },
+    "answer": "C",
+    "explanation": "【翻譯】公司決定今年升級電腦系統。\n【為何選 C】upgrade 表示升級。\n【排除】grant 是授予。"
   }
   
 ]
