@@ -5948,6 +5948,146 @@
     },
     "answer": "C",
     "explanation": "【翻譯】公司決定今年升級電腦系統。\n【為何選 C】upgrade 表示升級。\n【排除】grant 是授予。"
+  },
+   {
+    "id": 1662,
+    "day": "Day11_3",
+    "topic": "TOEIC-business",
+    "question": "Please read the user ______ before operating the machine.",
+    "choices": {
+      "A": "response",
+      "B": "manual",
+      "C": "appearance",
+      "D": "advance"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】在操作機器前，請閱讀使用手冊。\n【為何選 B】manual 表示手冊。\n【排除】response 是回應。"
+  },
+  {
+    "id": 1663,
+    "day": "Day11_3",
+    "topic": "TOEIC-business",
+    "question": "The company plans to ______ new business opportunities overseas.",
+    "choices": {
+      "A": "hold",
+      "B": "explore",
+      "C": "advance",
+      "D": "respond"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】公司計畫探索海外的新商機。\n【為何選 B】explore 表示探索。\n【排除】hold 是舉行或持有。"
+  },
+  {
+    "id": 1664,
+    "day": "Day11_3",
+    "topic": "TOEIC-business",
+    "question": "We received a positive ______ from our customers.",
+    "choices": {
+      "A": "manual",
+      "B": "appearance",
+      "C": "response",
+      "D": "quality"
+    },
+    "answer": "C",
+    "explanation": "【翻譯】我們收到顧客正面的回應。\n【為何選 C】response 表示回應。\n【排除】appearance 是外觀。"
+  },
+  {
+    "id": 1665,
+    "day": "Day11_3",
+    "topic": "TOEIC-business",
+    "question": "The product’s modern ______ attracted many young consumers.",
+    "choices": {
+      "A": "appearance",
+      "B": "manual",
+      "C": "response",
+      "D": "advance"
+    },
+    "answer": "A",
+    "explanation": "【翻譯】該產品現代化的外觀吸引了許多年輕消費者。\n【為何選 A】appearance 表示外觀。\n【排除】response 是回應。"
+  },
+  {
+    "id": 1666,
+    "day": "Day11_3",
+    "topic": "TOEIC-business",
+    "question": "The campaign was highly ______ and increased sales significantly.",
+    "choices": {
+      "A": "domestic",
+      "B": "successful",
+      "C": "reliable",
+      "D": "manual"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】該行銷活動非常成功，並大幅提升銷售。\n【為何選 B】successful 表示成功的。\n【排除】domestic 是國內的。"
+  },
+  {
+    "id": 1667,
+    "day": "Day11_3",
+    "topic": "TOEIC-business",
+    "question": "The company will ______ a meeting next Friday.",
+    "choices": {
+      "A": "hold",
+      "B": "advance",
+      "C": "explore",
+      "D": "respond"
+    },
+    "answer": "A",
+    "explanation": "【翻譯】公司將於下週五舉行會議。\n【為何選 A】hold a meeting 是固定搭配。\n【排除】advance 是前進。"
+  },
+  {
+    "id": 1668,
+    "day": "Day11_3",
+    "topic": "TOEIC-business",
+    "question": "Technology continues to ______ rapidly in recent years.",
+    "choices": {
+      "A": "respond",
+      "B": "hold",
+      "C": "advance",
+      "D": "manual"
+    },
+    "answer": "C",
+    "explanation": "【翻譯】近年來科技持續快速進步。\n【為何選 C】advance 表示進步、發展。\n【排除】hold 是持有。"
+  },
+  {
+    "id": 1669,
+    "day": "Day11_3",
+    "topic": "TOEIC-business",
+    "question": "Customers prefer products from ______ brands.",
+    "choices": {
+      "A": "reliable",
+      "B": "successful",
+      "C": "domestic",
+      "D": "appearance"
+    },
+    "answer": "A",
+    "explanation": "【翻譯】顧客偏好來自可靠品牌的產品。\n【為何選 A】reliable 表示可靠的。\n【排除】domestic 是國內的。"
+  },
+  {
+    "id": 1670,
+    "day": "Day11_3",
+    "topic": "TOEIC-business",
+    "question": "The company is known for its high product ______.",
+    "choices": {
+      "A": "response",
+      "B": "quality",
+      "C": "advance",
+      "D": "manual"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】該公司以高產品品質聞名。\n【為何選 B】quality 表示品質。\n【排除】response 是回應。"
+  },
+  {
+    "id": 1671,
+    "day": "Day11_3",
+    "topic": "TOEIC-business",
+    "question": "The company focuses mainly on the ______ market.",
+    "choices": {
+      "A": "successful",
+      "B": "reliable",
+      "C": "domestic",
+      "D": "appearance"
+    },
+    "answer": "C",
+    "explanation": "【翻譯】公司主要專注於國內市場。\n【為何選 C】domestic 表示國內的。\n【排除】reliable 是可靠的。"
   }
   
 ]
