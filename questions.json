@@ -6088,7 +6088,148 @@
     },
     "answer": "C",
     "explanation": "【翻譯】公司主要專注於國內市場。\n【為何選 C】domestic 表示國內的。\n【排除】reliable 是可靠的。"
+  },
+   {
+    "id": 1672,
+    "day": "Day11_4",
+    "topic": "TOEIC-business",
+    "question": "The company invested heavily in product ______ last year.",
+    "choices": {
+      "A": "development",
+      "B": "availability",
+      "C": "inquiry",
+      "D": "manufacturer"
+    },
+    "answer": "A",
+    "explanation": "【翻譯】公司去年大量投資於產品開發。\n【為何選 A】development 表示開發。\n【排除】availability 是可取得性。"
+  },
+  {
+    "id": 1673,
+    "day": "Day11_4",
+    "topic": "TOEIC-business",
+    "question": "Please check the ______ of the product before ordering.",
+    "choices": {
+      "A": "update",
+      "B": "availability",
+      "C": "accurate",
+      "D": "compatible"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】下單前請確認產品是否有貨。\n【為何選 B】availability 表示可取得性、供貨狀況。\n【排除】update 是更新。"
+  },
+  {
+    "id": 1674,
+    "day": "Day11_4",
+    "topic": "TOEIC-business",
+    "question": "The software requires a security ______ before installation.",
+    "choices": {
+      "A": "update",
+      "B": "inquiry",
+      "C": "development",
+      "D": "manufacturer"
+    },
+    "answer": "A",
+    "explanation": "【翻譯】該軟體在安裝前需要安全更新。\n【為何選 A】update 表示更新。\n【排除】inquiry 是詢問。"
+  },
+  {
+    "id": 1675,
+    "day": "Day11_4",
+    "topic": "TOEIC-business",
+    "question": "Please provide ______ information on the application form.",
+    "choices": {
+      "A": "complicated",
+      "B": "accurate",
+      "C": "compatible",
+      "D": "accomplished"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】請在申請表上提供正確資訊。\n【為何選 B】accurate 表示正確的。\n【排除】complicated 是複雜的。"
+  },
+  {
+    "id": 1676,
+    "day": "Day11_4",
+    "topic": "TOEIC-business",
+    "question": "The procedure seems too ______ for new employees.",
+    "choices": {
+      "A": "accomplished",
+      "B": "accurate",
+      "C": "complicated",
+      "D": "compatible"
+    },
+    "answer": "C",
+    "explanation": "【翻譯】這項流程對新員工而言似乎太複雜。\n【為何選 C】complicated 表示複雜的。\n【排除】accurate 是準確的。"
+  },
+  {
+    "id": 1677,
+    "day": "Day11_4",
+    "topic": "TOEIC-business",
+    "question": "She is an ______ engineer with many years of experience.",
+    "choices": {
+      "A": "accomplished",
+      "B": "compatible",
+      "C": "accurate",
+      "D": "development"
+    },
+    "answer": "A",
+    "explanation": "【翻譯】她是一位經驗豐富且成就卓越的工程師。\n【為何選 A】accomplished 表示技藝高超的、有成就的。\n【排除】compatible 是相容的。"
+  },
+  {
+    "id": 1678,
+    "day": "Day11_4",
+    "topic": "TOEIC-business",
+    "question": "We received an ______ about shipping costs yesterday.",
+    "choices": {
+      "A": "development",
+      "B": "manufacturer",
+      "C": "inquiry",
+      "D": "indication"
+    },
+    "answer": "C",
+    "explanation": "【翻譯】我們昨天收到一則有關運費的詢問。\n【為何選 C】inquiry 表示詢問。\n【排除】indication 是跡象。"
+  },
+  {
+    "id": 1679,
+    "day": "Day11_4",
+    "topic": "TOEIC-business",
+    "question": "There are clear ______ that sales will continue to rise.",
+    "choices": {
+      "A": "updates",
+      "B": "indications",
+      "C": "manufacturers",
+      "D": "developments"
+    },
+    "answer": "B",
+    "explanation": "【翻譯】有明顯跡象顯示銷售將持續成長。\n【為何選 B】indication 表示跡象。\n【排除】update 是更新。"
+  },
+  {
+    "id": 1680,
+    "day": "Day11_4",
+    "topic": "TOEIC-business",
+    "question": "The ______ recalled several defective products.",
+    "choices": {
+      "A": "manufacturer",
+      "B": "development",
+      "C": "inquiry",
+      "D": "availability"
+    },
+    "answer": "A",
+    "explanation": "【翻譯】製造商召回數項瑕疵產品。\n【為何選 A】manufacturer 表示製造商。\n【排除】development 是開發。"
+  },
+  {
+    "id": 1681,
+    "day": "Day11_4",
+    "topic": "TOEIC-business",
+    "question": "This software is fully ______ with Windows systems.",
+    "choices": {
+      "A": "complicated",
+      "B": "accomplished",
+      "C": "compatible",
+      "D": "accurate"
+    },
+    "answer": "C",
+    "explanation": "【翻譯】此軟體完全相容於 Windows 系統。\n【為何選 C】compatible 表示相容的。\n【排除】accurate 是準確的。"
   }
+  
   
 ]
 
